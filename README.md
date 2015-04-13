@@ -13,7 +13,6 @@
 | `marcxml/`       | source `MARCXML` files                                       |
 | `dlts-aco-mods/` | files generated using `dlts_aco_marc_to_mods.xsl` stylesheet |
 | `mods-3-5/`      | files generated using `MARC21slim2MODS3-5.xsl` stylesheet    |
-|------------------|--------------------------------------------------------------|
 
 
 #### Mapping information:
