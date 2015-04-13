@@ -18,12 +18,14 @@
 #### Mapping information:
 
 To view the source assets on the ACO site, populate the following URL template:
-http://dlib.nyu.edu/aco/book/<digitization id>
 
+`http://dlib.nyu.edu/aco/book/<digitization id>`
+
+```
 digitization id        MARC 003_001
 -----------------------------------
-columbia_aco000074 --> NNC_3128238
-columbia_aco000076 --> NNC_3073605
-columbia_aco000200 --> NNC_3071251
+columbia_aco000074 --> NNC_3128238  
+columbia_aco000076 --> NNC_3073605  
+columbia_aco000200 --> NNC_3071251  
 
-
+```
