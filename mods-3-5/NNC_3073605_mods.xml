@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo altRepGroup="02" script="Latn">
+    <nonSort>al-</nonSort>
+    <title>Fann al-Islāmī</title>
+    <subTitle>tārīkhuh wa-khaṣāʼiṣuh</subTitle>
+  </titleInfo>
+  <titleInfo type="uniform">
+    <title>Arabic Collections Online</title>
+  </titleInfo>
+  <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+    <namePart>Marzūq, Muḥammad ʻAbd al-ʻAzīz.</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Columbia University</namePart>
+    <namePart>Libraries.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="rdacontent">text</genre>
+  <originInfo script="Latn" altRepGroup="03">
+    <place>
+      <placeTerm type="code" authority="marccountry">iq</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Baghdād</placeTerm>
+    </place>
+    <publisher>Maṭbaʻat Asʻad</publisher>
+    <dateIssued>1965</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <originInfo script="" altRepGroup="03">
+    <place>
+      <placeTerm type="text">بغداد :</placeTerm>
+    </place>
+    <publisher>مطبعة اسعد,</publisher>
+    <dateIssued>١٩٦٥.</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+  </language>
+  <physicalDescription>
+    <reformattingQuality>access</reformattingQuality>
+    <form authority="marccategory">electronic resource</form>
+    <form authority="marcsmd">remote</form>
+    <extent>online resource (224 pages) : illustrations</extent>
+    <form type="media" authority="rdamedia">computer</form>
+    <form type="carrier" authority="rdacarrier">online resource</form>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00" script="Latn">taʼlīf Muḥammad ʻAbd al-ʻAzīz Marzūq.</note>
+  <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+  <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+  <subject authority="lcsh">
+    <topic>Islamic art</topic>
+  </subject>
+  <subject authority="fast">
+    <topic>Islamic art</topic>
+  </subject>
+  <classification authority="lcc">N6260 .M38 1965</classification>
+  <location>
+    <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/pk0p2qbq</url>
+  </location>
+  <relatedItem type="otherFormat" displayLabel="Online version:">
+    <titleInfo>
+      <title>Fann al-Islāmī</title>
+    </titleInfo>
+    <name>
+      <namePart>Marzūq, Muḥammad ʻAbd al-ʻAzīz.</namePart>
+    </name>
+    <originInfo>
+      <publisher>Baghdād : Maṭbaʻat Asʻad, 1965</publisher>
+    </originInfo>
+    <identifier type="local">(OCoLC)569253628</identifier>
+  </relatedItem>
+  <relatedItem type="otherFormat" displayLabel="Print version:">
+    <titleInfo>
+      <title>al-Fann al-Islāmī</title>
+    </titleInfo>
+    <name>
+      <namePart>Marzūq, Muḥammad ʻAbd al-ʻAzīz.</namePart>
+    </name>
+    <identifier type="local">(NNC)3073605</identifier>
+    <identifier type="local">(OCoLC)23482396</identifier>
+  </relatedItem>
+  <name type="personal" usage="primary" altRepGroup="01" script="">
+    <namePart>مرزوق، محمد عبد العزيز.</namePart>
+  </name>
+  <titleInfo altRepGroup="02" script="">
+    <title>ن الإسلامي</title>
+    <subTitle>تاريخه و خصائصه</subTitle>
+  </titleInfo>
+  <note type="statement of responsibility" altRepGroup="00" script="">تأليف محمد عبد العزيز مرزوق.</note>
+  <recordInfo>
+    <descriptionStandard>rda</descriptionStandard>
+    <recordContentSource authority="marcorg">NNU</recordContentSource>
+    <recordCreationDate encoding="marc">150110</recordCreationDate>
+    <recordIdentifier source="NNC">3073605</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>
