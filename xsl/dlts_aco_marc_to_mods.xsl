@@ -3827,7 +3827,7 @@
 					<title>
 						<xsl:choose>
 							<xsl:when test="@tag = '880'">
-								<xsl:value-of select="substring-before(marc:subfield[@code='a'],'/')"/>
+								<xsl:value-of select="marc:subfield[@code='a']"/>
 							</xsl:when>
 							<xsl:otherwise>
 								<xsl:value-of select="substring($titleChop,@ind2+1)"/>
@@ -3840,7 +3840,7 @@
 					<title>
 						<xsl:choose>
 							<xsl:when test="@tag = '880'">
-								<xsl:value-of select="substring-before(marc:subfield[@code='a'],'/')"/>
+								<xsl:value-of select="marc:subfield[@code='a']"/>
 							</xsl:when>
 							<xsl:otherwise>
 								<xsl:value-of select="$titleChop"/>
