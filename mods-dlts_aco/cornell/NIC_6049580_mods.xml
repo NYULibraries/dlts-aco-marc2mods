@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Mashūf al-muʻlam fī tartīb al-Iṣlāḥ ʻalá ḥurūf al-muʻjam</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Iṣlāḥ al-manṭiq</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>ʻUkbarī, ʻAbd Allāh ibn al-Ḥusayn</namePart>
+      <namePart type="date">1143 or 1144-1219</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Sawwās, Yāsīn Muḥammad.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">globe</genre>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="fast">Dictionaries.</genre>
+   <genre authority="fast">Early works.</genre>
+   <originInfo script="Latn" altRepGroup="04">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Mamlakah al-ʻArabīyah al-Saʻūdīyah</placeTerm>
+      </place>
+      <publisher>Jāmiʻat Umm al-Qurá, Markaz al-Baḥth al-ʻIlmī wa-Iḥyāʼ al-Turāth al-Islāmī, Kullīyat al-Sharīʻah wa-al-Dirāsāt al-Islāmīyah</publisher>
+      <dateIssued>&lt;1983-&gt;</dateIssued>
+      <dateIssued encoding="marc" point="start">1900</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="04">
+      <place>
+         <placeTerm type="text">[مکة] :</placeTerm>
+      </place>
+      <publisher>جامعة أم القرى، مرکز البحث العلمي وإحياء التراث الإسلامي، کلية الشريعة والدراسات الإسلامية،</publisher>
+      <dateIssued>١٩٨٣.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (volumes &lt;1-2&gt;)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taṣnīf Abī al-Baqāʼ ʻAbd Allāh ibn al-Ḥusayn al-ʻUkbarī al-Ḥanbalī ; taḥqīq Yāsīn Muḥammad al-Sawwās.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note>Includes indexes.</note>
+   <note type="bibliography">Includes bibliographical references (v. 2, pages 1031-1041).</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <genre>Dictionaries</genre>
+      <genre>Early works to 1700</genre>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic language</topic>
+   </subject>
+   <classification authority="lcc">PJ6620 .U4 1983</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/41ns1tt8</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Mashūf al-muʻlam fī tartīb al-Iṣlāḥ ʻalá ḥurūf al-muʻjam</title>
+      </titleInfo>
+      <titleInfo type="uniform">
+         <title>Iṣlāḥ al-manṭiq</title>
+      </titleInfo>
+      <name>
+         <namePart>ʻUkbarī, ʻAbd Allāh ibn al-Ḥusayn, 1143 or 4-1219.</namePart>
+      </name>
+      <originInfo>
+         <publisher>al-Mamlakah al-ʻArabīyah al-Saʻūdīyah : Jāmiʻat Umm al-Qurá, Markaz al-Baḥth al-ʻIlmī wa-Iḥyāʼ al-Turāth al-Islāmī, Kullīyat al-Sharīʻah wa-al-Dirāsāt al-Islāmīyah, &lt;1983-&gt;</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)811869649</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Mashūf al-muʻlam fī tartīb al-Iṣlāḥ ʻalá ḥurūf al-muʻjam</title>
+      </titleInfo>
+      <name>
+         <namePart>ʻUkbarī, ʻAbd Allāh ibn al-Ḥusayn, 1143 or 1144-1219.</namePart>
+      </name>
+      <identifier type="local">(NIC)6049580</identifier>
+      <identifier type="local">(DLC)   85964085 </identifier>
+      <identifier type="local">(OCoLC)16129154</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Min al-turāth al-Islāmī (Jāmiʻat Umm al-Qurá. Markaz al-Baḥth al-ʻIlmī wa-Iḥyāʼ al-Turāth al-Islāmī) ; al-kitāb 27</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>عکبري، عبد الله بن الحسين،</namePart>
+      <namePart type="date">1143 or 1144-1219</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>إصلاح المنطق</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>المشوف المعلم في ترتيب الإصلاح على حروف المعجم /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تصنيف أبي البقاء عبد الله بن الحسين العکبري الحنبلي ؛ تحقيق ياسين محمد السواس.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="05" script="Arab">
+         <title>من التراث الإسلامي ؛ ٢٧</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>سواس، ياسين محمد.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">6049580</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

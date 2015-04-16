@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Ḥāshiyat al-Muṭawwal</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ibn al-Fannārī, Ḥasan Chalabī ibn Muḥammad Shāh</namePart>
+      <namePart type="date">1436-1481</namePart>
+   </name>
+   <name type="personal" altRepGroup="04" script="Latn">
+      <namePart>Taftāzānī, Masʻūd ibn ʻUmar</namePart>
+      <namePart type="date">1322-1389?</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="fast">Early works.</genre>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">ir</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Qum</placeTerm>
+      </place>
+      <publisher>Manshūrāt al-Sharīf al-Raḍī</publisher>
+      <dateIssued>1406 [1985 or 1986]</dateIssued>
+      <dateIssued encoding="marc">19851892</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">قم :</placeTerm>
+      </place>
+      <publisher>منشورات الشريف الرضي،</publisher>
+      <dateIssued>١٤٠٦.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (586, 8 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Ḥasan al-Chalabī.</note>
+   <note>Originally published: [Istanbul] : Maṭbaʻat Sharikat al-Ṣiḥāfīyah al-ʻUthmānīyah, 1309 [1892].</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Taftāzānī, Masʻūd ibn ʻUmar</namePart>
+         <namePart type="date">1322-1389?</namePart>
+      </name>
+      <titleInfo>
+         <title>Muṭawwal</title>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <titleInfo>
+         <title>Muṭawwal (Taftāzānī, Masʻūd ibn ʻUmar)</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Rhetoric</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic language</topic>
+      <topic>Rhetoric</topic>
+   </subject>
+   <classification authority="lcc">PJ6161.T343 I25 1985</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/m0cfxrhc</url>
+   </location>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Muṭawwal</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Taftāzānī, Masʻūd ibn ʻUmar,</namePart>
+         <namePart type="date">1322-1389?</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Ḥāshiyat al-Muṭawwal</title>
+      </titleInfo>
+      <name>
+         <namePart>Ibn al-Fannārī, Ḥasan Chalabī ibn Muḥammad Shāh, 1436-1481.</namePart>
+      </name>
+      <identifier type="local">(NNU)002070661</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>ابن الفنارى، حسن جلبي بن محمد شاه،</namePart>
+      <namePart type="date">1436-1481</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>حاشية المطول /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">حسن الجلبى.</note>
+   <name type="personal" altRepGroup="04" script="Arab">
+      <namePart>تفتازاني، مسعود بن عمر،</namePart>
+      <namePart type="date">1322-1389?</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">002070661</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

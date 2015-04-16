@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Sirfantis, amir al-adab al-Isbani</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Abū Mulham, Najīb.</namePart>
+   </name>
+   <name type="personal" altRepGroup="03" script="Latn">
+      <namePart>ʻAbbūd, Mūsá.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Arab">
+      <place>
+         <placeTerm type="code" authority="marccountry">mr</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Morocco?]</placeTerm>
+      </place>
+      <publisher>Tetuan</publisher>
+      <dateIssued>1947</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency>Annual</frequency>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (376 p.) : illus.</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">bi-qalam Najib Abu Mulham, Musa Abbud.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Cervantes Saavedra, Miguel de</namePart>
+         <namePart type="date">1547-1616</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <name type="personal">
+         <namePart>Cervantes Saavedra, Miguel de</namePart>
+         <namePart type="date">1547-1616</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/n5tb2t6m</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Sirfantis, amir al-adab al-Isbani</title>
+      </titleInfo>
+      <name>
+         <namePart>Abū Mulham, Najīb.</namePart>
+      </name>
+      <identifier type="local">(NNC)991970</identifier>
+      <identifier type="local">(OCoLC)79847372</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>أبو ملهم، نجيب.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>سرفانطيس، أمير الأدب الاسباني /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">بقلم نجيب أبو ملهم، موسى عبود.</note>
+   <name type="personal" altRepGroup="03" script="Arab">
+      <namePart>عبود، موسى.</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">991970</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

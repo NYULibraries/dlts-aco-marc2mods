@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Bahāʼ Zuhayr</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>ʻAbd al-Rāziq, Muṣṭafá</namePart>
+      <namePart type="date">1886-1947</namePart>
+   </name>
+   <name type="personal" altRepGroup="05" script="Latn">
+      <namePart>Bahāʼ al-Dīn Zuhayr ibn Muḥammad</namePart>
+      <namePart type="date">1185-1258</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="0304">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat Dār al-Kutub al-Miṣrīyah</publisher>
+      <dateIssued>1930</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0304">
+      <place>
+         <placeTerm type="text">القاهرة :</placeTerm>
+      </place>
+      <publisher>مطبعة دار الكتب المصرية،</publisher>
+      <dateIssued>1930.</dateIssued>
+      <edition>الطبعة 1.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (94 p.)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">baḥth bi-qalam Muṣṭafá ʻAbd al-Rāziq.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Bahāʼ al-Dīn Zuhayr ibn Muḥammad</namePart>
+         <namePart type="date">1185-1258</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <classification authority="lcc">PJ7755.B3 B3 1930</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/fttdz22z</url>
+   </location>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Poems</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Bahāʼ al-Dīn Zuhayr ibn Muḥammad,</namePart>
+         <namePart type="date">1185-1258</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Bahāʼ Zuhayr</title>
+      </titleInfo>
+      <name>
+         <namePart>ʻAbd al-Rāziq, Muṣṭafá, 1886-1947.</namePart>
+      </name>
+      <identifier type="local">(NNU)001680092</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>عبد الرازق، مصطفى،</namePart>
+      <namePart type="date">1886-1947</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>البهاء زهير /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">بحث بقلم مصطفى عبد الرازق.</note>
+   <name type="personal" altRepGroup="05" script="Arab">
+      <namePart>بهاء الدين زهير بن محمد،</namePart>
+      <namePart type="date">1185-1258</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001680092</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Kitāb al-Imtāʻ wa-al-muʼānasah</title>
+      <subTitle>wa-huwa majmūʻ musāmarāt fī funūn shattá ḥāḍara bihā al-wazīr Abā ʻAbd Allāh al-ʻĀriḍ fī sabʻ wa-thalāthīn laylah</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Imtāʻ wa-al-muʼānasah</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Abū Ḥayyān al-Tawḥīdī, ʻAlī ibn Muḥammad</namePart>
+      <namePart type="date">active 10th century</namePart>
+   </name>
+   <name type="personal" altRepGroup="05" script="Latn">
+      <namePart>Amīn, Aḥmad.</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Zayn, Aḥmad.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="04">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah</placeTerm>
+      </place>
+      <publisher>Lajnat al-Taʼlīf wa-al-Tarjamah wa-al-Nashr</publisher>
+      <dateIssued>1939-</dateIssued>
+      <dateIssued encoding="marc" point="start">1939</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="04">
+      <place>
+         <placeTerm type="text">القاهرة :</placeTerm>
+      </place>
+      <publisher>لجنة التأليف والترجمة والنشر،</publisher>
+      <dateIssued>١٩٣٩-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (v.)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taʼlīf Abū Ḥayyān al-Tawḥīdī ; ṣaḥḥaḥahu wa-ḍabaṭahu wa-sharaḥa gharībah Aḥmad Amīn wa-Aḥmad al-Zayn.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/kh18959k</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Kitāb al-Imtāʻ wa-al-muʼānasah</title>
+      </titleInfo>
+      <name>
+         <namePart>Abū Ḥayyān al-Tawḥīdī, ʻAlī ibn Muḥammad, active 10th century.</namePart>
+      </name>
+      <identifier type="local">(NIC)1920797</identifier>
+      <identifier type="local">(OCoLC)64024843</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>ابو حيان التوحيدي، علي بن محمد،</namePart>
+      <namePart type="date">active 10th century</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>امتاع والمؤانسة</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>كتاب الامتاع والمؤانسة :</title>
+      <subTitle>وهو مجموع مسامرات في فنون شتى حاضر بها الوزير أبا عبد الله العارض في سبع وثلاثين ليلة</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف ابو حيان التوحيدي ؛ صححه وضبطه وشرح غريبة احمد امين واحمد الزين.</note>
+   <name type="personal" altRepGroup="05" script="Arab">
+      <namePart>أمين، احمد.</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>زين، احمد.</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">1920797</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

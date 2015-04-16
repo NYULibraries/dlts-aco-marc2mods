@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-ʻ</nonSort>
+      <title>Irāq fī al-ʻaṣr al-Umawī</title>
+      <subTitle>min al-nāḥiyat al-siyāsīyah wa-al-idārīyah wa-al-ijtimāʻīyah</subTitle>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Iraq in the Umayyad period, political, social and adminisral [sic] aspects</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Rāwī, Thābit Ismāʻīl.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="fast">History.</genre>
+   <originInfo script="Latn" altRepGroup="0304">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdād</placeTerm>
+      </place>
+      <publisher>Maktabat al-Nahḍah</publisher>
+      <dateIssued>[1965]</dateIssued>
+      <dateIssued encoding="marc">1965</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0304">
+      <place>
+         <placeTerm type="text">بغداد :</placeTerm>
+      </place>
+      <publisher>مكتبة النهضة،</publisher>
+      <dateIssued>[1965]</dateIssued>
+      <edition>الطبعة 1.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (288 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">[taʼlīf] Thābit Ismāʻīl al-Rāwī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="bibliography">Includes bibliographical references (pages 281-285).</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject>
+      <geographicCode authority="marcgac">a-iq---</geographicCode>
+      <geographicCode authority="marcgac">a-sy---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Iraq</geographic>
+      <topic>History</topic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Iraq</geographic>
+   </subject>
+   <classification authority="lcc">DS76 .R35</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/ns1rnbkt</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-ʻIrāq fī al-ʻaṣr al-Umawī</title>
+      </titleInfo>
+      <name>
+         <namePart>Rāwī, Thābit Ismāʻīl.</namePart>
+      </name>
+      <identifier type="local">(NNC)3071447</identifier>
+      <identifier type="local">(DLC)ne 65002589 </identifier>
+      <identifier type="local">(OCoLC)14927796</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>راوي، ثابت إسماعيل.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>العراق في العصر الاموي :</title>
+      <subTitle>من الناحية السياسية والادارية والاجتماعية</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">[تأليف] ثابت اسماعيل الراوي.</note>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">3071447</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

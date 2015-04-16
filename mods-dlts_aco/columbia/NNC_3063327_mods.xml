@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="01" script="Latn">
+      <title>Qānūn al-waqf al-dhurrī wa-maṣādiruhu al-sharʻīyah fī Lubnān</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Lebanon</namePart>
+   </name>
+   <name type="personal" altRepGroup="03" script="Latn">
+      <namePart>Yakan, Zuhdī.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="02">
+      <place>
+         <placeTerm type="code" authority="marccountry">le</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Bayrūt</placeTerm>
+      </place>
+      <publisher>Maktabat Ṣādir</publisher>
+      <dateIssued>[1947]</dateIssued>
+      <dateIssued encoding="marc">1947</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="02">
+      <place>
+         <placeTerm type="text">بيروت :</placeTerm>
+      </place>
+      <publisher>مكتبة صادر،</publisher>
+      <dateIssued>[1947]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (83 p.)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taʼlīf Zuhdī Yeken.</note>
+   <note>"Yaḥtawī ʻalā mabāḥith al-waqf waʼan-wāʻihī al-mukhtalifah biṣūrah ʻamalīyah maʻa muqāranatihī bi-al-madhāhib al-arbaʻah al-islāmīyah watafsīl ʻamalī liqānūn al-waqf al-dhurrī."</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Charitable uses, trusts, and foundations (Islamic law)</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Charitable uses, trusts, and foundations</topic>
+      <geographic>Lebanon</geographic>
+   </subject>
+   <subject authority="fast">
+      <topic>Charitable uses, trusts, and foundations</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Charitable uses, trusts, and foundations (Islamic law)</topic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Lebanon</geographic>
+   </subject>
+   <classification authority="lcc">BP179.M8 Y15</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/k3j9kfz2</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Qānūn al-waqf al-dhurrī wa-maṣādiruhū al-sharʻīyah fī Lubnān</title>
+      </titleInfo>
+      <name>
+         <namePart>Lebanon.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Bayrūt , Maktabat Ṣādir, [1947]</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)763144657</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Qānūn al-waqf al-dhurrī wa-maṣādiruhu al-sharʻīyah fī Lubnān</title>
+      </titleInfo>
+      <name>
+         <namePart>Lebanon.</namePart>
+      </name>
+      <identifier type="local">(NNC)3063327</identifier>
+      <identifier type="local">(OCoLC)47757597</identifier>
+   </relatedItem>
+   <titleInfo altRepGroup="01" script="Arab">
+      <title>قانون الوقف الذري ومصادره الشرعية في لبنان /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف زهدي يكن.</note>
+   <name type="personal" altRepGroup="03" script="Arab">
+      <namePart>يكن، زهدي.</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">3063327</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Kitāb al-ājurrūmiyah</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="04" script="Latn"
+              displayLabel="Caption title on p. 2:">
+      <title>Ajwibah al-jalīyah fī al-uṣūl al-naḥawīyah</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Ājurrūmīyah</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Ibn Ājurrūm, Muḥammad ibn Muḥammad</namePart>
+      <namePart type="date">1273 or 1274-1323</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="05">
+      <place>
+         <placeTerm type="code" authority="marccountry">le</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Bayrūt</placeTerm>
+      </place>
+      <dateIssued>1853</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="05">
+      <place>
+         <placeTerm type="text">بيروت،</placeTerm>
+      </place>
+      <dateIssued>1853.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (53, [3] pages)</extent>
+   </physicalDescription>
+   <note>Imprint on last page.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Grammar</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic language</topic>
+      <topic>Grammar</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/n8pk0qzq</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Kitāb al-ajurrūmiyah</title>
+      </titleInfo>
+      <titleInfo type="uniform">
+         <title>Ājurrūmīyah</title>
+      </titleInfo>
+      <name>
+         <namePart>Ibn Ājurrūm, Muḥammad ibn Muḥammad, 1273 or 4-1323.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Beirut, 1853</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)654720017</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Kitāb al-ājurrūmiyah</title>
+      </titleInfo>
+      <name>
+         <namePart>Ibn Ājurrūm, Muḥammad ibn Muḥammad, 1273 or 1274-1323.</namePart>
+      </name>
+      <identifier type="local">(NNC)3233756</identifier>
+      <identifier type="local">(OCoLC)49340347</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>ابن آجروم، محمد بن محمد،</namePart>
+      <namePart type="date">1273 or 1274-1323</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>آجرومية</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>كتاب الآجرومية.</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="04" script="Arab"
+              displayLabel="Caption title on p. 2:">
+      <title>اجوبة الجلية في الاصول النحوية</title>
+   </titleInfo>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">3233756</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

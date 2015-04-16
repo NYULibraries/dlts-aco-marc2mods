@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Kitāb fīhi al-nukat al-ʻaṣrīyah fī akhbār al-wuzarāʼ al-Miṣrīyah</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>ʻOumâra du Yémen</title>
+      <subTitle>sa vie et son æuvre</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Nukat al-ʻaṣrīyah fī akhbār al-wuzarāʼ al-Miṣrīyah</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>ʻUmārah ibn ʻAlī al-Ḥakamī</namePart>
+      <namePart type="date">1120 or 1121-1174</namePart>
+   </name>
+   <name type="personal">
+      <namePart>Derenbourg, Hartwig</namePart>
+      <namePart type="date">1844-1908</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <originInfo script="Latn" altRepGroup="04">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdād</placeTerm>
+      </place>
+      <publisher>Maktabat al-Muthanná</publisher>
+      <dateIssued>[1968?]</dateIssued>
+      <dateIssued encoding="marc">19681897</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="04">
+      <place>
+         <placeTerm type="text">بغداد :</placeTerm>
+      </place>
+      <publisher>مكتبة المثنى،</publisher>
+      <dateIssued>[1968?]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (volumes)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taʼlīf Najm al-Dīn Abī Muḥammad ʻUmạrah ibn Abī al-Ḥasan al-Ḥakamī thumma al-Yamanī ; wa-fīhi qaṣāʼid min shiʻrihi wa-maqāṭīʻ min nathrih ; iʻtaná bi-taṣḥīḥihi Hartwīgh Daranburgh.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note>Reprint of v. 1 of the ed. published in Paris, 1897.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <note type="language">Arabic with preface in French.</note>
+   <subject altRepGroup="05" script="Latn" authority="lcsh">
+      <name type="personal">
+         <namePart>ʻUmārah ibn ʻAlī al-Ḥakamī</namePart>
+         <namePart type="date">1120 or 1121-1174</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <name type="personal">
+         <namePart>ʻUmārah ibn ʻAlī al-Ḥakamī</namePart>
+         <namePart type="date">1120 or 1121-1174</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <classification authority="lcc">PJ7755.U4 A6 1968</classification>
+   <classification authority="lcc">PJ7741.U55 A6 1968</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/cc2fr104</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Kitāb fīhi al-nukat al-ʻaṣrīyah fī akhbār al-wuzarāʼ al-Miṣrīyah</title>
+      </titleInfo>
+      <titleInfo type="uniform">
+         <title>Nukat al-ʻaṣrīyah fī akhbār al-wuzarāʼ al-Miṣrīyah</title>
+      </titleInfo>
+      <name>
+         <namePart>ʻUmārah ibn ʻAlī al-Ḥakamī, 1120 or 21-1174.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Baghdād : Maktabat al-Muthanná, [1968?]</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)541314976</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Kitāb fīhi al-nukat al-ʻaṣrīyah fī akhbār al-wuzarāʼ al-Miṣrīyah</title>
+      </titleInfo>
+      <name>
+         <namePart>ʻUmārah ibn ʻAlī al-Ḥakamī, 1120 or 1121-1174.</namePart>
+      </name>
+      <identifier type="local">(NNU)002818882</identifier>
+      <identifier type="local">(DLC)   76961406</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Publications de l'École des langues orientales vivantes. v. 10</title>
+         <partNumber>4. sér</partNumber>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>عمارة بن علي الحكمي،</namePart>
+      <namePart type="date">1120 or 1121-1174</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>نكت العصرية في أخبار الوزراء المصريه</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>كتاب فيه النكة العصرية في اخبار الوزراء المصرية /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف نجم الدين أبي محمد عمرة بن أبي الحسن الحكمي ثم اليمني ؛ وفيه قصائد من شعره ومقاطيع من نثره ؛ اعتنى بتصحيحه هرتويغ درنبرغ.</note>
+   <subject altRepGroup="05" script="Arab">
+      <name type="personal">
+         <namePart>عمارة بن علي الحكمي</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">002818882</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

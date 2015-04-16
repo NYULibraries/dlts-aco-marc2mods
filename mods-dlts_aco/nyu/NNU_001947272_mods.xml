@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="01" script="Latn">
+      <title>Kitāb al-hidāyah fī al-naḥw</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="02" script="Latn">
+      <title>Hidāyah fī al-naḥw</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="corporate" altRepGroup="05" script="Latn">
+      <namePart>Majmaʻ al-ʻIlmī al-Islāmī</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="0304">
+      <place>
+         <placeTerm type="code" authority="marccountry">ir</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Ṭihrān]</placeTerm>
+      </place>
+      <publisher>Al-Majmaʻ al-ʻIlmī al-Islāmī</publisher>
+      <dateIssued>1364 [1985]</dateIssued>
+      <dateIssued encoding="marc">1985</dateIssued>
+      <edition>Al-Ṭabʻah 5.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0304">
+      <place>
+         <placeTerm type="text">[طهران] :</placeTerm>
+      </place>
+      <publisher>المجمع العلمي الاسلامي،</publisher>
+      <dateIssued>1364 [1985]</dateIssued>
+      <edition>الطبعة 5.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (280 pages)</extent>
+   </physicalDescription>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Grammar</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic language</topic>
+      <topic>Grammar</topic>
+   </subject>
+   <classification authority="lcc">PJ6106 .K35 1985</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/h70rxz6x</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Kitāb al-hidāyah fī al-naḥw</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>[Tehran?] : Al-Majmaʻ al-ʻIlmī al-Islāmī, 1364 [1985]</publisher>
+         <edition>Al-Ṭabʻah 5.</edition>
+      </originInfo>
+      <identifier type="local">(OCoLC)551409453</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Kitāb al-hidāyah fī al-naḥw</title>
+      </titleInfo>
+      <identifier type="local">(NNU)001947272</identifier>
+      <identifier type="local">(DLC)   87932081</identifier>
+   </relatedItem>
+   <titleInfo altRepGroup="01" script="Arab">
+      <title>كتاب الهداية في النحو.</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="02" script="Arab">
+      <title>هداية في النحو</title>
+   </titleInfo>
+   <name type="corporate" altRepGroup="05" script="Arab">
+      <namePart>مجمع العلمي الاسلامي</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001947272</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

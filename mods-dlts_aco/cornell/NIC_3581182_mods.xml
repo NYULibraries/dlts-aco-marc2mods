@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo>
+      <title>Arabic and English</title>
+      <subTitle>an easy method of learning the English language</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart>Roth, Godfrey.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="fast">Conversation and phrase books.</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Cairo?]</placeTerm>
+      </place>
+      <dateIssued>1887-89</dateIssued>
+      <dateIssued encoding="marc" point="start">1887</dateIssued>
+      <dateIssued encoding="marc" point="end">1889</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (3 volumes in 1.)</extent>
+   </physicalDescription>
+   <note>Vol. 2: 5th ed.; v. 3: 4th ed.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>English language</topic>
+      <genre>Conversation and phrase books</genre>
+      <topic>Arabic</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>English language</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/j9kd53md</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Arabic and English</title>
+      </titleInfo>
+      <name>
+         <namePart>Roth, Godfrey.</namePart>
+      </name>
+      <originInfo>
+         <publisher>[Cairo?] 1887-89</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)841098259</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Arabic and English</title>
+      </titleInfo>
+      <name>
+         <namePart>Roth, Godfrey.</namePart>
+      </name>
+      <identifier type="local">(NIC)3581182</identifier>
+      <identifier type="local">(OCoLC)42595184</identifier>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">3581182</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

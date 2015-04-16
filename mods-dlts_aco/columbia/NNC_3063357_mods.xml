@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Talkhīs Kitāb al-nafs</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Averroës</namePart>
+      <namePart type="date">1126-1198</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Ahwānī, Aḥmad Fuʼād</namePart>
+      <namePart type="date">-1970</namePart>
+   </name>
+   <name type="personal">
+      <namePart>Aristotle.</namePart>
+   </name>
+   <name type="personal" altRepGroup="07" script="Latn">
+      <namePart>Avempace</namePart>
+      <namePart type="date">-1138 or 1139</namePart>
+   </name>
+   <name type="personal" altRepGroup="08" script="Latn">
+      <namePart>Isḥāq ibn Ḥunayn</namePart>
+      <namePart type="date">830 or 831-910 or 911</namePart>
+   </name>
+   <name type="personal" altRepGroup="09" script="Latn">
+      <namePart>Ibn Rushd, ʻAbd Allāh ibn Muḥammad</namePart>
+      <namePart type="date">active 12th century</namePart>
+   </name>
+   <name type="personal" altRepGroup="10" script="Latn">
+      <namePart>Kindī</namePart>
+      <namePart type="date">-approximately 873</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <originInfo script="Latn" altRepGroup="0304">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah</placeTerm>
+      </place>
+      <publisher>Maktabat al-Nahdat al-Miṣrīyah</publisher>
+      <dateIssued>1950</dateIssued>
+      <edition>al-Ṭabʻah al-ūlá.</edition>
+      <issuance>monographic</issuance>
+      <frequency>Annual</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0304">
+      <place>
+         <placeTerm type="text">القاهرة؛</placeTerm>
+      </place>
+      <publisher>مكتبة النهضة المصرية،</publisher>
+      <dateIssued>١٩٥٠.</dateIssued>
+      <edition>الطبعة ١.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (62, 188 p.) : ill.</extent>
+   </physicalDescription>
+   <tableOfContents altRepGroup="05" script="Latn">Risālat al-ittiṣāl / li-Ibn al-Ṣāyigh -- Kitāb al-nafs / li-Isḥāq ibn Ḥunayn -- Risālat al-ittiṣāl / li-Ibn Rushd -- Risālat al-ʻaql / li-Yaʻqūb al-Kindī.</tableOfContents>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Abī al-Walīd Ibn Rushd. </note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note>Summary in French.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Aristotle</namePart>
+      </name>
+      <titleInfo>
+         <title>De anima</title>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <titleInfo>
+         <title>De anima (Aristotle)</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Soul</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Soul</topic>
+   </subject>
+   <classification authority="lcc">B749 .T3 1950</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/2547d9pj</url>
+   </location>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>De anima</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Aristotle.</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Risālat al-ittiṣāl</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Avempace,</namePart>
+         <namePart type="date">-1138 or 1139</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Kitāb al-nafs</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Isḥāq ibn Ḥunayn,</namePart>
+         <namePart type="date">830 or 831-910 or 911</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Risālat al-ittiṣāl</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Ibn Rushd, ʻAbd Allāh ibn Muḥammad,</namePart>
+         <namePart type="date">active 12th century</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Risālat al-ʻaql</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Kindī,</namePart>
+         <namePart type="date">-approximately 873</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Talkhīs Kitāb al-nafs</title>
+      </titleInfo>
+      <name>
+         <namePart>Averroës, 1126-1198.</namePart>
+      </name>
+      <originInfo>
+         <publisher>al-Qāhirah : Maktabat al-Nahdat al-Miṣrīyah, 1950</publisher>
+         <edition>al-Ṭabʻah al-ūlá</edition>
+      </originInfo>
+      <identifier type="local">(OCoLC)551416701</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Talkhīs Kitāb al-nafs</title>
+      </titleInfo>
+      <name>
+         <namePart>Averroës, 1126-1198.</namePart>
+      </name>
+      <identifier type="local">(NNC)3063357</identifier>
+      <identifier type="local">(DLC)   58042947 </identifier>
+      <identifier type="local">(OCoLC)25172115</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>ابن رشد،</namePart>
+      <namePart type="date">1126-1198</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>تلخيص كتاب النفس /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">لأبي الوليد بن رشد. وأربع رسائل: رسالة الاتصال / لابن الصايغ، كتاب النفس / لإسحق بن حنين، رسالة الاتصال / لابن رشد، رسالة العقل / ليعقوب الكندي ؛ نشرها وحققها وقدم لها أحمد فؤاد الأهواني.</note>
+   <tableOfContents altRepGroup="05" script="Arab">رسالة الاتصال / لاابن الصايغ  كتاب النفس / لااسحاق بن حنين  رسالة الاتصال / لاابن رشد  رسالة العقل / ليعقوب الكندي.</tableOfContents>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>أهواني، أحمد فؤاد.</namePart>
+   </name>
+   <name type="personal" altRepGroup="07" script="Arab">
+      <namePart>ابن باجة،</namePart>
+      <namePart type="date">1138 or 1139</namePart>
+   </name>
+   <name type="personal" altRepGroup="08" script="Arab">
+      <namePart>اسحاق بن حنين،</namePart>
+      <namePart type="date">830 or 831-910 or 911</namePart>
+   </name>
+   <name type="personal" altRepGroup="09" script="Arab">
+      <namePart>ابن رشد، عبد الله بن محمد،</namePart>
+      <namePart type="date">active 12th century</namePart>
+   </name>
+   <name type="personal" altRepGroup="10" script="Arab">
+      <namePart>كندي،</namePart>
+      <namePart type="date">-approximately 873</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">3063357</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

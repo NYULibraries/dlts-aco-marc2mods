@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Amthāl al-sāʼirah min shiʻr al-Mutanabbī, wa-al-Rūznāmjah</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="03" script="Latn">
+      <title>Rūznāmjah</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Rūznāmajah</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Popular proverbs from al-Mutanabbi's poetry, &amp; the Memoranda</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ṣāḥib al-Ṭālqānī, Abū al-Qāsim Ismāʻīl ibn ʻAbbād</namePart>
+      <namePart type="date">936-995</namePart>
+   </name>
+   <name type="personal" altRepGroup="07" script="Latn">
+      <namePart>Mutanabbī, Abū al-Ṭayyib Aḥmad ibn al-Ḥusayn</namePart>
+      <namePart type="date">915 or 16-965</namePart>
+   </name>
+   <name type="personal" altRepGroup="08" script="Latn">
+      <namePart>Āl Yāsīn, Muḥammad Ḥasan</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="0405">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdad</placeTerm>
+      </place>
+      <publisher>Maktabat al-Nahḍah</publisher>
+      <dateIssued>1965</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency>Triennial</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0405">
+      <place>
+         <placeTerm type="text">بغداد :</placeTerm>
+      </place>
+      <publisher>مكتبة النهضة،</publisher>
+      <dateIssued>1965.</dateIssued>
+      <edition>الطبعة 1.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (124 p.) : facsims.</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Taʼlīf al-Ṣāhib Abī al-Qāsim Ismāʻīl ibn ʻAbbād ; taḥqīq Muḥammad Ḥasan Āl Yāsīn.</note>
+   <note>Cover title: Popular proverbs from al-Mutanabbi's poetry, &amp; the Memoranda, by al-Sahib ben Abbad. Edited by Muhamad Hassan Al-yasseen.</note>
+   <note>Date on cover 1966.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <classification authority="lcc">PJ7750.S26 A8 1966</classification>
+   <classification authority="lcc">PJ7750.S26 A8 1966</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/n8pk0qxg</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Amthāl al-sāʼirah min shiʻr al-Mutanabbī, wa-al-Rūznāmjah</title>
+      </titleInfo>
+      <name>
+         <namePart>Ṣāḥib al-Ṭālqānī, Abū al-Qāsim Ismāʻīl ibn ʻAbbād, 936-995 880-01</namePart>
+      </name>
+      <identifier type="local">(NNU)001685590</identifier>
+      <identifier type="local">(DLC)ne 68003288</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Nafāʻis al-makhṭūṭāt ; 4</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>صاحب الطالقاني، أبو القاسم إسماعيل بن عباد،</namePart>
+      <namePart type="date">936-995</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>الأمثال السائرة من شعر المتنبي، والروزنامجة /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف الصاحب أبي القاسم إسماعيل بن عباد ؛ تحقيق محمد حسن آل ياسين.</note>
+   <titleInfo type="alternative" altRepGroup="03" script="Arab">
+      <title>روزنامجة</title>
+   </titleInfo>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="06" script="Arab">
+         <title>نفائس المخطوطات ؛ 4</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" altRepGroup="07" script="Arab">
+      <namePart>متنبي، أبو الطيب أحمد بن الحسين.</namePart>
+   </name>
+   <name type="personal" altRepGroup="08" script="Arab">
+      <namePart>آل ياسين، محمد حسن.</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001685590</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Aḥrāsh al-madīnah</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ghīṭānī, Jamāl.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Cairo]</placeTerm>
+      </place>
+      <publisher>Akhbār al-yawm</publisher>
+      <dateIssued>1985</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency>Annual</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">[القاهرة] :</placeTerm>
+      </place>
+      <publisher>أخبار اليوم،</publisher>
+      <dateIssued>1985.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (158 pages) : illustrations</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Jamāl al-Ghīṭānī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="fast">
+      <temporal>Since 1950</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Short stories, Arabic</topic>
+      <temporal>1950-</temporal>
+   </subject>
+   <subject authority="fast">
+      <topic>Short stories, Arabic</topic>
+   </subject>
+   <classification authority="lcc">PJ7826.H5 A351 1985</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/x0k6dmt3</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Aḥrāsh al-madīnah</title>
+      </titleInfo>
+      <name>
+         <namePart>Ghīṭānī, Jamāl.</namePart>
+      </name>
+      <originInfo>
+         <publisher>[Cairo] : Akhbār al-yawm, 1985</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)551325833</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Aḥrāsh al-madīnah</title>
+      </titleInfo>
+      <name>
+         <namePart>Ghīṭānī, Jamāl.</namePart>
+      </name>
+      <identifier type="local">(NIC)1879908</identifier>
+      <identifier type="local">(OCoLC)13115487</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Kitāb al-yawm ; al-ʻadad 240</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>غيطاني، جمال.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>أحراش المدينة /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">جمال الغيطاني.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="04" script="Arab">
+         <title>كتاب اليوم ؛ العدد 240</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="isbn" invalid="yes">9771240986</identifier>
+   <identifier type="isbn" invalid="yes">9789771240983</identifier>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">1879908</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

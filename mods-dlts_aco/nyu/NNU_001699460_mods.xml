@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Muqaddimah li-dirāsat al-naqd fī al-adab al-ʻArabī</title>
+      <subTitle>wa-hiya muḥāḍarāt alqāhā bi-daʻwah min Kullīyat al-Maʻqūl wa-al-Manqūl fī Jāmiʻat Ṭihrān</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Maqdisī, Anīs</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="fast">Criticism, interpretation, etc.</genre>
+   <genre authority="fast">History.</genre>
+   <originInfo script="Latn" altRepGroup="0304">
+      <place>
+         <placeTerm type="code" authority="marccountry">ir</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Tehran]</placeTerm>
+      </place>
+      <publisher>Jāmiʻat Ṭihrān</publisher>
+      <dateIssued>1958</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0304">
+      <place>
+         <placeTerm type="text">[طهران] :</placeTerm>
+      </place>
+      <publisher>جامعة طهران،</publisher>
+      <dateIssued>1958.</dateIssued>
+      <edition>الطبعة 1.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (130 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Anīs al-Maqdisī.</note>
+   <note>In Arabic; romanized record.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="bibliography">Includes bibliographical references (pages 127-128) and indexes.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Arabic literature</topic>
+      <topic>History and criticism</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Criticism</topic>
+      <topic>History</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic literature</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Criticism</topic>
+   </subject>
+   <classification authority="lcc">PJ7507 .M36 1958</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/m63xskz9</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Muqaddimah li-dirāsat al-naqd fī al-adab al-ʻArabī</title>
+      </titleInfo>
+      <name>
+         <namePart>Maqdisī, Anīs 880-01</namePart>
+      </name>
+      <identifier type="local">(NNU)001699460</identifier>
+      <identifier type="local">(DLC)   92856163</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Publications de l'Université de Tehran ; 440</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>مقدسي، انيس.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>مقدمة لدراسة النقد في الادب العربي :</title>
+      <subTitle>وهي محاضرات القاها بدعوة من كلية المعقول والمنقول في جامعة طهران</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">انيس المقدسي.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="05" script="Arab">
+         <title>منشورات جامعة طهران ؛ رقم 440</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001699460</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="01" script="Latn">
+      <title>Muḥāḍarāt adabīyāt al-jughrāfiyā wa-al-tārīkh wa-al-lughah ʻinda al-ʻArab bi-iʻtibār ʻalāqātihā bi-Urūbbā wa-khuṣūṣan bi-Īṭāliyā</title>
+      <subTitle>wa-hiya al-arbaʻūn muḥāḍarah</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart>Guidi, Ignazio</namePart>
+      <namePart type="date">1844-1935</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="02">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah]</placeTerm>
+      </place>
+      <publisher>Majallat al-Jāmiʻah al-Miṣrīyah</publisher>
+      <dateIssued>[191-]</dateIssued>
+      <dateIssued encoding="marc">191u</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency>Semiweekly</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="02">
+      <place>
+         <placeTerm type="text">[القاهرة] :</placeTerm>
+      </place>
+      <publisher>مجلة الجامعة المصرية،</publisher>
+      <dateIssued>[191]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (2, 5, 109 pages, [1] leaf of plates) : portraits</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">allatī khaṭaba al-Sinyūr Juwaydī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/2jm640jd</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Muḥāḍarāt adabīyāt al-jughrāfiyā wa-al-tārīkh wa-al-lughah ʻinda al-ʻArab bi-iʻtibār ʻalāqātihā bi-Urūbbā wa-khuṣūṣan bi-Īṭāliyā</title>
+      </titleInfo>
+      <name>
+         <namePart>Guidi, Ignazio, 1844-1935.</namePart>
+      </name>
+      <identifier type="local">(NNC)3127226</identifier>
+      <identifier type="local">(DLC)  81960286 </identifier>
+      <identifier type="local">(OCoLC)17044816</identifier>
+   </relatedItem>
+   <titleInfo altRepGroup="01" script="Arab">
+      <title>محاضرات ادبيات الجغرافيا والتاريخ واللغة عند العرب باعتبار علاقاتها باروبا وخصوصاً بايطاليا :</title>
+      <subTitle>وهي الاربعون محاضرة</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">التي خطب السنيور جويدي.</note>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">3127226</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

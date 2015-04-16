@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Ibn ʻAbd Rabbih wa-ʻIqduh</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Ibn ʻAbd Rabbihi and his ʻiqd</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Jabbūr, Jibrāʼīl Sulaymān</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="fast">Criticism, interpretation, etc.</genre>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">le</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Bayrūt</placeTerm>
+      </place>
+      <publisher>al-Maṭbaʻah al-Kāthūlīkīyah</publisher>
+      <dateIssued>1933</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">بيروت :</placeTerm>
+      </place>
+      <publisher>المطبعة الكاثوليكية،</publisher>
+      <dateIssued>1933.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (164 p.)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">bi-qalam Jibrāʼīl Sulaymān Jabbūr.</note>
+   <note altRepGroup="04" script="Latn">"Wa-hiya risālah quddimat ilá Dāʼirat al-Durūs al-ʻArabīyah fī Kullīyat al-ʻUlūm wa-al-Ādāb bi-Jāmiʻat Bayrūt al-Amīrikīyah li-nayl shihādat ustādh fī al-ʻulūm."</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="thesis">Thesis (M.A.)--American University of Beirut, 1933.</note>
+   <note type="bibliography">Includes bibliographical references and indexes.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <note type="language">Foreword in English.</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Ibn ʻAbd Rabbih, Aḥmad ibn Muḥammad</namePart>
+         <namePart type="date">860-940</namePart>
+      </name>
+      <titleInfo>
+         <title>ʻIqd al-farīd</title>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <titleInfo>
+         <title>ʻIqd al-farīd (Ibn ʻAbd Rabbih, Aḥmad ibn Muḥammad)</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic literature</topic>
+      <topic>History and criticism</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic literature</topic>
+   </subject>
+   <classification authority="lcc">PJ7745.II5 .Z75 1933</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/pzgmsd7p</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Ibn ʻAbd Rabbih wa-ʻIqduh</title>
+      </titleInfo>
+      <name>
+         <namePart>Jabbūr, Jibrāʼīl Sulaymān 880-01</namePart>
+      </name>
+      <identifier type="local">(NNU)001701317</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>جبور، جبائيل سليمان.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>ابن عبد ربه وعقده /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">بقلم جبرائيل سليمان جبور.</note>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001701317</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

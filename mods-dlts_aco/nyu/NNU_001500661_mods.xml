@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
    <titleInfo altRepGroup="03" script="Latn">
       <title>Dīwān Aḥmad ibn Abī al-Qasim al-Khallūf al-Andalusī</title>
    </titleInfo>
@@ -9,7 +12,8 @@
    <titleInfo type="uniform">
       <title>Arabic Collections Online</title>
    </titleInfo>
-   <name type="personal" usage="primary" altRepGroup="01" script="Latn" nameTitleGroup="1">
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
       <namePart>Ibn Khallūf, Aḥmad ibn Abī al-Qāsim</namePart>
       <namePart type="date">d. 1493 or 4</namePart>
    </name>
@@ -63,7 +67,8 @@
       </name>
       <identifier type="local">(NNU)001500661</identifier>
    </relatedItem>
-   <name type="personal" usage="primary" altRepGroup="01" script="Arab" nameTitleGroup="1">
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
       <namePart>ابن الخلوف، أحمد بن أبي القسم.</namePart>
    </name>
    <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">

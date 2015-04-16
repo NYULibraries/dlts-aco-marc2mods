@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Muʻjam alfāẓ al-Qurʼān al-Karīm</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="corporate" altRepGroup="01" script="Latn">
+      <namePart>Majmaʻ al-Lughah al-ʻArabīyah (Cairo, Egypt)</namePart>
+   </name>
+   <name type="personal" altRepGroup="05" script="Latn">
+      <namePart>Khūlī, Amīn.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah</placeTerm>
+      </place>
+      <publisher>al-maṭbaʻah al-Amīrīyah</publisher>
+      <dateIssued>[1953]-</dateIssued>
+      <dateIssued encoding="marc" point="start">1953</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">القاهرة :</placeTerm>
+      </place>
+      <publisher>المطبعة الأميرية،</publisher>
+      <dateIssued>١٩٥٣-</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (volumes)</extent>
+   </physicalDescription>
+   <tableOfContents altRepGroup="04" script="Latn">al-Juzʼ 1. al-hamzah -  al-thāʼ- al-Juzʼ 2. al-jīm - al-dhāl - al-Juzʼ 3. al-rāʼ -  al-sīn - al-Juzʼ 4. al-shīn - al-fāʼ, iʻdād Amīn al-Khūlī- al-Juzʼ 5. al-qāf - al-lām iʻdād Ḥamd̄ ʻAbd al-Qādir.</tableOfContents>
+   <note>Vol. 5 published by Dār al-katīb al-ʻArabī.</note>
+   <note>At head of title: Majmaʻ al-lughah al-ʻArabīyah.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <titleInfo>
+         <title>Qurʼan</title>
+      </titleInfo>
+      <genre>Glossaries, vocabularies, etc</genre>
+   </subject>
+   <classification authority="lcc">PJ6696.Z8 M3</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/70rxwgjg</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Muʻjam alfāẓ al-Qurʼān al-Karīm</title>
+      </titleInfo>
+      <name>
+         <namePart>Majmaʻ al-Lughah al-ʻArabīyah (Cairo, Egypt).</namePart>
+      </name>
+      <originInfo>
+         <publisher>al-Qāhirah al-maṭbaʻah al-Amīrīyah [1953-</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)560913246</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Muʻjam alfāẓ al-Qurʼān al-Karīm</title>
+      </titleInfo>
+      <name>
+         <namePart>Majmaʻ al-Lughah al-ʻArabīyah (Cairo, Egypt)</namePart>
+      </name>
+      <identifier type="local">(NIC)3531464</identifier>
+      <identifier type="local">(DLC)   58047899 </identifier>
+      <identifier type="local">(OCoLC)8005009</identifier>
+   </relatedItem>
+   <name type="corporate" altRepGroup="01" script="Arab">
+      <namePart>مجمع اللغة العربية (القاهرة، مصر)</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>معجم ألفاظ القرآن الكريم.</title>
+   </titleInfo>
+   <tableOfContents altRepGroup="04" script="Arab">الجزء 1. الهمزه-الثاء الجزء 2. الجيم-الذال الجزء 3. الراءالسين-الجزء 4. الشين-الفاء، اعداد امين الخولي الجزء 5. القاف-اللام اعداد حمد عبد القادر.</tableOfContents>
+   <name type="personal" altRepGroup="05" script="Arab">
+      <namePart>خولي، أمين.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">3531464</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

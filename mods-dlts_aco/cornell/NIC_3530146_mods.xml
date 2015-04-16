@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Majmūʻ ashʻār al-ʻArab</title>
+      <subTitle>wa-huwa mushtamal ʻalá dīwān Ruʼbah ibn al-ʻAjjāj wa-ʻalá abyāt mansūbah ilayhī</subTitle>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="03" script="Latn">
+      <title>Dīwān</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ruʼbah ibn al-ʻAjjāj</namePart>
+      <namePart type="date">-762?</namePart>
+   </name>
+   <name type="personal">
+      <namePart>Ahlwardt, W. (Wilhelm)</namePart>
+      <namePart type="date">1828-1909</namePart>
+      <role>
+         <roleTerm type="text">editor.</roleTerm>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="04">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdād</placeTerm>
+      </place>
+      <publisher>Maktabat al-Muthanná</publisher>
+      <dateIssued>[1968?]</dateIssued>
+      <dateIssued encoding="marc">1968</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="04">
+      <place>
+         <placeTerm type="text">بغداد :</placeTerm>
+      </place>
+      <publisher>مكتبة المثنى،</publisher>
+      <dateIssued>[1968؟]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (191, 122, cxii pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">iʻtaná bi-taṣḥīḥihi wa-tartībihi Wilyam ibn-al-Ward al-Brūsī.</note>
+   <note>Cover title.</note>
+   <note>Original title page: Der Dīwān des Reḡezdichters Rūba ben elʻAḡḡāḡ.</note>
+   <note>Reprint of the edition published in Berlin, 1903.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <classification authority="lcc">PJ7700 .R8 1968 (Orien Arab)</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/80gb5psn</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Majmūʻ ashʻār al-ʻArab</title>
+      </titleInfo>
+      <name>
+         <namePart>Ruʼbah ibn al-ʻAjjāj, -762?</namePart>
+      </name>
+      <originInfo>
+         <publisher>Baghdād : Maktabat al-Muthanná, [1968?]</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)571856460</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Majmūʻ ashʻār al-ʻArab</title>
+      </titleInfo>
+      <name>
+         <namePart>Ruʼbah ibn al-ʻAjjāj, -762?</namePart>
+      </name>
+      <identifier type="local">(NIC)3530146</identifier>
+      <identifier type="local">(DLC)   70961268 </identifier>
+      <identifier type="local">(OCoLC)23484892</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Sammlungen alter arabischer Dichter ; 3</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>رؤبة بن العجاج،</namePart>
+      <namePart type="date">-762?</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>مجموع اشعار العرب :</title>
+      <subTitle>وهو مشتمل على ديوان رؤبة بن العجاج وعلى ابيات منسوبة اليه</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">اعتنى بتصحيحهي وترتيبهي وليم بنالورد البروسي.</note>
+   <titleInfo type="alternative" altRepGroup="03" script="Arab">
+      <title>ديوان</title>
+   </titleInfo>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">3530146</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

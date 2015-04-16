@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Mudawwanah al-kubrá lil-Imām Mālik ibn Anas al-Aṣbaḥī</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Mudawwanah al-kubrá</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Saḥnūn, ʻAbd al-Salām ibn Saʻīd</namePart>
+      <namePart type="date">776 or 777-854</namePart>
+   </name>
+   <name type="personal" altRepGroup="07" script="Latn">
+      <namePart>Mālik ibn Anas</namePart>
+      <namePart type="date">-795</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="fast">Early works.</genre>
+   <originInfo script="Latn" altRepGroup="0405">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Miṣr</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat al-Saʻādah</publisher>
+      <dateIssued>1323 [1905]</dateIssued>
+      <dateIssued encoding="marc">1905</dateIssued>
+      <edition>Awwal Ṭabʻah.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0405">
+      <place>
+         <placeTerm type="text">مصر،</placeTerm>
+      </place>
+      <publisher>مطبعة السعادة،</publisher>
+      <dateIssued>1323 [1905]</dateIssued>
+      <edition>اول طبعة.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (16 volumes in 7.)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">riwāyat Saḥnūn ibn Saʻīd al-Tunūkhī ʻan ʻAbd al-Raḥmān ibn al-Qāsim al-ʻUtaqī; muqaddamāt Ibn Rashd.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject altRepGroup="06" script="Latn" authority="lcsh">
+      <name type="personal">
+         <namePart>Mālik ibn Anas</namePart>
+         <namePart type="date">-795</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <name type="personal">
+         <namePart>Mālik ibn Anas</namePart>
+         <namePart type="date">-795</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Malikites</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic law</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islam</topic>
+      <topic>Customs and practices</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Islam</topic>
+      <topic>Customs and practices</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Islamic law</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Malikites</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/2jm640z9</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Mudawwanah al-kubrá lil-Imām Mālik ibn Anas al-Aṣbaḥī</title>
+      </titleInfo>
+      <name>
+         <namePart>Saḥnūn, ʻAbd al-Salām ibn Saʻīd, 776 or 777-854.</namePart>
+      </name>
+      <identifier type="local">(NIC)1923650</identifier>
+      <identifier type="local">(OCoLC)64025134</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>سحنون، عبد السلام بن سعيد،</namePart>
+      <namePart type="date">776 or 777-854</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>مدونه الکبرى</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>مدونة الكبرى للامام مالك بن انس الاصبحي،</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">رواية سحنون بن سعيد التنوخي عن عبد الرحمن بن القاسم العتقي؛ مقدمات ابن رشد.</note>
+   <subject altRepGroup="06" script="Arab">
+      <name type="personal">
+         <namePart>مالك بن انس،</namePart>
+         <namePart type="date">-795</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <name type="personal" altRepGroup="07" script="Arab">
+      <namePart>مال بن انس،</namePart>
+      <namePart type="date">-795</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">1923650</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

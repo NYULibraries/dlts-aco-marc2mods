@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Shiʻr al-Aḥwaṣ</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="03" script="Latn">
+      <title>Shiʼar al-Ahwas al-Ansari</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Aḥwaṣ al-Anṣārī, ʻAbd Allāh ibn Muḥammad</namePart>
+      <namePart type="date">approximately 655-728 or 729</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Sāmarrāʼī, Ibrāhīm.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <originInfo script="Latn" altRepGroup="0405">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Najaf</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat al-Nuʻmān</publisher>
+      <dateIssued>1969</dateIssued>
+      <edition>[al-Ṭabʻah 2].</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0405">
+      <place>
+         <placeTerm type="text">النجف :</placeTerm>
+      </place>
+      <publisher>مطبعة النعمان،</publisher>
+      <dateIssued>1969.</dateIssued>
+      <edition>[الطبعة 2].</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (320 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Ibn Muḥammad al-Anṣārī ; jamʻ wa-taḥqīq Ibrāhīm al-Sāmarrāʼī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="bibliography">Includes bibliographical references (pages 294-308).</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <classification authority="lcc">PJ7700.A35 A6 1969</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/vq83bnd3</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Shiʻr al-Aḥwaṣ</title>
+      </titleInfo>
+      <name>
+         <namePart>Aḥwaṣ al-Anṣārī, ʻAbd Allāh ibn Muḥammad, approximately 655-728 or 9.</namePart>
+      </name>
+      <originInfo>
+         <publisher>al-Najaf : Maṭbaʻat al-Nuʻmān, 1969</publisher>
+         <edition>[al-Ṭabʻah 2].</edition>
+      </originInfo>
+      <identifier type="local">(OCoLC)583848353</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Shiʻr al-Aḥwaṣ</title>
+      </titleInfo>
+      <name>
+         <namePart>Aḥwaṣ al-Anṣārī, ʻAbd Allāh ibn Muḥammad, approximately 655-728 or 729.</namePart>
+      </name>
+      <identifier type="local">(NIC)3530726</identifier>
+      <identifier type="local">(DLC)ne 79233959 </identifier>
+      <identifier type="local">(OCoLC)7579396</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>احوص الانصاري، عبد الله بن محمد،</namePart>
+      <namePart type="date">approximately 655-728 or 729</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>شعر الاحوص /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">بن محمد الانصاري ؛ جمع وتحقيق ابراهيم السامرائي.</note>
+   <titleInfo type="alternative" altRepGroup="03" script="Arab">
+      <title>شعر الأحوص الأنصاري</title>
+   </titleInfo>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>سامرائي، ابراهيم.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">3530726</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

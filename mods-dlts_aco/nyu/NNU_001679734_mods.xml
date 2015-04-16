@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Kitāb al-Afʻāl</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="03" script="Latn">
+      <title>Afʻāl</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ibn al-Qūṭīyah, Muḥammad ibn ʻUmar</namePart>
+      <namePart type="date">-977</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Fūdah, ʻAlī</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="0405">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat Miṣr</publisher>
+      <dateIssued>1952</dateIssued>
+      <edition>al-Tab'ah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0405">
+      <place>
+         <placeTerm type="text">القاهرة :</placeTerm>
+      </place>
+      <publisher>مطبعة مصر،</publisher>
+      <dateIssued>1952.</dateIssued>
+      <edition>الطبعة 1.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (5, 354 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">li-Ibn al-Qūṭiyah ; ishrāf wa-tawjīh ʻAlī Rātib ; taḥqīq ʻAlī Fūdah.</note>
+   <note>Romanized.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Verb</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic language</topic>
+      <topic>Verb</topic>
+   </subject>
+   <classification authority="lcc">PJ6141 .I3</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/nk98sh3n</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Kitāb al-afʻāl</title>
+      </titleInfo>
+      <name>
+         <namePart>Ibn al-Qūṭīyah, Muḥammad ibn ʻUmar, -977.</namePart>
+      </name>
+      <originInfo>
+         <publisher>[1952]</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)578444676</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Kitāb al-Afʻāl</title>
+      </titleInfo>
+      <name>
+         <namePart>Ibn al-Qūṭīyah, Muḥammad ibn ʻUmar, -977.</namePart>
+      </name>
+      <identifier type="local">(NNU)001679734</identifier>
+      <identifier type="local">(DLC)   60025472</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>ابن القوطية، محمد بن عمر.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>كتاب الأفعال /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">لابن القوطية ؛ إشراف وتوجيه السيد علي راتب ؛ تحقيق علي فودة.</note>
+   <titleInfo type="alternative" altRepGroup="03" script="Arab">
+      <title>أفعال</title>
+   </titleInfo>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>فودة، علي.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001679734</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

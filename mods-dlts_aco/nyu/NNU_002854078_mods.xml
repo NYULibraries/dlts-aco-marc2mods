@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Dīwān al-ʻArjī</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Diwan al-Argi</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Recueil de poeśies d'al-Argi d'après Abu-l-Fath Sheikh Uthman ibn Jinni</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>ʻArjī, ʻAbd Allāh ibn ʻUmar</namePart>
+      <namePart type="date">-approximately 738</namePart>
+   </name>
+   <name type="personal" altRepGroup="05" script="Latn">
+      <namePart>Ibn Jinnī, Abū al-Fatḥ ʻUthmān</namePart>
+      <namePart type="date">-1002</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Ṭāʼī, Khiḍr.</namePart>
+   </name>
+   <name type="personal" altRepGroup="07" script="Latn">
+      <namePart>ʻUbaydī, Rashīd</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <originInfo script="Latn" altRepGroup="0304">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdād</placeTerm>
+      </place>
+      <publisher>al-Sharikah al-Islāmīyah lil-Ṭibāʻah wa-al-Nashr</publisher>
+      <dateIssued>1956</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency>Triennial</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0304">
+      <place>
+         <placeTerm type="text">بغداد :</placeTerm>
+      </place>
+      <publisher>الشركة الإسلامية للطباعة والنشر،</publisher>
+      <dateIssued>1956.</dateIssued>
+      <edition>الطبعة 1.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (46, 213, 5 pages) : facsimiles</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">riwāyat Abī al-Fatḥ ʻUthmān ibn Jinnī ; sharaḥahu wa-ḥaqqaqahu Khiḍr al-Ṭāʼī, Rashīd al-ʻUbaydī.</note>
+   <note>Poems.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="bibliography">Includes bibliographical references (pages 211-213) and indexes.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <classification authority="lcc">PJ7700.A72 A6 1956</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/2v6wwrq3</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Dīwān al-ʻArjī</title>
+      </titleInfo>
+      <name>
+         <namePart>ʻArjī, ʻAbd Allāh ibn ʻUmar, -approximately 738.</namePart>
+      </name>
+      <identifier type="local">(NNU)002854078</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>عرجي، عبد الله بن عمر،</namePart>
+      <namePart type="date">-approximately 738</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>ديوان العرجي /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">رواية أبي الفتح عثمان بن جني ؛ شرحه وحققه خضر الطائي، رشيد العبيدي.</note>
+   <name type="personal" altRepGroup="05" script="Arab">
+      <namePart>ابن جني، أبو الفتح عثمان،</namePart>
+      <namePart type="date">-1002</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>طائي، خضر.</namePart>
+   </name>
+   <name type="personal" altRepGroup="07" script="Arab">
+      <namePart>عبيدي، رشيد.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">002854078</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

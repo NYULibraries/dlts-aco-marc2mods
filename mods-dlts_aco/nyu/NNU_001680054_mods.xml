@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Ḥakīm al-Maʻarrah</title>
+      <subTitle>Aḥmad ibn ʻAbd Allāh ibn Sulaymān al-Maʻarrī</subTitle>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Sage of al-Maʻarra</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Farrūkh, ʻUmar</namePart>
+      <namePart type="date">1906-</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="fast">Biography.</genre>
+   <originInfo script="Latn" altRepGroup="0304">
+      <place>
+         <placeTerm type="code" authority="marccountry">le</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Bayrūt</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat al-Kashshāf</publisher>
+      <dateIssued>1948</dateIssued>
+      <edition>al-Ṭabʻah 2.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0304">
+      <place>
+         <placeTerm type="text">بيروت :</placeTerm>
+      </place>
+      <publisher>مطبعة الكشاف،</publisher>
+      <dateIssued>1948.</dateIssued>
+      <edition>الطبعة 2.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (135 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taʼlīf ʻUmar Farrūkh.</note>
+   <note>Cover title: Sage of al-Maʻarra.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="bibliography">Includes bibliographical references and index.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject>
+      <geographicCode authority="marcgac">aw-----</geographicCode>
+   </subject>
+   <subject altRepGroup="06" script="Latn" authority="lcsh">
+      <name type="personal">
+         <namePart>Abū al-ʻAlāʼ al-Maʻarrī</namePart>
+         <namePart type="date">973-1057</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Poets, Arab</topic>
+      <geographic>Islamic Empire</geographic>
+      <genre>Biography</genre>
+   </subject>
+   <subject authority="fast">
+      <topic>Poets, Arab</topic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Islamic Empire</geographic>
+   </subject>
+   <classification authority="lcc">PJ7750 A25 Z65 1948</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/3n5tb4g5</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Ḥakīm al-Maʻarrah</title>
+      </titleInfo>
+      <name>
+         <namePart>Farrūkh, ʻUmar, 1906- 880-01</namePart>
+      </name>
+      <identifier type="local">(NNU)001680054</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Silsilat al-Kashshāf al-adabīyah ; 8</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>فروخ، عمر،</namePart>
+      <namePart type="date">1906-</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>حكيم المعرة :</title>
+      <subTitle>أحمد بن عبد الله بن سليمان المعري</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف عمر فروخ.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="05" script="Arab">
+         <title>سلسلة الكشاف الأدبية ؛ 8</title>
+      </titleInfo>
+   </relatedItem>
+   <subject altRepGroup="06" script="Arab" authority="lcsh">
+      <name type="personal">
+         <namePart>ابو العلاء المعري،</namePart>
+         <namePart type="date">973-1057</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001680054</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

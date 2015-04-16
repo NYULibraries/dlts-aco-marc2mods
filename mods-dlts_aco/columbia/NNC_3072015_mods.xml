@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Rusūm dār al-khilāfah</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="03" script="Latn">
+      <title>Rusūm dār al-khilāfah; the etiquette, protocol and diplomacy of the ʻAbbāsid caliphate in Baghdād</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ṣābī, Hilāl ibn al-Muḥassin</namePart>
+      <namePart type="date">970-1056</namePart>
+   </name>
+   <name type="personal" altRepGroup="05" script="Latn">
+      <namePart>ʻAwwād, Mīkhāʼīl.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="fast">History.</genre>
+   <originInfo script="Latn" altRepGroup="04">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdād</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat al-ʻĀnī</publisher>
+      <dateIssued>1964</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency>Triennial</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="04">
+      <place>
+         <placeTerm type="text">بغداد :</placeTerm>
+      </place>
+      <publisher>مطبعة العاني،</publisher>
+      <dateIssued>1964.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (206 pages) : facsimiles</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taʼlīf Abī al-Ḥusayn Hilāl ibn al-Muḥassin al-Ṣābī ; ʻuniyá bi-taḥqīqih wa-al-taʻlīq ʻalayh wa-nashrih Mikhāʼīl ʻAwwād.</note>
+   <note>Edited with a preface, notes and indices, by Mīk̲hāʼīl ʻAwād.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="bibliography">Includes bibliographical references (pages 172-188).</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject>
+      <geographicCode authority="marcgac">a-iq---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Diplomatic etiquette</topic>
+      <geographic>Iraq</geographic>
+      <topic>History</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Abbasids</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Abbasids</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Diplomatic etiquette</topic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Iraq</geographic>
+   </subject>
+   <classification authority="lcc">JX1679 .S3 1964</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/8gtht911</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Rusūm dār al-khilāfah</title>
+      </titleInfo>
+      <name>
+         <namePart>Ṣābī, Hilāl ibn al-Muḥassin, 970-1056.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Baghdād : Maṭbaʻat al-ʻĀnī, 1964</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)681096653</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Rusūm dār al-khilāfah</title>
+      </titleInfo>
+      <name>
+         <namePart>Ṣābī, Hilāl ibn al-Muḥassin, 970-1056.</namePart>
+      </name>
+      <identifier type="local">(NNC)3072015</identifier>
+      <identifier type="local">(DLC)ne 66001303 </identifier>
+      <identifier type="local">(OCoLC)30940642</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>صابي، هلال بن المحسن،</namePart>
+      <namePart type="date">970-1056</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>رسوم دار الخلافة /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف ابي الحسين هلال بن المحسن الصابي ؛ عنيى بتحقيقه والتعليق عليه ونشره مخائيل عواد.</note>
+   <titleInfo type="alternative" altRepGroup="03" script="Arab">
+      <title>رسوم دار الخلافه؛  the etiquette, protocol and diplomacy of the ʻAbbāsid caliphate in Baghdād</title>
+   </titleInfo>
+   <name type="personal" altRepGroup="05" script="Arab">
+      <namePart>عواد، ميخائيل.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">3072015</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

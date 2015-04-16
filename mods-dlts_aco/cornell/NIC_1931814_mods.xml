@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Dirāsāt fī al-ʻArabīyah wa-tārīkhihā</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ḥusayn, Muḥammad al-Khiḍr</namePart>
+      <role>
+         <roleTerm type="text">author.</roleTerm>
+      </role>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Bayṭār, Muḥammad Bahjat</namePart>
+      <role>
+         <roleTerm type="text">writer of introduction.</roleTerm>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="fast">History.</genre>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">sy</placeTerm>
+      </place>
+      <dateIssued encoding="marc">1960</dateIssued>
+      <edition>al-Ṭab'ah al-thaniyah.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (286 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">li-faḍlat al-ustadh al-akbar li-Muḥammad al-Khiḍr Ḥusayn, shīkh al-jāma'a al-Azhar wū 'adw al-mujma' al-lughawī fī al-Qāhirah wu mujma' al-'ilmy al-'arabī fī Dīmashq.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note altRepGroup="05" script="Latn">" Abḥāth al-kitāb : al-qīās fī al-lughah -- ḥayāt al-lughah -- al-istishād bi-al-ḥadīth -- al-taḍmīn -- taysīr waḍiʻ al-muṣṭalaḥāt al-ṭibiyah wa tawḥydahā -- ḥawl tabsīṭ qawāʻd al-naḥw wa al-ṣarf wa al-rad ʻalayhā -- al-imtāʻ bimā yatwaqaf taʼnīthhu ʻalá al-samāʻ."</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>History</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Linguistic analysis (Linguistics)</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic language</topic>
+   </subject>
+   <classification authority="lcc">PJ6075 .H8 1960</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/cvdncn11</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Dirāsāt fī al-ʻArabīyah wa-tārīkhihā</title>
+      </titleInfo>
+      <name>
+         <namePart>Ḥusayn, Muḥammad al-Khiḍr.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Damascus, al-Maktab al-Islāmī [1960]</publisher>
+         <edition>[al-Ṭabʻah 2.].</edition>
+      </originInfo>
+      <identifier type="local">(OCoLC)583335974</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Dirāsāt fī al-ʻArabīyah wa-tārīkhihā</title>
+      </titleInfo>
+      <name>
+         <namePart>Ḥusayn, Muḥammad al-Khiḍr, author.</namePart>
+      </name>
+      <identifier type="local">(NIC)1931814</identifier>
+      <identifier type="local">(OCoLC)18197486</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>حسين, محمد خضر</namePart>
+      <role>
+         <roleTerm type="text">author.</roleTerm>
+      </role>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>دراسات في العربية و تاريخها /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">لفضيلة الاستاذ الأكبر محمد الخضر حسين, شيخ الجامع الأزهر و عضو المجمع اللغوي في القاهرة و المجمع العلمي العربي في دمشق.</note>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>بيطار، محمد بهجة</namePart>
+      <role>
+         <roleTerm type="text">writer of introduction.</roleTerm>
+      </role>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">1931814</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

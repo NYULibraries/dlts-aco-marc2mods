@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Majmūʻah al-shiʻrīyah al-kāmilah lil-shāʻir ʻAdnān al-Rāwī, 1925-1967</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1">
+      <title>Works. 1978</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Rāwī, ʻAdnān</namePart>
+      <namePart type="date">1925-1967</namePart>
+   </name>
+   <name type="personal" altRepGroup="05" script="Latn">
+      <namePart>Jubūrī, ʻAbd Allāh.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdād</placeTerm>
+      </place>
+      <publisher>al-Jumhūrīyah al-ʻIrāqīyah, Wizārat al-Thaqāfah wa-al-Funūn</publisher>
+      <dateIssued>1978</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">بغداد :</placeTerm>
+      </place>
+      <publisher>الجمهورية العراقية، وزارة الثقافة والفنون،</publisher>
+      <dateIssued>1978.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (459 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">jamʻ wa-taḥqīq ʻAbd Allāh al-Jubūrī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <classification authority="lcc">PJ7860.A84 M35 1978</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/rfj6q7gk</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Majmūʻah al-shiʻrīyah al-kāmilah lil-shāʻir ʻAdnān al-Rāwī, 1925-1967</title>
+      </titleInfo>
+      <titleInfo type="uniform">
+         <title>Works. 1978</title>
+      </titleInfo>
+      <name>
+         <namePart>Rāwī, ʻAdnān, 1925-1967.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Baghdād : al-Jumhūrīyah al-ʻIrāqīyah, Wizārat al-Thaqāfah wa-al-Funūn, 1978</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)609458130</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Majmūʻah al-shiʻrīyah al-kāmilah lil-shāʻir ʻAdnān al-Rāwī, 1925-1967</title>
+      </titleInfo>
+      <name>
+         <namePart>Rāwī, ʻAdnān, 1925-1967.</namePart>
+      </name>
+      <identifier type="local">(NIC)1677770</identifier>
+      <identifier type="local">(OCoLC)17017909</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Silsilat dīwān al-shiʻr al-ʻArabī al-ḥadīth ; 105</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>راوي، عدنان،</namePart>
+      <namePart type="date">1925-1967</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>المجموعة الشعرية الكاملة للشاعر عدنان الراوي، 1925-1967 /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">جمع وتحقيق عبد الله الجبوري.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="04" script="Arab">
+         <title>سلسلة ديوان الشعر العربي الحديث ؛ 105</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" altRepGroup="05" script="Arab">
+      <namePart>جبوري، عبد الله.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">1677770</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

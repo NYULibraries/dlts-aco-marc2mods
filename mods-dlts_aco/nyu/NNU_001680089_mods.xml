@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Ṣāḥib ibn ʻAbbād</title>
+      <subTitle>ḥayātuhu wa-adabuhu</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Āl Yāsīn, Muḥammad Ḥasan.</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Ṣāḥib al-Ṭālqānī, Abū al-Qāsim Ismāʻīl ibn ʻAbbād</namePart>
+      <namePart type="date">936-995</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="0304">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdād</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat al-Maʻārif</publisher>
+      <dateIssued>[1957]</dateIssued>
+      <dateIssued encoding="marc">1957</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0304">
+      <place>
+         <placeTerm type="text">بغداد :</placeTerm>
+      </place>
+      <publisher>مطبعة المعارف،</publisher>
+      <dateIssued>[1957]</dateIssued>
+      <edition>الطبعة ١.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (11, 288 p.)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taʼālīf Muḥammad Ḥasan Āl Yāsīn.</note>
+   <note>Cover title: al- Sahib ibn ʻAbbad.</note>
+   <note>At head of title: Dār al-Maʻārif lil-Taʼālīf wa-al-Tarjamah wa-al-Nashr.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="swd">
+      <name type="personal">
+         <namePart>Ṣāḥib Ibn-ʻAbbād, Ismāʻīl ((aṣ-))</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Ṣāḥib al-Ṭālqānī, Abū al-Qāsim Ismāʻīl ibn ʻAbbād</namePart>
+         <namePart type="date">936-995</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <name type="personal">
+         <namePart>Ṣāḥib al-Ṭālqānī, Abū al-Qāsim Ismāʻīl ibn ʻAbbād</namePart>
+         <namePart type="date">936-995</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <classification authority="lcc">PJ7750.S26 Z6</classification>
+   <classification authority="rvk">EN 2690</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/qbzkh33k</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Ṣāḥib ibn ʻAbbād</title>
+      </titleInfo>
+      <name>
+         <namePart>Āl Yāsīn, Muḥammad Ḥasan.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Baghdād : Maṭbaʻat al-Maʻārif, [1957]</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)586047447</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Ṣāḥib ibn ʻAbbād</title>
+      </titleInfo>
+      <name>
+         <namePart>Āl Yāsīn, Muḥammad Ḥasan.</namePart>
+      </name>
+      <identifier type="local">(NNU)001680089</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Maktabat al-Ṣāḥib ibn ʻAbbād ; 1</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>آل ياسين، محمد حسن.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>الصاحب بن عباد :</title>
+      <subTitle>حياته وادبه</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف محمد آل ياسين.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="05" script="Arab">
+         <title>مكتبة الصاحب بن عباد ؛ ١</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>صاحب التالقاني، ابو القاسم اسماعيل بن عباد.</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001680089</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

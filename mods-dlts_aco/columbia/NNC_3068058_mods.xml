@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Aʻlāq al-khaṭīrah fī dhikr umarāʼ al-Shām wa-al-Jazīrah</title>
+      <subTitle>tārīkh Lubnān wa-al-Urdunn wa-Filasṭīn</subTitle>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="04" script="Latn">
+      <title>Tārīkh Lubnān wa-al-Urdunn wa-Filasṭīn</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Liban, Jordanie, Palestine</title>
+      <subTitle>topographie historique d'Ibn Šaddād</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Aʻlāq al-khaṭīrah fī dhikr umarāʼ al-Shām wa-al-Jazīrah. Selections</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Ibn Shaddād, Muḥammad ibn ʻAlī</namePart>
+      <namePart type="date">1217-1285</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Dahhān, Sāmī.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="fast">Early works.</genre>
+   <genre authority="fast">History.</genre>
+   <originInfo script="Latn" altRepGroup="05">
+      <place>
+         <placeTerm type="code" authority="marccountry">sy</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Dimashq</placeTerm>
+      </place>
+      <publisher>al-Maʻhad al-Faransī lil-Dirāsāt al-ʻArabīyah</publisher>
+      <dateIssued>1962</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency>Bimonthly</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="05">
+      <place>
+         <placeTerm type="text">دمشق :</placeTerm>
+      </place>
+      <publisher>المعهد الفرنسي للدراسات العربية،</publisher>
+      <dateIssued>١٩٦٢.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (35, 347 p., [4] leaves of plates) : facsims.</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">li-Ibn Shaddād, ʻIzz al-Dīn Abī ʻAbd Allāh Muḥammad ibn ʻAlī Ibrāhīm al-Ḥalabī ; ʻuniyá bi-nashrihi wa-taḥqīqihi wa-waḍʻ fahārisihi Sāmī al-Dahhān.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note>Date on spine: 1963.</note>
+   <note type="bibliography">Includes bibliographical references (p. 335-341) and indexes.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject>
+      <geographicCode authority="marcgac">a-le---</geographicCode>
+      <geographicCode authority="marcgac">a-jo---</geographicCode>
+      <geographicCode authority="marcgac">a-is---</geographicCode>
+   </subject>
+   <subject authority="fast">
+      <temporal>635 - 1917</temporal>
+   </subject>
+   <subject authority="fast">
+      <topic>Travel</topic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Syria</geographic>
+      <topic>Description and travel</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Lebanon</geographic>
+      <topic>Description and travel</topic>
+      <topic>Early works to 1800</topic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Jordan</geographic>
+      <topic>Description and travel</topic>
+      <topic>Early works to 1800</topic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Palestine</geographic>
+      <topic>Description and travel</topic>
+      <topic>Early works to 1800</topic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Lebanon</geographic>
+      <topic>History</topic>
+      <temporal>635-1516</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Jordan</geographic>
+      <topic>History</topic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Palestine</geographic>
+      <topic>History</topic>
+      <temporal>638-1917</temporal>
+   </subject>
+   <subject authority="fast">
+      <geographic>Jordan</geographic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Lebanon</geographic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Middle East</geographic>
+      <geographic>Palestine</geographic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Syria</geographic>
+   </subject>
+   <classification authority="lcc">DS105 .I26 1962</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/h44j11jn</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Aʻlāq al-khaṭīrah fī dhikr umarāʼ al-Shām wa-al-Jazīrah</title>
+      </titleInfo>
+      <name>
+         <namePart>Ibn Shaddād, Muḥammad ibn ʻAlī, 1217-1285.</namePart>
+      </name>
+      <identifier type="local">(NNC)3068058</identifier>
+      <identifier type="local">(OCoLC)231764883</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>ابن شداد، محمد بن علي.</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>الأعلاق الخطيرة في ذكر أمراء الشام و الجزيرة</title>
+      <partNumber>جزء ٢، قسم ٢</partNumber>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>الأعلاق الخطيرة في ذكر أمراء الشام والجزيرة :</title>
+      <subTitle>تاريخ لبنان و الأردن و فلسطين</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">لابن شداد عز الدين أبي عبد الله محمد بن ابراهيم الحلبي ؛ عني بنشره وتحقيقه ووضع فهارسه سامي الدهان.</note>
+   <titleInfo type="alternative" altRepGroup="04" script="Arab">
+      <title>تاريخ لبنان والأردن وفلسطين</title>
+   </titleInfo>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>سامي الدهان.</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">3068058</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Akhlāq ʻinda al-Ghazzālī</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Zakī Mubārak.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Cairo]</placeTerm>
+      </place>
+      <publisher>al-Maktabah al-Tijārīyah al-Kubrá</publisher>
+      <dateIssued>[1924]</dateIssued>
+      <dateIssued encoding="marc">1924</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency>Annual</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">[القاهرة] :</placeTerm>
+      </place>
+      <publisher>المكتبة التجارية الكبرى،</publisher>
+      <dateIssued>[1924]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (434 p.) : illus.</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taʼlīf Zakī Mubārak.</note>
+   <note>Originally presented as the author's thesis (Doctoral)--al-Jāmiʻah al-Miṣrīyah, 1924.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="bibliography">Includes bibliographical references (p. 434).</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Ghazzālī</namePart>
+         <namePart type="date">1058-1111</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <name type="personal">
+         <namePart>Ghazzālī</namePart>
+         <namePart type="date">1058-1111</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic ethics</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Islamic ethics</topic>
+   </subject>
+   <classification authority="lcc">B753.G34 Z35 1924</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/31zcrm42</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Akhlāq ʻinda al-Ghazzālī</title>
+      </titleInfo>
+      <name>
+         <namePart>Zakī Mubārak.</namePart>
+      </name>
+      <originInfo>
+         <publisher>[Cairo] : al-Maktabah al-Tijārīyah al-Kubrá, [1924]</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)743256072</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Akhlāq ʻinda al-Ghazzālī</title>
+      </titleInfo>
+      <name>
+         <namePart>Zakī Mubārak.</namePart>
+      </name>
+      <identifier type="local">(NNU)001677047</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>زكي مبارك.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>الأخلاق عند الغزالي /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف زكي مبارك.</note>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001677047</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

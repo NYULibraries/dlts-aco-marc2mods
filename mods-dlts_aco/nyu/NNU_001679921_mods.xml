@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Baʻth al-ummah al-ʻArabīyah wa-risālatihā ilá al-ʻālam</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Arsūzī, Zakī</namePart>
+      <namePart type="date">1900-1968</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">sy</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Sūrīyah</placeTerm>
+      </place>
+      <publisher>Dār al-Yaqẓah al-ʻArabīyah lil-Taʼlīf wa-al-Tarjamah wa-al-Nashr</publisher>
+      <dateIssued>[1954-196-?]</dateIssued>
+      <dateIssued encoding="marc" point="start">1954</dateIssued>
+      <dateIssued encoding="marc" point="end">1960</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">سورية :</placeTerm>
+      </place>
+      <publisher>دار اليقظة العربية للتأليف والترجمة والنشر،</publisher>
+      <dateIssued>[1954-196-?]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (4 v. in 1)</extent>
+   </physicalDescription>
+   <tableOfContents altRepGroup="04" script="Latn">v. 1. Risālatā al-madanīyah wa-al-thaqāfah -- v. 2. Risālatā al-madanīyah wa-al-thaqāfah -- v. 3. Risālatā al-falsafah wa-al-akhlāq -- v. 4. al-Dawlah wa-al-ummah.</tableOfContents>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Zakī al-Arsūzī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Civilization, Arab</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabism</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabism</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Civilization, Arab</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/rbnzs9bh</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Baʻth al-ummah al-ʻArabīyah wa-risālatihā ilá al-ʻālam</title>
+      </titleInfo>
+      <name>
+         <namePart>Arsūzī, Zakī, 1900-1968 880-01</namePart>
+      </name>
+      <identifier type="local">(NNU)001679921</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>ارسوزي، زكي،</namePart>
+      <namePart type="date">1900-1968</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>بعث الامة العربية ورسالتها الى العالم /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">زكي الارسوزي.</note>
+   <tableOfContents altRepGroup="04" script="Arab">ڤ. 1. رسالتا المدنية والثقافة ڤ. 2. رسالتا المدنية والثقافة ڤ. 3. رسالتا الفلسفة والاخلاق ڤ. 4. الدولة والامة.</tableOfContents>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001679921</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

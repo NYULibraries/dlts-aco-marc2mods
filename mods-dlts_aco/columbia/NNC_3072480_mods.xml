@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Hādhā Kitāb al-Zawrāʼ wa-al-taʻlīqāt ʻalayhi fī taḥqīq al-mabdaʼ wa-al-maʻād</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="04" script="Latn">
+      <title>Kitāb al-Zawrāʼ wa-al-taʻlīqāt ʻalayhi fī taḥqīq al-mabdaʼ wa-al-maʻād</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Zawrāʼ</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Dawwānī, Muḥammad ibn Asʻad</namePart>
+      <namePart type="date">1426 or 1427-1512 or 1513</namePart>
+   </name>
+   <name type="personal" altRepGroup="07" script="Latn">
+      <namePart>Dawwānī, Muḥammad ibn Asʻad</namePart>
+      <namePart type="date">1426 or 1427-1512 or 1513</namePart>
+   </name>
+   <name type="personal" altRepGroup="08" script="Latn">
+      <namePart>Suhrawardī, Yaḥyá ibn Ḥabash</namePart>
+      <namePart type="date">1152 or 3-1191</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="0506">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Kafr al-Ṭammāʻīn [al-Qāhirah]</placeTerm>
+      </place>
+      <publisher>al-Maṭbaʻah al-Ḥusaynīyah al-Miṣrīyah</publisher>
+      <dateIssued>1326 [1908]</dateIssued>
+      <dateIssued encoding="marc">1908</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0506">
+      <place>
+         <placeTerm type="text">كفر الطماعين [القاهرة] :</placeTerm>
+      </place>
+      <publisher>المطبعة الحسينية المصرية،</publisher>
+      <dateIssued>1326 [1908].</dateIssued>
+      <edition>الطبعة 1.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (48 p.)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">li-Jalāl al-Dīn al-Dawwānī.</note>
+   <note>Followed by the author's al-Ḥāshiyah ʻalá khuṭbat al-Zawrāʼ (p. 35-end).</note>
+   <note>al-Zawrāʼ is a commentary on al-Suhrawardī's Ḥikmat al-ishrāq.</note>
+   <note>Includes the text of al-Suhrawardī's Ḥikmat al-ishrāq.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Suhrawardī, Yaḥyá ibn Ḥabash</namePart>
+         <namePart type="date">1152 or 3-1191</namePart>
+      </name>
+      <titleInfo>
+         <title>Ḥikmat al-ishrāq</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Dawwānī, Muḥammad ibn Asʻad</namePart>
+         <namePart type="date">1426 or 1427-1512 or 1513</namePart>
+      </name>
+      <titleInfo>
+         <title>Zawrāʼ</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Ishrāqīyah</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sufism</topic>
+   </subject>
+   <classification authority="lcc">B753.S83 H553x 1908</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/h18933vt</url>
+   </location>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Ḥāshiyah ʻalá khuṭbat al-Zawrāʼ</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Dawwānī, Muḥammad ibn Asʻad,</namePart>
+         <namePart type="date">1426 or 1427-1512 or 1513</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Ḥikmat al-ishrāq</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Suhrawardī, Yaḥyá ibn Ḥabash,</namePart>
+         <namePart type="date">1152 or 3-1191</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Hādhā Kitāb al-Zawrāʼ wa-al-taʻlīqāt ʻalayhi fī taḥqīq al-mabdaʼ wa-al-maʻād</title>
+      </titleInfo>
+      <name>
+         <namePart>Dawwānī, Muḥammad ibn Asʻad, 1426 or 1427-1512 or 1513.</namePart>
+      </name>
+      <identifier type="local">(NNC)3072480</identifier>
+      <identifier type="local">(OCoLC)37483083</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>دواني، محمد بن اسعد،</namePart>
+      <namePart type="date">1426 1426 or 1427-1512 or 1513</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>زوراء</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>هاذا كتاب الزوراء والتعليقات عليه في تحقيق المبدأ والمعاد /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">لجلال الدين الدواني.</note>
+   <titleInfo type="alternative" altRepGroup="04" script="Arab">
+      <title>كتاب الزوراء والتعليقات عليه في تحقيق المبدأ والمعاد</title>
+   </titleInfo>
+   <name type="personal" altRepGroup="07" script="Arab">
+      <namePart>دواني، محمد بن اسعد،</namePart>
+      <namePart type="date">1426 or 1427-1512 or 1513</namePart>
+   </name>
+   <name type="personal" altRepGroup="08" script="Arab">
+      <namePart>سهروردي، يحيى بن حبش،</namePart>
+      <namePart type="date">1152 or 31191</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">3072480</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

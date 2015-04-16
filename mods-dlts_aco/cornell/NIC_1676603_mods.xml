@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="01" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Shāʻir, aw, Sīrānū dī birjirāk</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="02" script="Latn">
+      <title>Sīrānū dī birjirāk</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1">
+      <title>Cyrano de Bergerac. Arabic</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Rostand, Edmond</namePart>
+      <namePart type="date">1868-1918</namePart>
+   </name>
+   <name type="personal" altRepGroup="05" script="Latn">
+      <namePart>Manfalūṭī, Muṣṭafá Luṭfī</namePart>
+      <namePart type="date">1876?-1924</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="fast">Fiction.</genre>
+   <originInfo script="Latn" altRepGroup="0304">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Miṣr</placeTerm>
+      </place>
+      <publisher>Yuṭlabu min al-Maktabah al-Tujārīyah al-Kubrá</publisher>
+      <dateIssued>1925</dateIssued>
+      <edition>al-Ṭabʻah 3.</edition>
+      <issuance>monographic</issuance>
+      <frequency>Annual</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0304">
+      <place>
+         <placeTerm type="text">مصر :</placeTerm>
+      </place>
+      <publisher>يطلب من المكتبة التجارية الكبرى،</publisher>
+      <dateIssued>1925.</dateIssued>
+      <edition>الطبعة 3.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <language objectPart="translation">
+      <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (350 pages) : illustrations</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">bi-qalam Muṣṭafá Luṭfī al-Manfalūṭī.</note>
+   <note>"Wa haya khulāṣat al-riwāyah al-tamthīlīyah allatī wadạʻaha al-Shāʼir al-ʻaẓīm Idmūn Rustān, tashtamil ʻalá 24 rasman."</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Cyrano de Bergerac</namePart>
+         <namePart type="date">1619-1655</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+      <genre>Fiction</genre>
+   </subject>
+   <subject authority="fast">
+      <name type="personal">
+         <namePart>Cyrano de Bergerac</namePart>
+         <namePart type="date">1619-1655</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <classification authority="ddc">892.72 783</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/w3r22b97</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Shāʻir, aw, Sīrānū dī birjirāk</title>
+      </titleInfo>
+      <name>
+         <namePart>Rostand, Edmond, 1868-1918.</namePart>
+      </name>
+      <identifier type="local">(NIC)1676603</identifier>
+      <identifier type="local">(OCoLC)29723943</identifier>
+   </relatedItem>
+   <titleInfo altRepGroup="01" script="Arab">
+      <title>الشاعر، او، سيرانوا دي برجراك /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">بقلم مصطفى لطفي المنفلوطي.</note>
+   <titleInfo type="alternative" altRepGroup="02" script="Arab">
+      <title>سيرانوا دي برجراك</title>
+   </titleInfo>
+   <name type="personal" altRepGroup="05" script="Arab">
+      <namePart>منفلوطي، مصطفى لطفي،</namePart>
+      <namePart type="date">1876؟1924</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">1676603</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>
