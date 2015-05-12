@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Sharḥ Dīwān ʻUrwah ibn al-Ward al-ʻAbsī</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>ʻOrwa ben el-Ward, dîwân accompagné du commentaire d'Ibn es Sikkît</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>ʻUrwah ibn al-Ward</namePart>
+      <namePart type="date">active 6th century</namePart>
+   </name>
+   <name type="personal" altRepGroup="05" script="Latn">
+      <namePart>Ibn al-Sikkīt</namePart>
+      <namePart type="date">-857 or 858</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Ben Cheneb, Mohammed</namePart>
+      <namePart type="date">1869-1929</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">ae</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Algiers]</placeTerm>
+      </place>
+      <publisher>[Maṭbaʻat Jūl Karbūnil]</publisher>
+      <dateIssued>[1926]</dateIssued>
+      <dateIssued encoding="marc">1926</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">الجزائر :</placeTerm>
+      </place>
+      <publisher>مطبعة جول كربونل،</publisher>
+      <dateIssued>1926.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (250 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">li-Abī Yūsuf Yaʻqūb ibn Isḥāq al-Sikkīt ; iʻtaná bi-taṣḥīḥihi Ibn Abī Shanab. Wa-yalīhi jumlah mimmā lam yudhkar min shiʻrihi fī hādhā al-sharḥ.</note>
+   <note>At head of title: Fuḥūl al-ʻArab fī ʻilm al-adab.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="bibliography">Includes bibliographical references and indexes.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <classification authority="lcc">PJ7696.U7 A6 1926</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/p2ngf3qn</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Sharḥ Dīwān ʻUrwah ibn al-Ward al-ʻAbsī</title>
+      </titleInfo>
+      <name>
+         <namePart>ʻUrwah ibn al-Ward, active 6th century.</namePart>
+      </name>
+      <identifier type="local">(NNU)001686826</identifier>
+      <identifier type="local">(DLC)   73200295</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Maktabah al-ʻArabīyah (Cairo, Egypt)</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>عروة بن الورد،</namePart>
+      <namePart type="date">active 6th century</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>شرح ديوان عروة بن الورد العبسي /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">لأبي يوسف اسحاق السكيت ؛ اعتنى بتصحيحه ابن أبي شنب. ويليه جملة مما لم يذكر من شعرة في هذا الشرح.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="04" script="Arab">
+         <title>خزانة الكتب العربية</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" altRepGroup="05" script="Arab">
+      <namePart>ابن السكيت،</namePart>
+      <namePart type="date">8 or 857 .d</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>ابن أبي شنب، محمد.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001686826</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

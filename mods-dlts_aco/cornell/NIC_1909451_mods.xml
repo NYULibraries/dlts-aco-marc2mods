@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Sharḥ al-ʻallāmah al-naḥawī al-muqrī al-lughawī Abī Zayd ʻAbd al-Raḥmān ibn ʻAlī ibn Ṣāliḥ al-Makkūdī ʻalá Alfīyat ibn Mālik fī al-naḥw nafaʻa Allāh taʻālá bihimā ; wa bi-hāmishihi Ḥāshiyat al-Mallawī</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="06" script="Latn">
+      <title>Sharḥ al-Makkūdī ʻalá alfīyat Ibn Mālik</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="07" script="Latn">
+      <title>Sharḥ Abī Zayd ʻAbd al-Raṃān ibn Abī Ṣāliḥ al-Makkūdī ʻalá Alfīyat Ibn Mal̄ik fī al-Naḥw</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="08" script="Latn">
+      <title>Alfīyat ibn Mālik fī al-naḥw</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Makkūdī, ʻAbd al-Raḥmān ibn ʻAlī</namePart>
+      <namePart type="date">-1405?</namePart>
+   </name>
+   <name type="personal" altRepGroup="05" script="Latn">
+      <namePart>Mallawī, Aḥmad ibn ʻAbd al-Fattāḥ</namePart>
+      <namePart type="date">1677-1767 or 1768</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="fast">Early works.</genre>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Miṣr]</placeTerm>
+      </place>
+      <publisher>[publisher not identified]</publisher>
+      <dateIssued>[188-?]</dateIssued>
+      <dateIssued encoding="marc" point="start" qualifier="questionable">1880</dateIssued>
+      <dateIssued encoding="marc" point="end" qualifier="questionable">1890</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">[مصر] :</placeTerm>
+      </place>
+      <publisher>[publisher not identified],</publisher>
+      <dateIssued>[188؟]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (252 pages)</extent>
+   </physicalDescription>
+   <note>Spine title: Sharḥ al-Makkūdī ʻalá Alfīyat Ibn Mālik.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject altRepGroup="04" script="Latn" authority="lcsh">
+      <name type="personal">
+         <namePart>Ibn Mālik, Muḥammad ibn ʻAbd Allāh</namePart>
+         <namePart type="date">-1274</namePart>
+      </name>
+      <titleInfo>
+         <title>Alfīyah</title>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <titleInfo>
+         <title>Alfīyah (Ibn Mālik, Muḥammad ibn ʻAbd Allāh)</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Grammar</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic language</topic>
+      <topic>Grammar</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/r7sqvd2s</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Sharḥ al-ʻallāmah al-naḥawī al-muqrī al-lughawī Abī Zayd ʻAbd al-Raḥmān ibn ʻAlī ibn Ṣāliḥ al-Makkūdī ʻalá Alfīyat ibn Mālik fī al-naḥw nafaʻa Allāh taʻālá bihimā ; wa bi-hāmishihi Ḥāshiyat al-Mallawī</title>
+      </titleInfo>
+      <name>
+         <namePart>Makkūdī, ʻAbd al-Raḥmān ibn ʻAlī, -1405?</namePart>
+      </name>
+      <originInfo>
+         <publisher>[Egypt : s.n., 188-?]</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)852776228</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Sharḥ al-ʻallāmah al-naḥawī al-muqrī al-lughawī Abī Zayd ʻAbd al-Raḥmān ibn ʻAlī ibn Ṣāliḥ al-Makkūdī ʻalá Alfīyat ibn Mālik fī al-naḥw nafaʻa Allāh taʻālá bihimā ; wa bi-hāmishihi Ḥāshiyat al-Mallawī</title>
+      </titleInfo>
+      <name>
+         <namePart>Makkūdī, ʻAbd al-Raḥmān ibn ʻAlī, -1405?</namePart>
+      </name>
+      <identifier type="local">(NIC)1909451</identifier>
+      <identifier type="local">(OCoLC)64680441</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>مكودي، عبد الرحمن بن علي،</namePart>
+      <namePart type="date">-1405?</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>شرح العلامة النحوي المقري اللغوي ابي زيد عبد الرحمن بن علي بن صاله المكودي على الفية بن مال في النحو نفع الله تعالى بهما ؛ و بهامشه حاشية الملوي ...</title>
+   </titleInfo>
+   <subject altRepGroup="04" script="Arab">
+      <name type="personal">
+         <namePart>ابن مال، محمد بن عبد الله،</namePart>
+         <namePart type="date">1274-</namePart>
+      </name>
+      <titleInfo>
+         <title>الفية</title>
+      </titleInfo>
+   </subject>
+   <name type="personal" altRepGroup="05" script="Arab">
+      <namePart>ملوي، احمد بن عبد الفتاح،</namePart>
+      <namePart type="date">1677-1767 or 1768</namePart>
+   </name>
+   <titleInfo type="alternative" altRepGroup="06" script="Arab">
+      <title>شرح المكودي على الفية ابن مالك</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="07" script="Arab">
+      <title>شرح ابي زيد عبد الرمان بن ابي صالح المكودي على الفية ابن مالك في النحو</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="08" script="Arab">
+      <title>الفية بن مالك في النحو</title>
+   </titleInfo>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">1909451</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

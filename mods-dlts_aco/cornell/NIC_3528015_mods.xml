@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Kitāb al-ishtiqāq</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>ishtiqāq</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Aṣmaʻī, ʻAbd al-Malik ibn Qurayb</namePart>
+      <namePart type="date">740-approximately 828</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Āl Yāsīn, Muḥammad Ḥasan.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <originInfo script="Latn" altRepGroup="04">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdad</placeTerm>
+      </place>
+      <publisher>publisher not identified</publisher>
+      <dateIssued>1968</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency>Triennial</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="04">
+      <place>
+         <placeTerm type="text">بغداد :</placeTerm>
+      </place>
+      <publisher>مطبعة المجمع العلمي العراقي،</publisher>
+      <dateIssued>١٩٦٨.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (49 pages) : facsimiles</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Taʼlīf ʻAbd al-Malik Ibn Qurayb al-Aṣmaʻī. Taḥqīq Ḥasan ʼĀl Yāsīn.</note>
+   <note>"Mustall min al-mujallad al-sādis ʻashar min Majallat al-Majmaʻ al-ʻIlmī al-ʻIrāqī"</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Etymology</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic language</topic>
+      <topic>Etymology</topic>
+   </subject>
+   <classification authority="lcc">PJ6172 .A8 1968</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/n5tb2tmh</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Kitāb al-ishtiqāq</title>
+      </titleInfo>
+      <name>
+         <namePart>Aṣmaʻī, ʻAbd al-Malik ibn Qurayb, 740-approximately 828.</namePart>
+      </name>
+      <identifier type="local">(NIC)3528015</identifier>
+      <identifier type="local">(DLC)ne 68004064 </identifier>
+      <identifier type="local">(OCoLC)30312152</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Maṭbūʻāt al-Majmaʻ al-ʻIlmī al-ʻIrāqī</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>اصمعي، عبد الملك بن قريب،</namePart>
+      <namePart type="date">740-approximately 828</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>اشتقاق</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>کتاب الاشتقاق /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف عبد الملک بن قريب الأصمعي ؛ تحقيق محمد حسن آل ياسين.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="05" script="Arab">
+         <title>مطبوعات المجمع العلمي العراقي</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>آل ياسين، محمد حسن.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">3528015</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

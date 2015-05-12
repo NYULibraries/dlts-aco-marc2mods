@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Akhbār al-Sayyid al-Ḥimyarī</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Marzubānī, Muḥammad ibn ʻImrān</namePart>
+      <namePart type="date">909?-994?</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Amīnī, Muḥammad Hādī.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">biography</genre>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <dateIssued encoding="marc">1965</dateIssued>
+      <edition>[al-Ṭabʻah 1].</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (71 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">li-Abī ʻUbayd Allāh Muḥammad ibn ʻImrān al-Marzubānī al-Khurāsānī. Taḥqīq Muḥammad Hādī al-Amīnī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Sayyid al-Ḥimyarī, Ismāʻil ibn Muḥammad</namePart>
+         <namePart type="date">723-789</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <name type="personal">
+         <namePart>Sayyid al-Ḥimyarī, Ismāʻil ibn Muḥammad</namePart>
+         <namePart type="date">723-789</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <classification authority="lcc">PJ7741.S445 Z8 1965</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/02v6wzfz</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Akhbār al-Sayyid al-Ḥimyarī</title>
+      </titleInfo>
+      <name>
+         <namePart>Marzubānī, Muḥammad ibn ʻImrān, 909?-994?</namePart>
+      </name>
+      <originInfo>
+         <publisher>[al-Najaf] Dār al-Bāqir [1965]</publisher>
+         <edition>[al-Ṭabʻah 1].</edition>
+      </originInfo>
+      <identifier type="local">(OCoLC)648633667</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Akhbār al-Sayyid al-Ḥimyarī</title>
+      </titleInfo>
+      <name>
+         <namePart>Marzubānī, Muḥammad ibn ʻImrān, 909?-994?</namePart>
+      </name>
+      <identifier type="local">(NNU)002820598</identifier>
+      <identifier type="local">(DLC)ne 66001397</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Rasāʹil al-Marzubānī ; 1</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Marzubānī, Muḥammad ibn ʻImrān</namePart>
+         <namePart type="date">909?-994?</namePart>
+      </name>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>مرزباني، محمد بن عمران،</namePart>
+      <namePart type="date">909?-994?</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>أخبار السيد الحميري /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">لأبي عبيد الله محمد بن عمران المرزباني الخراساني ؛ تحقيق محمد هادي الأميني.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="05" script="Arab">
+         <title>رسائل المرزباني ؛ ١</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>أميني، محمد هادي.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">002820598</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

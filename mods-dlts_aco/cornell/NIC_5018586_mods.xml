@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Jamʻ al-Jawāhir fī al-mulaḥ wa-al-nawādir</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="03" script="Latn">
+      <title>Dhayl Zahr al-ādāb</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ḥuṣrī, Ibrāhīm ibn ʻAlī</namePart>
+      <namePart type="date">-1022</namePart>
+   </name>
+   <name type="personal" altRepGroup="07" script="Latn">
+      <namePart>Bajāwī, ʻAlī Muḥammad.</namePart>
+   </name>
+   <name type="personal" altRepGroup="08" script="Latn">
+      <namePart>Ḥuṣrī, Ibrāhīm ibn ʻAlī</namePart>
+      <namePart type="date">-1022</namePart>
+   </name>
+   <name type="personal">
+      <namePart>Zwettler, Michael.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Ohio State University</namePart>
+      <namePart>Department of Near Eastern Languages and Cultures.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="fast">Criticism, interpretation, etc.</genre>
+   <genre authority="fast">Early works.</genre>
+   <originInfo script="Latn" altRepGroup="0405">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Cairo]</placeTerm>
+      </place>
+      <publisher>Dār Iḥyāʼ al-Kutub al-ʻArabīyah, ʻĪsá al-Bābī al-Ḥalabī</publisher>
+      <dateIssued>1372 [1953]</dateIssued>
+      <dateIssued encoding="marc">1953</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0405">
+      <place>
+         <placeTerm type="text">[Cairo] :</placeTerm>
+      </place>
+      <publisher>دار احياء الكتب العربية، عيسى البابي الحلبي،</publisher>
+      <dateIssued>1372 [1953]</dateIssued>
+      <edition>‏الطبعة 1.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (403 p.)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">li-Abī Isḥāq Ibrāhīm ibn ʻAlī al-Ḥuṣrī al-Qayrawānī ; ḥaqqaqahu wa-ḍabaṭahu wa-faḍḍal abwābahu, wa-waḍaʻa fahārisahu ʻAlī Muḥammad al-Bajjāwī.</note>
+   <note altRepGroup="06" script="Latn">"Wa-huwa alladhī ṭubiʻa qabl bi-ism Dhayl Zahr al-ādāb".</note>
+   <note>This collection was purchased from Professor Michael Zwettler after his death, Ohio State University, Department of Near Eastern Languages and Cultures.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject>
+      <geographicCode authority="marcgac">aw-----</geographicCode>
+      <geographicCode authority="marcgac">ff-----</geographicCode>
+      <geographicCode authority="marcgac">e-sp---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic literature</topic>
+      <topic>History and criticism</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Anecdotes</topic>
+      <geographic>Islamic Empire</geographic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="fast">
+      <topic>Anecdotes</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic literature</topic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Islamic Empire</geographic>
+   </subject>
+   <classification authority="lcc">PJ7510 .H95</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/h9w0vwc5</url>
+   </location>
+   <relatedItem>
+      <titleInfo>
+         <title>Zahr al-ādāb wa-thamar al-albāb</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Ḥuṣrī, Ibrāhīm ibn ʻAlī,</namePart>
+         <namePart type="date">-1022</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Jamʻ al-Jawāhir fī al-mulaḥ wa-al-nawādir</title>
+      </titleInfo>
+      <name>
+         <namePart>Ḥuṣarī, Ibrāhīm ʻAlī al-Qayrawānī, -1022?</namePart>
+      </name>
+      <originInfo>
+         <publisher>[s.l.] : Dār Iḥyā' al-Kutab al-ʻArabīyah, 1953</publisher>
+         <edition>al-Ṭabʻah 1.</edition>
+      </originInfo>
+      <identifier type="local">(OCoLC)644146597</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Jamʻ al-Jawāhir fī al-mulaḥ wa-al-nawādir</title>
+      </titleInfo>
+      <name>
+         <namePart>Ḥuṣrī, Ibrāhīm ibn ʻAlī, -1022.</namePart>
+      </name>
+      <identifier type="local">(NIC)5018586</identifier>
+      <identifier type="local">(DLC)   78265004 </identifier>
+      <identifier type="local">(OCoLC)23519160</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>حصري، ابراهيم بن علي،</namePart>
+      <namePart type="date">-1022</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>‏جمع الحواهر في الملح والنوادر /‏</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">‏لأبي إسحاق ابراهيم بن علي الحصري القيرواني ؛ حقق وضبطه وفضل أبوابه ووضع فهارسه علي محمد البجاوي.</note>
+   <titleInfo type="alternative" altRepGroup="03" script="Arab">
+      <title>‏ذيل زهر الآداب</title>
+   </titleInfo>
+   <name type="personal" altRepGroup="07" script="Arab">
+      <namePart>‏بجاوي، علي محمد.</namePart>
+   </name>
+   <name type="personal" altRepGroup="08" script="Arab">
+      <namePart>‏حصري، ابراهيم بن علي.‏</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">5018586</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

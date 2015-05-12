@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Kitāb al-rawḍatain fī akhbār al-dawlatain</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Rawḍatain fī akhbār al-dawlatain</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Abū Shāmah, ʻAbd al-Raḥmān ibn Ismāʻīl</namePart>
+      <namePart type="date">1203-1267</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Ibn Abī Ṭaiyʻ.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">biography</genre>
+   <genre authority="fast">Sources.</genre>
+   <originInfo script="Latn" altRepGroup="0405">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat Wādī al-Nīl</publisher>
+      <dateIssued>1287-88. [1870 or 71-1871 or 72]</dateIssued>
+      <dateIssued encoding="marc" point="start">1870</dateIssued>
+      <dateIssued encoding="marc" point="end">1872</dateIssued>
+      <edition>Ṭabʻah jadīdah.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0405">
+      <place>
+         <placeTerm type="text">القاهرة :</placeTerm>
+      </place>
+      <publisher>مطبعة وادي النيل،</publisher>
+      <dateIssued>1287-88. [1870 or 71-1871 or 72]</dateIssued>
+      <edition>طبعة جديدة.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (2 volumes in 1.)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taʼlīf Shihāb al-Dīn Abī Muḥammad ʻAbd al-Raḥmān ibn Ismāʻīl ibn Ibrāhīm al-Maqdisī al-Shāfiʻī.</note>
+   <note>A history of the reigns of sultans Nūr al-Dīn and Ṣalāḥ al-Dīn, including a reproduction, almost in its entirety of the biography of Ṣalāḥ al-Dīn by Ibn Abī Taiyʻ--cf. Encyclopaedia of Islam.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart type="termsOfAddress">Sultan of Egypt and Syria</namePart>
+         <namePart>Saladin</namePart>
+         <namePart type="date">1137-1193</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart type="termsOfAddress">Atabeg of Syria</namePart>
+         <namePart>Nūr al-Dīn</namePart>
+         <namePart type="date">1118-1174</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <name type="personal">
+         <namePart type="termsOfAddress">Atabeg of Syria</namePart>
+         <namePart>Nūr al-Dīn</namePart>
+         <namePart type="date">1118-1174</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <name type="personal">
+         <namePart type="termsOfAddress">Sultan of Egypt and Syria</namePart>
+         <namePart>Saladin</namePart>
+         <namePart type="date">1137-1193</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Crusades</topic>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="fast">
+      <topic>Crusades</topic>
+   </subject>
+   <classification authority="lcc">D152 .A25 1871</classification>
+   <classification authority="lcc">PJ7805 .A2</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/9zw3r3w1</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Kitāb al-rawḍatain fī akhbār al-dawlatain</title>
+      </titleInfo>
+      <titleInfo type="uniform">
+         <title>Rawḍatain fī akhbār al-dawlatain</title>
+      </titleInfo>
+      <name>
+         <namePart>Abū Shāmah, ʻAbd al-Raḥmān ibn Ismāʻīl, 1203-1267.</namePart>
+      </name>
+      <originInfo>
+         <publisher>al-Qāhirah : Maṭbaʻat Wādī al-Nīl, 1287-88. [1870 or 71-1871 or 72]</publisher>
+         <edition>Ṭabʻah jadīdah.</edition>
+      </originInfo>
+      <identifier type="local">(OCoLC)891851368</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Kitāb al-rawḍatain fī akhbār al-dawlatain</title>
+      </titleInfo>
+      <name>
+         <namePart>Abū Shāmah, ʻAbd al-Raḥmān ibn Ismāʻīl, 1203-1267.</namePart>
+      </name>
+      <identifier type="local">(NNC)3122228</identifier>
+      <identifier type="local">(OCoLC)31618357</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>ابو شامة، عبد الرحمن بن اسماعيل،</namePart>
+      <namePart type="date">1203-1267</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>روضتن في اخبار الدولتن</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>كتاب الروضتن في اخبار الدولتن /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف شهاب الدين ابي محمد عبد الرحمن بن اسماعيل بن ابراهيم المقدسي الشافعي.</note>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>ابن ابي طيع.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">3122228</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

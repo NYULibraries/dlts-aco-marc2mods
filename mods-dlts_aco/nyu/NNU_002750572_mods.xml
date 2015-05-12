@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Mukhtār min ṣiḥāḥ al-lughah</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>ʻAbd al-Ḥamīd, Muḥammad Muḥyī al-Dīn.</namePart>
+   </name>
+   <name type="personal" altRepGroup="05" script="Latn">
+      <namePart>Subkī, Muḥammad ʻAbd al-Laṭīf</namePart>
+      <namePart type="date">-1969</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Rāzī, Muḥammad ibn Abī Bakr</namePart>
+      <namePart type="date">active 1261</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">dictionary</genre>
+   <genre authority="fast">Dictionaries.</genre>
+   <originInfo script="Latn" altRepGroup="0304">
+      <place>
+         <placeTerm type="code" authority="marccountry">ir</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Ṭihrān, Īrān</placeTerm>
+      </place>
+      <publisher>Intishārāt-i Nāṣir Khusraw</publisher>
+      <dateIssued>1363 [1984 or 1985]</dateIssued>
+      <dateIssued encoding="marc">19841934</dateIssued>
+      <edition>Chāp-i 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency>Annual</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0304">
+      <place>
+         <placeTerm type="text">طهران، ايران :</placeTerm>
+      </place>
+      <publisher>انتشارات ناصر خسرو،</publisher>
+      <dateIssued>1363 [1984 or 1985]</dateIssued>
+      <edition>چاپ ١.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (16, 591 pages) : illustrations</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taʼlīf Muḥammad Muḥyī al-Dīn ʻAbd al-Ḥamīd wa Muḥammad ʻAbd al-Laṭīf al-Subkī.</note>
+   <note>Based on: Mukhtār al-Ṣiḥāḥ / al-Imām al-Rāzī.</note>
+   <note>Reprint. Originally published: Cairo, 1934.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <genre>Dictionaries</genre>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic language</topic>
+   </subject>
+   <classification authority="lcc">PJ6622 .A18 1984</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/4tmpg66h</url>
+   </location>
+   <relatedItem>
+      <titleInfo>
+         <title>Mukhtār al-Ṣiḥāḥ</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Rāzī, Muḥammad ibn Abī Bakr,</namePart>
+         <namePart type="date">active 1261</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Mukhtār min ṣiḥāḥ al-lughah</title>
+      </titleInfo>
+      <name>
+         <namePart>ʻAbd al-Ḥamīd, Muḥammad Muḥyī al-Dīn.</namePart>
+      </name>
+      <identifier type="local">(NNU)002750572</identifier>
+      <identifier type="local">(DLC)   85930934</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>عبد الحميد، محمد محيى الدين.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>المختار من صحاح اللغة /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف محمد محيى الدين عبد الحميد ومحمد عبد اللطيف السبكي.</note>
+   <name type="personal" altRepGroup="05" script="Arab">
+      <namePart>سبكي، محمد عبد اللطيف،</namePart>
+      <namePart type="date">-1969</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>رازي، محمد بن ابي بكر،</namePart>
+      <namePart type="date">active 1261</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">002750572</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

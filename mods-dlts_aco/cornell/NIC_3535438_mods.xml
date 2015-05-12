@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo>
+      <title>Atlas linguistiques des parlers berbères</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart>Basset, André</namePart>
+      <namePart type="date">1895-1956</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">ae</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Alger</placeTerm>
+      </place>
+      <dateIssued>1936-</dateIssued>
+      <dateIssued encoding="marc" point="start">1936</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency>Bimonthly</frequency>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (volumes)</extent>
+   </physicalDescription>
+   <tableOfContents>I. Algérie-territories du nord: 1. Noms d' animaux domestiques. Fasc. 1-2. Cheval, mulet, ane, bovins.</tableOfContents>
+   <note>Text called "Notes."</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <note type="language">In Arabic.</note>
+   <subject authority="lcsh">
+      <topic>Berber languages</topic>
+      <topic>Etymology</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Berber languages</topic>
+      <topic>Dialects</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Animals</topic>
+      <genre>Nomenclature (Popular)</genre>
+   </subject>
+   <subject authority="rvm">
+      <topic>Berbère (Langue)</topic>
+      <geographic>Algérie</geographic>
+      <topic>Étymologie</topic>
+      <topic>Atlas</topic>
+   </subject>
+   <subject authority="rvm">
+      <topic>Berbère (Langue)</topic>
+      <topic>Dialectes</topic>
+      <geographic>Algérie</geographic>
+      <topic>Atlas</topic>
+   </subject>
+   <subject authority="rvm">
+      <topic>Animaux</topic>
+      <geographic>Algérie</geographic>
+      <topic>Noms vernaculaires</topic>
+   </subject>
+   <subject authority="swd">
+      <topic>Atlas</topic>
+   </subject>
+   <subject authority="swd">
+      <geographic>Algerien</geographic>
+   </subject>
+   <subject authority="swd">
+      <geographic>Berbersprachen</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/612jm89m</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Atlas linguistiques des parlers berbères</title>
+      </titleInfo>
+      <name>
+         <namePart>Basset, André, 1895-1956.</namePart>
+      </name>
+      <identifier type="local">(NIC)3535438</identifier>
+      <identifier type="local">(OCoLC)40975757</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Institut d'étides orientales. ; Publications 2</title>
+      </titleInfo>
+      <name type="corporate">
+         <namePart>Université d'Alger.</namePart>
+         <namePart>Faculté des lettres et sciences humaines.</namePart>
+         <namePart/>
+      </name>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">3535438</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

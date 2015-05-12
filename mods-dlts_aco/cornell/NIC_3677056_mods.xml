@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Khuṭub wa-al-mawāʻiẓ</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ḥasan, Muḥammad ʻAbd al-Ghanī.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">xx</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah]</placeTerm>
+      </place>
+      <publisher>Dār al-Maʻārif</publisher>
+      <dateIssued>[1955]</dateIssued>
+      <dateIssued encoding="marc">1955</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">[القاهرة] :</placeTerm>
+      </place>
+      <publisher>دار المعارف،</publisher>
+      <dateIssued>[1955]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (110 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">yashtarik fī waḍʻ hadhh al-majmūʻah lujnuah min udabāʼ al-aqṭār al-ʻArabiyah.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Speeches, addresses, etc., Arabic</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Speeches, addresses, etc., Arabic</topic>
+   </subject>
+   <classification authority="lcc">PJ7577.5 .H3</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/8sf7m2ks</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Khuṭub wa-al-mawāʻiẓ</title>
+      </titleInfo>
+      <name>
+         <namePart>Ḥasan, Muḥammad ʻAbd al-Ghanī.</namePart>
+      </name>
+      <identifier type="local">(NIC)3677056</identifier>
+      <identifier type="local">(DLC)   73214078 </identifier>
+      <identifier type="local">(OCoLC)32341363</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Fann al-taʻlīmī ; 2</title>
+      </titleInfo>
+      <name type="corporate">
+         <namePart>Funūn al-adab al-ʻArabī.</namePart>
+         <namePart/>
+      </name>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Funūn al-adab al-ʻArabī. 2</title>
+         <partName>al-Fann al-taʻlīmī</partName>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>حسن، محمد عبد الغني.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>الخطب والمواعظ /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">يشترك في وضع هذه المجموعة لجنة من ادباء الاقطار العربية.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="04" script="Arab">
+         <title>فنون الادب العربي. الفن التعليمي ؛ 2</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">3677056</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

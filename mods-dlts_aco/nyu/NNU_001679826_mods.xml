@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Sulaymān al-Bustānī wa-Ilyādhat Hūmīrūs</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ṣawāyā, Mikhāʼīl.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="marcgt">biography</genre>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">le</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Bayrūt</placeTerm>
+      </place>
+      <publisher>Maktabat Ṣādir</publisher>
+      <dateIssued>[194-?]</dateIssued>
+      <dateIssued encoding="marc">194u</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency>Annual</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">بيروت :</placeTerm>
+      </place>
+      <publisher>مكتبة صادر،</publisher>
+      <dateIssued>[194-?]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (184 p.) : ill.</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Mikhāʼīl Ṣawāyā.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject>
+      <geographicCode authority="marcgac">a-le---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Homer</namePart>
+      </name>
+      <titleInfo>
+         <title>Iliad</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Bustānī, Sulaymān</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+      <genre>Biography</genre>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Homer</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+      <topic>Translations, Arabic</topic>
+   </subject>
+   <classification authority="lcc">PA4024.A7 A38</classification>
+   <classification authority="ddc" edition="19">892.7/1/5</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/nzs7h5s3</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Sulaymān al-Bustānī wa-Ilyādhat Hūmīrūs</title>
+      </titleInfo>
+      <name>
+         <namePart>Ṣawāyā, Mikhāʼīl.</namePart>
+      </name>
+      <identifier type="local">(NNU)001679826</identifier>
+      <identifier type="local">(DLC)ne 66002067</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>صوايا، مخائيل.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>سليمان البستاني والياذة هوميروس /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">مخائيل صوايا.</note>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001679826</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

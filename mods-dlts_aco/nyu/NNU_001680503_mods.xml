@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Falākah wa-al-maflūkūn</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Daljī, Aḥmad ibn ʻAlī</namePart>
+      <namePart type="date">1368?-1434 or 1435</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdād</placeTerm>
+      </place>
+      <publisher>Maktabat al-Andalus</publisher>
+      <dateIssued>1385 [1965 or 1966]</dateIssued>
+      <dateIssued encoding="marc" point="start">1965</dateIssued>
+      <dateIssued encoding="marc" point="end">1966</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">بغداد :</placeTerm>
+      </place>
+      <publisher>مكتبة الاندلس،</publisher>
+      <dateIssued>1385 [1965 or 1966]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (192 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">[taʼlīf] Aḥmad ibn ʻAlī al-Daljī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Asceticism</topic>
+      <topic>Islam</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Asceticism</topic>
+      <topic>Islam</topic>
+   </subject>
+   <classification authority="lcc">BP190.5.P6 D3</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/wwpzgpnr</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Falākah wa-al-maflūkūn</title>
+      </titleInfo>
+      <name>
+         <namePart>Daljī, Aḥmad ibn ʻAlī, 1368?-1434 or 5.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Baghdād : Maktabat al-Andalus, 1385 [1965/1966]</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)583871998</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Falākah wa-al-maflūkūn</title>
+      </titleInfo>
+      <name>
+         <namePart>Daljī, Aḥmad ibn ʻAlī, 1368?-1434 or 1435.</namePart>
+      </name>
+      <identifier type="local">(NNU)001680503</identifier>
+      <identifier type="local">(DLC)ne 66001926</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>دلجي، احمد بن علي،</namePart>
+      <namePart type="date">1368?-1434 or 1435</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>الفلاكة والمفلوكون /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف أحمد بن علي الدلجي.</note>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001680503</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Aḥnaf ibn Qays: nasabuhu wa-ṣifatuhu wa-akhbāruhu</title>
+      <subTitle>ḥikamuhu wa-amthāluhu, taʼbīnuhu wa-rithāʼuhu</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ibn ʻAsākir, ʻAlī ibn al-Ḥasan</namePart>
+      <namePart type="date">1105-1176</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">sy</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Dimashq</placeTerm>
+      </place>
+      <publisher>al-Maktabah al-ʻArabīyah (ʻUbayd Ikhwān)</publisher>
+      <dateIssued>[1351 h., 1932 m.]</dateIssued>
+      <dateIssued encoding="marc">1932</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">دمشق :</placeTerm>
+      </place>
+      <publisher>المكتبة العربية (عبيد اخوان)،</publisher>
+      <dateIssued>[1351 h., 1932 m.]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (16, 32 p.)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">mulakhkhaṣ dhālika min al-juzʼ al-sābiʻ min ʹTahdhīb Tārīkh Ibn ʻAsākirʹ ... Waqafa ʻalá ṭabʻihi Aḥmad ʻUbayd.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/mw6m921q</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Aḥnaf ibn Qays: nasabuhu wa-ṣifatuhu wa-akhbāruhu</title>
+      </titleInfo>
+      <name>
+         <namePart>Ibn ʻAsākir, ʻAlī ibn al-Ḥasan, 1105-1176.</namePart>
+      </name>
+      <identifier type="local">(NNC)3068055</identifier>
+      <identifier type="local">(OCoLC)47800376</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>2nd. group: advertisements</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>ابن عساكر، علي بن الحسن،</namePart>
+      <namePart type="date">1105-1176</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>الاحنف بن قيس: نسبه وصفته واخباره،</title>
+      <subTitle>حكمه وامثاله، تأبينه ورثاؤه؛</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">ملخص ذلك من الجزء السابع من تهذيب تاريخ ابن عساكر ... وقف على طبعه احمد عبيد.</note>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">3068055</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

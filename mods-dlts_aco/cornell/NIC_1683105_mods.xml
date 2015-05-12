@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Abū Hilāl al-ʻAskarī wa-maqāyīsuhu al-balāghīyah</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ṭabānah, Badawī Aḥmad.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah</placeTerm>
+      </place>
+      <dateIssued>1952</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">القاهرة،</placeTerm>
+      </place>
+      <dateIssued>1952.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (223 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taʼlīf Badawī Aḥmad Ṭabānah.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/zw3r24kc</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Abū Hilāl al-ʻAskarī wa-maqāyīsuhu al-balāghīyah</title>
+      </titleInfo>
+      <name>
+         <namePart>Ṭabānah, Badawī Aḥmad.</namePart>
+      </name>
+      <originInfo>
+         <publisher>al-Qāhirah :, 1952</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)586069034</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Abū Hilāl al-ʻAskarī wa-maqāyīsuhu al-balāghīyah</title>
+      </titleInfo>
+      <name>
+         <namePart>Ṭabānah, Badawī Aḥmad.</namePart>
+      </name>
+      <identifier type="local">(NIC)1683105</identifier>
+      <identifier type="local">(DLC)   82167742 </identifier>
+      <identifier type="local">(OCoLC)17040345</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>طبانة، بدوي احمد.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>ابو هلال العسكري ومقاييسه البلاغية /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف بدوي احمد طبانة.</note>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">1683105</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

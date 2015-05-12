@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Aymān al-Baghdādīyah</title>
+      <subTitle>maʻa malāḥiq bi-al-aymān al-Ḥillīyah wa-al-Mawṣilīyah wa-al-ʻImārīyah wa-al-Hītīyah wa-al-Sāmarrāʼīyah wa-al-Karbalāʼīyah wa-al-Nāṣirīyah</subTitle>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Baghdad oaths</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ḥanafī, Jalāl.</namePart>
+   </name>
+   <name type="personal" altRepGroup="04" script="Latn">
+      <namePart>ʻAlwachī, ʻAbd al-Ḥamīd.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdād]</placeTerm>
+      </place>
+      <publisher>Maktabat al-Nahḍah</publisher>
+      <dateIssued>[1964]</dateIssued>
+      <dateIssued encoding="marc">1964</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">[بغداد] :</placeTerm>
+      </place>
+      <publisher>مكتبة النهضة،</publisher>
+      <dateIssued>[1964]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (174 p.)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taṣnīf Jalāl al-Ḥanafī ; qaddama la-hu wa-ʻallaqa ʻalayhi ʻAbd al-Ḥamīd al-ʻAlwajī.</note>
+   <note>Title on added t.p.: Baghdad oaths, by Jalal al-Hanafī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject>
+      <geographicCode authority="marcgac">a-iq---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Oaths</topic>
+      <geographic>Iraq</geographic>
+      <geographic>Baghdad</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Oaths (Islamic law)</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Oaths</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Oaths (Islamic law)</topic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Iraq</geographic>
+      <geographic>Baghdad</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/b5mkkzc8</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Aymān al-Baghdādīyah</title>
+      </titleInfo>
+      <name>
+         <namePart>Ḥanafī, Jalāl.</namePart>
+      </name>
+      <identifier type="local">(NNC)3076419</identifier>
+      <identifier type="local">(DLC)ne 66000235 </identifier>
+      <identifier type="local">(OCoLC)504989715</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>حنفي، جلال.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>الأيمان البغدادية :</title>
+      <subTitle>مع ملاحق بالأيمان الحلية والموصلية والعمارية والهيتية والسامرائية والكربلائية والناصرية</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تصنيف جلال الحنفي ؛ قدم له وعلق عليه عبد الحميد العلوجي.</note>
+   <name type="personal" altRepGroup="04" script="Arab">
+      <namePart>علوچي، عبد الحميد.</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">3076419</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

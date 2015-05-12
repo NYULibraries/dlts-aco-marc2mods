@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Dīwān al-Mufaḍḍalīyāt</title>
+      <subTitle>wa-hiya nukhbah min qaṣāʼid al-shuʻarāʼ al-muqallīn fī al-Jāhilīyah wa-awāʼil al-Islām</subTitle>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Mufaddalīyāt, an anthology of ancient Arabian odes</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Mufaḍḍalīyāt</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Mufaḍḍal ibn Muḥammad al-Ḍabbī</namePart>
+      <namePart type="date">active 8th century</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Ibn al-Anbārī, Muḥammad ibn al-Qāsim</namePart>
+      <namePart type="date">885-940?</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <originInfo script="Latn" altRepGroup="0405">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Ẓāhir [Cairo]</placeTerm>
+      </place>
+      <publisher>Maktabat al-Thaqāfah al-Dīnīyah</publisher>
+      <dateIssued>2000</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0405">
+      <place>
+         <placeTerm type="text">الظاهر [القاهرة] :</placeTerm>
+      </place>
+      <publisher>مكتبة الثقافة الدينية،</publisher>
+      <dateIssued>2000.</dateIssued>
+      <edition>الطبعة 1.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <language objectPart="summary or subtitle">
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (892, xxxviii pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">ikhtārahā Abū al-ʻAbbās al-Mufaḍḍal ibn Muḥammad al-Dabbī. Maʻa sharḥ wāfir / li-Abī Muḥammad al-Qāsim ibn Muḥammad ibn Bashshār al-Anbārī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <note type="language">Preface in English.</note>
+   <subject authority="lcsh">
+      <topic>Arabic poetry</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic poetry</topic>
+   </subject>
+   <classification authority="lcc">PJ7643 .A1 2000</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/cjsxkvvq</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Dīwān al-Mufaḍḍalīyāt</title>
+      </titleInfo>
+      <titleInfo type="uniform">
+         <title>Mufaḍḍalīyāt. 2000</title>
+      </titleInfo>
+      <name>
+         <namePart>Mufaḍḍal ibn Muḥammad al-Ḍabbī, 8th cent.</namePart>
+      </name>
+      <originInfo>
+         <publisher>al-Ẓāhir [Cairo] : Maktabat al-Thaqāfah al-Dīnīyah, 2000</publisher>
+         <edition>al-Ṭabʻah 1.</edition>
+      </originInfo>
+      <identifier type="local">(OCoLC)812129660</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Dīwān al-Mufaḍḍalīyāt</title>
+      </titleInfo>
+      <name>
+         <namePart>Mufaḍḍal ibn Muḥammad al-Ḍabbī, active 8th century.</namePart>
+      </name>
+      <identifier type="local">(NIC)5082236</identifier>
+      <identifier type="local">(OCoLC)44271222</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>مفضل بن محمد الضبي،</namePart>
+      <namePart type="date">active 8th century</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>مفضليات</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>ديوان المفضليات :</title>
+      <subTitle>وهي نخبة من قصائد الشعراء المقلين في الجاهلية واوائل الاسلام</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">اختارها ابو العباس المفضل بن محمد الدبي. مع شرح وافر / لابي محمد القاسم بن محمد بن بشار الانباري.</note>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>ابن الانباري، محمد بن القاسم،</namePart>
+      <namePart type="date">885-940؟</namePart>
+   </name>
+   <identifier type="isbn" invalid="yes">9775250676</identifier>
+   <identifier type="isbn" invalid="yes">9789775250674</identifier>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">5082236</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

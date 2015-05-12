@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Dīwān</title>
+      <subTitle>Ibn al-Sāʻātī Bahāʼ al-Dīn Abī al-Ḥasan ʻAlī ibn Rustum ibn Hardūz al-Khurāsānī, yunshar li-awwal marrah ʻan nusakhin khaṭṭīyah yarjiʻ baʻḍuhā ilā ʻahd al-Shāʻir. ʻUniya bi-taḥqīqih wa-nashrih Anīs al-Maqdisī</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ibn al-Sāʻātī, ʻAlī ibn Muḥammad</namePart>
+      <namePart type="date">1158?-1208</namePart>
+   </name>
+   <name type="personal" altRepGroup="04" script="Latn">
+      <namePart>Maqdisī, Anīs.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">le</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Bayrūt</placeTerm>
+      </place>
+      <dateIssued>1938-1939</dateIssued>
+      <dateIssued encoding="marc" point="start">1938</dateIssued>
+      <dateIssued encoding="marc" point="end">1939</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency>Annual</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">بيروت ،</placeTerm>
+      </place>
+      <dateIssued>1938-1939.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (2 volumes) : facsimiles</extent>
+   </physicalDescription>
+   <note>al-Jāmiʻah al-Amīrkīyah fi Bayrūt. Manshūrāt Kullīyat al-ʻUlūm wa-al-Ādāb. Silsilat al-ʻUlūm al-Sharqīyah, 12, 16.</note>
+   <note>Added t.p.: Dīwān Ibn al-Sāʻāti, published for the first time from original manuscripts. Edited by Anis E. Khuri al-Makdisi.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <classification authority="lcc">PJ25 .A6 1938</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/zgmsbfp6</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Dīwān</title>
+      </titleInfo>
+      <name>
+         <namePart>Ibn al-Sāʻātī, ʻAlī ibn Muḥammad, 1158?-1208.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Bayrūt, 1938-1939</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)622134873</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Dīwān</title>
+      </titleInfo>
+      <name>
+         <namePart>Ibn al-Sāʻātī, ʻAlī ibn Muḥammad, 1158?-1208.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Bayrūt, 1938-1939</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)631114731</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Dīwān</title>
+      </titleInfo>
+      <name>
+         <namePart>Ibn al-Sāʻātī, ʻAlī ibn Muḥammad, 1158?-1208.</namePart>
+      </name>
+      <identifier type="local">(NIC)3532260</identifier>
+      <identifier type="local">(DLC)ne 62000124 </identifier>
+      <identifier type="local">(OCoLC)14246750</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>علي ابن محمد ابن الساعاتي.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>ديوان :</title>
+      <subTitle>ابن الساعاتي بهاء الدين ابي الحسن علي بن رستم بن هردوز الخراساني ،ينشر لاول مرة عن نسخن خطية يرجع بعضها الى عهد الشاعر.عنيى بتحقيقه و نشره انيس المقدسي</subTitle>
+   </titleInfo>
+   <name type="personal" altRepGroup="04" script="Arab">
+      <namePart>انيس المقدسي.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">3532260</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

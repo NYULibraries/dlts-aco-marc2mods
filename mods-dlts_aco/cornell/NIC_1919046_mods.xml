@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Ḥāshiyat al-ʻallāmah al-muḥaqqiq al-fahhāmah al-shaykh Muhammad ʻArafah al-Dasūqī ʻalá matn Mughnī al-labīb li-al-Imām al-qudwah Ibn Hishām al-Anṣārī ... (wa-bi-hāmishihi Mughnī al-labīb al-madhkūr)</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Dasūqī, Muḥammad ibn Aḥmad ibn ʻArafah</namePart>
+      <namePart type="date">-1815</namePart>
+   </name>
+   <name type="personal" altRepGroup="05" script="Latn">
+      <namePart>Ibn Hishām, ʻAbd Allāh ibn Yūsuf</namePart>
+      <namePart type="date">1309-1360</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah]</placeTerm>
+      </place>
+      <publisher>al-Maṭbaʻah al-Maymanīyah</publisher>
+      <dateIssued>1305 [i.e. 1887 or 8]</dateIssued>
+      <dateIssued encoding="marc" point="start" qualifier="questionable">1887</dateIssued>
+      <dateIssued encoding="marc" point="end" qualifier="questionable">1988</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">[القاهرة] :</placeTerm>
+      </place>
+      <publisher>المطبعة الميمنية،</publisher>
+      <dateIssued>1305 [i.e. 1887 or 8]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (2 v.)</extent>
+   </physicalDescription>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject altRepGroup="04" script="Latn" authority="lcsh">
+      <name type="personal">
+         <namePart>Ibn Hishām, ʻAbd Allāh ibn Yūsuf</namePart>
+         <namePart type="date">1309-1360</namePart>
+      </name>
+      <titleInfo>
+         <title>Mughnī al-labīb ʻan kutub al-aʻārīb</title>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <titleInfo>
+         <title>Mughnī al-labīb ʻan kutub al-aʻārīb (Ibn Hishām, ʻAbd Allāh ibn Yūsuf)</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Grammar</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic language</topic>
+      <topic>Grammar</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/zs7h46v9</url>
+   </location>
+   <relatedItem>
+      <titleInfo>
+         <title>Mughnī al-labīb ʻan kutub al-aʻārīb</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Ibn Hishām, ʻAbd Allāh ibn Yūsuf,</namePart>
+         <namePart type="date">1309-1360</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Ḥāshiyat al-ʻallāmah al-muḥaqqiq al-fahhāmah al-shaykh Muhammad ʻArafah al-Dasūqī ʻalá matn Mughnī al-labīb li-al-Imām al-qudwah Ibn Hishām al-Anṣārī ... (wa-bi-hāmishihi Mughnī al-labīb al-madhkūr)</title>
+      </titleInfo>
+      <name>
+         <namePart>Dasūqī, Muḥammad ibn Aḥmad ibn ʻArafah, d. 1815.</namePart>
+      </name>
+      <originInfo>
+         <publisher>[Cairo] : al-Maṭbaʻah al-Maymanīyah, 1305 [i.e. 1887 or 8]</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)811869632</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Ḥāshiyat al-ʻallāmah al-muḥaqqiq al-fahhāmah al-shaykh Muhammad ʻArafah al-Dasūqī ʻalá matn Mughnī al-labīb li-al-Imām al-qudwah Ibn Hishām al-Anṣārī ... (wa-bi-hāmishihi Mughnī al-labīb al-madhkūr)</title>
+      </titleInfo>
+      <name>
+         <namePart>Dasūqī, Muḥammad ibn Aḥmad ibn ʻArafah, -1815.</namePart>
+      </name>
+      <identifier type="local">(NIC)1919046</identifier>
+      <identifier type="local">(OCoLC)64024665</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>دسوقي، محمد بن احمد بن عرفة</namePart>
+      <namePart type="date">-1815</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>حاشية العلامة المحقق الفهامة الشيخ مهمد عرفة الدسوقي على متن مغني اللبيب للامام القدوة ابن هشام الانصاري ... (وبهامشه مغني اللبيب المذكور).</title>
+   </titleInfo>
+   <subject altRepGroup="04" script="Arab" authority="lcsh">
+      <name type="personal">
+         <namePart>ابن هشام، عبد الله بن يوسف،</namePart>
+         <namePart type="date">1309-1360</namePart>
+      </name>
+      <titleInfo>
+         <title>مغني اللبيب عن كتب الاعاريب</title>
+      </titleInfo>
+   </subject>
+   <name type="personal" altRepGroup="05" script="Arab">
+      <namePart>ابن هشام، عبد الله بن يوسف،</namePart>
+      <namePart type="date">1309-1360</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">1919046</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Jāmiʻ al-shawāhid</title>
+      <subTitle>min taʼlīfāt Mullā Muḥammad Bāqir</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Muḥammad ibn Bāqir ibn ʻAlī Riz̤ā.</namePart>
+   </name>
+   <name type="personal" altRepGroup="04" script="Latn">
+      <namePart>Khunsārī, Ghulām Riz̤ā</namePart>
+      <role>
+         <roleTerm type="text">ed.</roleTerm>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">ir</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Ṭihrān</placeTerm>
+      </place>
+      <dateIssued>1278, 1861]</dateIssued>
+      <dateIssued encoding="marc">1861</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">طهران،</placeTerm>
+      </place>
+      <dateIssued>1278، 1861]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">per</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (1 v. (unpaged))</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Taṣḥīḥ wa muqābilah, Ghulām Riz̤ā ibn Muḥammad Saʻīd al-Khunsārī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <note type="language">Commentaries in Persian.</note>
+   <subject authority="lcsh">
+      <topic>Arabic philology</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic philology</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/nk98sh4w</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Jāmiʻal-shawāhid</title>
+      </titleInfo>
+      <name>
+         <namePart>Muḥammad ibn Bāqir ibn ʻAlī Riz̤ā</namePart>
+      </name>
+      <originInfo>
+         <publisher>Ṭihrān, 1278, 1861]</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)654022077</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Jāmiʻ al-shawāhid</title>
+      </titleInfo>
+      <name>
+         <namePart>Muḥammad ibn Bāqir ibn ʻAlī Riz̤ā.</namePart>
+      </name>
+      <identifier type="local">(NNC)3073849</identifier>
+      <identifier type="local">(OCoLC)47850265</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>محمد بن باقر بن على رضا.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>جامع الشواهد،</title>
+      <subTitle>من تأليفات ملا محمد باقر</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تصحىح و مقابله، غلام رضا بن محمد سعىد الخنسارى.</note>
+   <name type="personal" altRepGroup="04" script="Arab">
+      <namePart>خنسارى، غلام رضا،</namePart>
+      <role>
+         <roleTerm type="text">ed.</roleTerm>
+      </role>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">3073849</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

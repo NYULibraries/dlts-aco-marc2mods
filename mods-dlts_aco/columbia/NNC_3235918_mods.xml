@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Ṣāḥibī fī fiqh al-lughah wa-sunan al-ʻArab fī kalāmihā</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="03" script="Latn">
+      <title>Fiqh al-lughah</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Assahiby</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ibn Fāris al-Qazwīnī, Aḥmad</namePart>
+      <namePart type="date">active 10th century</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="fast">Early works.</genre>
+   <originInfo script="Latn" altRepGroup="04">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah</placeTerm>
+      </place>
+      <publisher>al-Maktabah al-Salfiyyah</publisher>
+      <dateIssued>[1910]</dateIssued>
+      <dateIssued encoding="marc">1910</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="04">
+      <place>
+         <placeTerm type="text">القاهرة :</placeTerm>
+      </place>
+      <publisher>المكتبة السلفية،</publisher>
+      <dateIssued>[1910]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (5, 245 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taṣnīf Aḥmad Ibn Fāris.</note>
+   <note>Has also cover title in English: Assahiby; a treatise of the literature, lexicology and syntax of the Arabic language, by Ahmed-ibn-Faris ... 1910.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Grammar</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic philology</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic language</topic>
+      <topic>Grammar</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic philology</topic>
+   </subject>
+   <classification authority="lcc">PJ6101 .I185 1910</classification>
+   <classification authority="ddc">492.7 Ib5s</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/4b8gtknt</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Ṣāḥibī fī fiqh al-lughah wa-sunan al-ʻArab fī kalāmihā</title>
+      </titleInfo>
+      <name>
+         <namePart>Ibn Fāris al-Qazwīnī, Aḥmad, active 10th century.</namePart>
+      </name>
+      <identifier type="local">(NNC)3235918</identifier>
+      <identifier type="local">(OCoLC)20047079</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>بن فارس، القزويني أحمد.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>الصاحبي في فقه اللغة وسنن العرب في كلامها /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تصنيف أجمد بن فارس.</note>
+   <titleInfo type="alternative" altRepGroup="03" script="Arab">
+      <title>فقه اللغة</title>
+   </titleInfo>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">3235918</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

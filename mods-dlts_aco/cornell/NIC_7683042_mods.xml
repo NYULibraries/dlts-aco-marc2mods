@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Kitāb al-ʻarf al-ṭayyib fī sharḥ dīwān Abī al-Ṭayyib</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="04" script="Latn">
+      <title>ʻArf al-ṭayyib fī sharḥ dīwān Abī al-Ṭayyib</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>ʻArf al-ṭayyib fī sharḥ dīwān Abī al-Ṭayyib</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Mutanabbī, Abū al-Ṭayyib Aḥmad ibn al-Ḥusayn</namePart>
+      <namePart type="date">915 or 916-965</namePart>
+      <role>
+         <roleTerm type="text">author.</roleTerm>
+      </role>
+   </name>
+   <name type="personal" altRepGroup="07" script="Latn">
+      <namePart>Yāzijī, Nāṣīf</namePart>
+      <namePart type="date">1800-1871</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">le</placeTerm>
+      </place>
+      <dateIssued encoding="marc">1887</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (710 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">li-Nāṣīf al-Yāzijī al-Lubnānī.</note>
+   <note>Includes index.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject altRepGroup="06" script="Latn" authority="lcsh">
+      <name type="personal">
+         <namePart>Mutanabbī, Abū al-Ṭayyib Aḥmad ibn al-Ḥusayn</namePart>
+         <namePart type="date">915 or 916-965</namePart>
+      </name>
+      <titleInfo>
+         <title>Poems</title>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <titleInfo>
+         <title>Poems (Mutanabbī, Abū al-Ṭayyib Aḥmad ibn al-Ḥusayn)</title>
+      </titleInfo>
+   </subject>
+   <classification authority="lcc">PJ7750.M8 A6 1887</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/pvmcvgw8</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Kitāb al-ʻarf al-ṭayyib fī sharḥ dīwān Abī al-Ṭayyib</title>
+      </titleInfo>
+      <name>
+         <namePart>Mutanabbī, Abū al-Ṭayyib Aḥmad ibn al-Ḥusayn, 915 or 916-965, author.</namePart>
+      </name>
+      <identifier type="local">(NIC)7683042</identifier>
+      <identifier type="local">(OCoLC)13060529</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>متنبي، أبو الطيب أحمد بن الحسين،</namePart>
+      <namePart type="date">915 or 916-965</namePart>
+      <role>
+         <roleTerm type="text">author.</roleTerm>
+      </role>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>عرف الطيب في شرح ديوان ابي الطيب</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>كتاب العرف الطيب في شرح ديوان أبي الطيب.</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="04" script="Arab">
+      <title>عرف الطيب في شرح ديوان أبي الطيب</title>
+   </titleInfo>
+   <subject altRepGroup="06" script="Arab">
+      <name type="personal">
+         <namePart>متنبي، ابو الطيب احمد بن الحسين،</namePart>
+         <namePart type="date">915 or 916-965</namePart>
+      </name>
+      <titleInfo>
+         <title>Poems</title>
+      </titleInfo>
+   </subject>
+   <name type="personal" altRepGroup="07" script="Arab">
+      <namePart>يازجي، ناصيف،</namePart>
+      <namePart type="date">1800-1871</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">7683042</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

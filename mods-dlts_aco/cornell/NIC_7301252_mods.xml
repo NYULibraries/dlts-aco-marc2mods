@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="01" script="Latn">
+      <title>Fawq jawād aghbar</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1">
+      <title>Pale horse, pale rider. Arabic</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Porter, Katherine Anne</namePart>
+      <namePart type="date">1890-1980</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="02">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Niyū York</placeTerm>
+      </place>
+      <publisher>Muʼassasah Frānklīn lil-ṭabāʻat wa-al-Nashr</publisher>
+      <dateIssued>[1954?]</dateIssued>
+      <dateIssued encoding="marc">1954</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="02">
+      <place>
+         <placeTerm type="text">القاهرة ؛</placeTerm>
+      </place>
+      <publisher>مؤسسة فرانكلين للطباعة والنشر،</publisher>
+      <dateIssued>[1954؟]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <language objectPart="translation">
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (189 pages)</extent>
+   </physicalDescription>
+   <tableOfContents>Fawq jawād aghbar -- Abnāʼ al-fanāʼ -- Khamrat al-ẓahīrah.</tableOfContents>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Kātrāyin Ān Būrtar ; naqlataha ilá al-ʻArabiyyah, Sayyidah Ṣūfī ʻAbd Allāh.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <classification authority="lcc">PS3531.O752 P312 1954</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/tmpg4hdr</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Fawq jawād aghbar</title>
+      </titleInfo>
+      <name>
+         <namePart>Porter, Katherine Anne, 1890-1980.</namePart>
+      </name>
+      <identifier type="local">(NIC)7301252</identifier>
+      <identifier type="local">(OCoLC)25306413</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Quiṣṣat al-yawm ; qurūsh 8</title>
+      </titleInfo>
+   </relatedItem>
+   <titleInfo altRepGroup="01" script="Arab">
+      <title>فوق جواد اغبر /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">كاتراين آن بورتر ؛ نقلته الى العربية، سيدة صوفي عبد الله.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="03" script="Arab">
+         <title>قصة اليوم ؛ قروش 8</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">7301252</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

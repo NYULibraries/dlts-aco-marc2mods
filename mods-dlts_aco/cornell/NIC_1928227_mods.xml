@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Iʻjāz wa-al-ījāz</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Jawāmiʻ al-kalām fī taʼrīkh al-ʻArab wa-al-Islām</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Thaʻālibī, ʻAbd al-Malik ibn Muḥammad</namePart>
+      <namePart type="date">961 or 962-1037 or 1038</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="fast">Criticism, interpretation, etc.</genre>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">le</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Bayrūt</placeTerm>
+      </place>
+      <publisher>Dār al-Ṣaʻb</publisher>
+      <dateIssued>[198-?]</dateIssued>
+      <dateIssued encoding="marc">198u</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">بيروت :</placeTerm>
+      </place>
+      <publisher>دار الصعب،</publisher>
+      <dateIssued>[198-?]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (299 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">li-Abī Manṣūr al-Thaʻālibī. Wa-maʻahu, manẓūmat Jawāmiʻ al-kalām fī taʼrīkh al-ʻArab wa-al-Islām.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Arabic poetry</topic>
+      <topic>History and criticism</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic poetry</topic>
+   </subject>
+   <classification authority="lcc">PJ7541 .T45 1980</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/wstqjsc1</url>
+   </location>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Jawāmiʻ al-kalām fī taʼrīkh al-ʻArab wa-al-Islām</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Iʻjāz wa-al-ījāz</title>
+      </titleInfo>
+      <name>
+         <namePart>Thaʻālibī, ʻAbd al-Malik ibn Muḥammad, 961 or 962-1037 or 1038.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Bayrūt : Dār al-Ṣaʻb, [198-?]</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)855507681</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Iʻjāz wa-al-ījāz</title>
+      </titleInfo>
+      <name>
+         <namePart>Thaʻālibī, ʻAbd al-Malik ibn Muḥammad, 961 or 962-1037 or 1038.</namePart>
+      </name>
+      <identifier type="local">(NIC)1928227</identifier>
+      <identifier type="local">(OCoLC)20603975</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>ثعالي، عبد المل بن محمد،</namePart>
+      <namePart type="date">961 or 962-1037 or 1038</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>الاعجاز والايجاز /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">لابي منصور الثعالي. ومعه، منظومة جوامع الكلام في تأريخ العرب والاسلام.</note>
+   <titleInfo type="uniform">
+      <title>جوامع الكلام في تأريخ العرب والاسلام</title>
+   </titleInfo>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">1928227</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

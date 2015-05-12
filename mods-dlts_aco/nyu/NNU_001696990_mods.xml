@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="01" script="Latn">
+      <title>Majmūʻ muhimmāt al-mutūn</title>
+      <subTitle>yashtamilu ʻalá sittah wa-sittīn matn fī mukhtalif al-funūn wa-al-ʻulūm</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="0203">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Miṣr</placeTerm>
+      </place>
+      <publisher>Muṣṭafá al-Bābī al-Ḥalabī</publisher>
+      <dateIssued>1949</dateIssued>
+      <edition>al-Ṭabʻah 4.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0203">
+      <place>
+         <placeTerm type="text">مصر :</placeTerm>
+      </place>
+      <publisher>مصطفى البابى الحلبى،</publisher>
+      <dateIssued>١٩٤٩.</dateIssued>
+      <edition>الطبعة ٤.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (824 p.)</extent>
+   </physicalDescription>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Arabic literature</topic>
+   </subject>
+   <classification authority="lcc">PJ7601 .M28 1949</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/rv15dx0x</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Majmūʻ muhimmāt al-mutūn</title>
+      </titleInfo>
+      <identifier type="local">(NNU)001696990</identifier>
+   </relatedItem>
+   <titleInfo altRepGroup="01" script="Arab">
+      <title>مجموع مهمات المتون :</title>
+      <subTitle>يشتمل على ستة وستين متنا فى مختلف الفنون والعلوم</subTitle>
+   </titleInfo>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001696990</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

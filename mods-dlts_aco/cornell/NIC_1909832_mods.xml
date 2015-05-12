@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Kitāb al-tanbīh ʻalá awhām Abī ʻAlī fī Amālīh</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Tanbīh ʻalá awhām Abī ʻAlī fī Amālīh</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Bakrī, Abū ʻUbayd ʻAbd Allāh ibn ʻAbd al-ʻAzīz</namePart>
+      <namePart type="date">1040-1094</namePart>
+   </name>
+   <name type="personal" altRepGroup="07" script="Latn">
+      <namePart>Qālī, Abū ʻAlī Ismāʻīl ibn al-Qāsim</namePart>
+      <namePart type="date">901?-967?</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="fast">Early works.</genre>
+   <originInfo script="Latn" altRepGroup="0405">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat Dār al-Kutub al-Miṣrīyah</publisher>
+      <dateIssued>1962</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0405">
+      <place>
+         <placeTerm type="text">القاهرة :</placeTerm>
+      </place>
+      <publisher>مطبعة دار الكتب المصرية،</publisher>
+      <dateIssued>١٩٦٢.</dateIssued>
+      <edition>الطبعة ١.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (224 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taʼlīf Abī ʻUbayd ʻAbd Allāh ibn ʻAbd al-ʻAzīz al-Bakrī ; wa-yalīhi fahāris bi-asmāʼ al-aʻlām wa-al-qabāʼil wa-al-amākin wa-qawāfī al-abyāt wa-ghayr dhalik.</note>
+   <note>In Arabic.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note>Partially vocalized.</note>
+   <note>Errata sheet inserted at end.</note>
+   <note type="bibliography">Includes bibliographical references and indexes.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject altRepGroup="06" script="Latn" authority="lcsh">
+      <name type="personal">
+         <namePart>Qālī, Abū ʻAlī Ismāʻīl ibn al-Qāsim</namePart>
+         <namePart type="date">901?-967?</namePart>
+      </name>
+      <titleInfo>
+         <title>Amālī</title>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <titleInfo>
+         <title>Amālī (Qālī, Abū ʻAlī Ismāʻīl ibn al-Qāsim)</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic philology</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic philology</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/gqnk9c19</url>
+   </location>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Amālī</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Qālī, Abū ʻAlī Ismāʻīl ibn al-Qāsim,</namePart>
+         <namePart type="date">901?-967?</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Kitāb al-tanbīh ʻalá awhām Abī ʻAlī fī Amālīh</title>
+      </titleInfo>
+      <name>
+         <namePart>Bakrī, Abū ʻUbayd ʻAbd Allāh ibn ʻAbd al-ʻAzīz, 1040-1094.</namePart>
+      </name>
+      <identifier type="local">(NIC)1909832</identifier>
+      <identifier type="local">(OCoLC)25653306</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>أبو عبيد عبد الله بن عبد العزيز البكري.</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>تنبيه على أوهام أبي علي في أماليه</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>كتاب التنبيه على أوهام أبي علي في أماليه /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف أبي عبيد عبد الله بن عبد العزيز البكري ؛ ويليه فهارس بأسماء الأعلام والقبائل والأماكن وقوافي الأبيات وغير ذلك.</note>
+   <subject altRepGroup="06" script="Arab">
+      <name type="personal">
+         <namePart>قالي، ابو علي اسماعيل بن القاسم،</namePart>
+         <namePart type="date">901؟967؟</namePart>
+      </name>
+      <titleInfo>
+         <title>امالي</title>
+      </titleInfo>
+   </subject>
+   <name type="personal" altRepGroup="07" script="Arab">
+      <namePart>قالي، أبو علي اسماعيل بن القاسم،</namePart>
+      <namePart type="date">967?-901?</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">1909832</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

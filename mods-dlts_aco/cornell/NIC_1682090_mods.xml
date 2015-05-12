@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="01" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Ālihah ʻiṭāsh</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1">
+      <title>Dieux ont soif. Arabic</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>France, Anatole</namePart>
+      <namePart type="date">1844-1924</namePart>
+   </name>
+   <name type="personal" altRepGroup="03" script="Latn">
+      <namePart>Zuʻaytar, ʻĀdil.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="fast">Fiction.</genre>
+   <genre authority="fast">History.</genre>
+   <originInfo script="Latn" altRepGroup="02">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah</placeTerm>
+      </place>
+      <publisher>Maktabat al-Nahḍah al-Miṣrīyah</publisher>
+      <dateIssued>1952</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="02">
+      <place>
+         <placeTerm type="text">القاهرة :</placeTerm>
+      </place>
+      <publisher>مكتبة النهضة المصرية،</publisher>
+      <dateIssued>1952.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <language objectPart="translation">
+      <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (272 p.)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Anāṭūl Frāns ; tarjamat ʻĀdil Zuʻaytar.</note>
+   <note>Translation of: Les dieux ont soif.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject>
+      <geographicCode authority="marcgac">e-fr---</geographicCode>
+   </subject>
+   <subject authority="fast">
+      <name type="conference">
+         <namePart>Revolution (France : 1789-1799)</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <temporal>1789 - 1799</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>France</geographic>
+      <topic>History</topic>
+      <temporal>Revolution, 1789-1799</temporal>
+      <genre>Fiction</genre>
+   </subject>
+   <subject authority="fast">
+      <geographic>France</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/c59zw5xj</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Ālihah ʻiṭāsh</title>
+      </titleInfo>
+      <name>
+         <namePart>France, Anatole, 1844-1924.</namePart>
+      </name>
+      <identifier type="local">(NIC)1682090</identifier>
+      <identifier type="local">(OCoLC)63979530</identifier>
+   </relatedItem>
+   <titleInfo altRepGroup="01" script="Arab">
+      <title>الالة عطاش /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">اناطول فرانس ؛ ترجمة عادل زعيتر.</note>
+   <name type="personal" altRepGroup="03" script="Arab">
+      <namePart>زعيتر، عادل.</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">1682090</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

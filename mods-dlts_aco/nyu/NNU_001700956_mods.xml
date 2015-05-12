@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="01" script="Latn">
+      <title>Qiṣṣat Jūd'har al-ṣayyād wa-al-kharaj al-marṣūd</title>
+      <subTitle>qiṣṣat muqtabasah min Alf laylah wa-laylah</subTitle>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Histoire de Djoûdhar le pecheur et du sac enchanté</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal">
+      <namePart>Pérès, Henri.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="0203">
+      <place>
+         <placeTerm type="code" authority="marccountry">ae</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Al-Jazāʼir</placeTerm>
+      </place>
+      <publisher>J. Kūrbūnil</publisher>
+      <dateIssued>1954</dateIssued>
+      <edition>al-Ṭabʻah 5.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0203">
+      <place>
+         <placeTerm type="text">الحزائر:</placeTerm>
+      </place>
+      <publisher>جول كربونل،</publisher>
+      <dateIssued>1954.</dateIssued>
+      <edition>الطبعة 5.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (64, 46 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">aʻtiná bi-nashrihā wa-taḥaṣṣuṣihā Hinrī Pirīs.</note>
+   <note>"Glossaire": p. 5-46 (2d group).</note>
+   <note>Added t.p.: Histoire de Djoûdhar le pecheur et du sac enchanté : conte extrait de Milles [sic] et une nuits : texte établi d'après quatre éditions accompagné de variantes et suivi d'un glossaire.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <classification authority="lcc">PJ7712.J8 P4 1954</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/zcrjdhj7</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Qiṣṣat Jūd'har al-ṣayyād wa-al-kharaj al-marṣūd</title>
+      </titleInfo>
+      <identifier type="local">(NNU)001700956</identifier>
+   </relatedItem>
+   <titleInfo altRepGroup="01" script="Arab">
+      <title>قصة جوذر الصياد والخرج المرصود :</title>
+      <subTitle>قصة مقتبسة من الف ليلة وليلة</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">اعتنى بنشرها وتصحيحها هنري ٻيريس.</note>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001700956</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Dīwān Aḥmad ibn Abī al-Qasim al-Khallūf al-Andalusī</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Works. 1873</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Ibn Khallūf, Aḥmad ibn Abī al-Qāsim</namePart>
+      <namePart type="date">d. 1493 or 4</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="04">
+      <place>
+         <placeTerm type="code" authority="marccountry">le</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Bayrūt</placeTerm>
+      </place>
+      <publisher>al-Maṭbaʻah al-Salīmīyah</publisher>
+      <dateIssued>1873</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="04">
+      <place>
+         <placeTerm type="text">بيروت :</placeTerm>
+      </place>
+      <publisher>المطبعة السليمية،</publisher>
+      <dateIssued>١٨٧٣.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (212 p.)</extent>
+   </physicalDescription>
+   <note>Poems.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <classification authority="lcc">PJ7760.I2452 A17 1873</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/000001q8</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Dīwān Aḥmad ibn Abī al-Qasim al-Khallūf al-Andalusī</title>
+      </titleInfo>
+      <name>
+         <namePart>Ibn Khallūf, Aḥmad ibn Abī al-Qāsim, d. 1493 or 4 880-01</namePart>
+      </name>
+      <identifier type="local">(NNU)001500661</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>ابن الخلوف، أحمد بن أبي القسم.</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>اعمال. 1873</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>ديوان أحمد أبي القسم الخلوف الاندلسي.</title>
+   </titleInfo>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001500661</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

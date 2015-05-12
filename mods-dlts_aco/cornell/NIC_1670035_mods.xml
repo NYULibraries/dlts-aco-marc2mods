@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Dīwān Ibn Sahl al-Andalūsī</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="04" script="Latn">
+      <title>Ibn Sahl</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Dīwan</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Ibn Sahl al-Isrāʼīlī, Ibrāhīm</namePart>
+      <namePart type="date">-1251 or 1252</namePart>
+   </name>
+   <name type="personal" altRepGroup="07" script="Latn">
+      <namePart>Quranī, Aḥmad Ḥasanayn.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="0506">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Miṣr</placeTerm>
+      </place>
+      <publisher>al-Maktabah al-ʻArabīyah</publisher>
+      <dateIssued>1926</dateIssued>
+      <dateIssued encoding="marc">1924</dateIssued>
+      <edition>al-Tabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0506">
+      <place>
+         <placeTerm type="text">مصر :</placeTerm>
+      </place>
+      <publisher>المكتبة العربية،</publisher>
+      <dateIssued>1926.</dateIssued>
+      <edition>الطبعة 1.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (124 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">jamaʻahu wa-rattabahu wa-ḍabaṭahu Aḥmad Ḥasanayn al-Qarnī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/sbcc2j11</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Dīwān Ibn Sahl al-Andalūsī</title>
+      </titleInfo>
+      <name>
+         <namePart>Ibn Sahl al-Isrāʼīlī, Ibrāhīm, -1251 or 1252.</namePart>
+      </name>
+      <identifier type="local">(NIC)1670035</identifier>
+      <identifier type="local">(OCoLC)37669626</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>ابن سهل الإسرائيلي، إبراهيم،</namePart>
+      <namePart type="date">-1251 or 1252</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>أشعار</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>ديوان ابن سهل الأندلسي /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">جمعه ورتبه وضبطه احمد حسنين القرني.</note>
+   <titleInfo type="alternative" altRepGroup="04" script="Arab">
+      <title>ابن سهل</title>
+   </titleInfo>
+   <name type="personal" altRepGroup="07" script="Arab">
+      <namePart>قرني، أحمد حسنين.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">1670035</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

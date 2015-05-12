@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Taʻlīqah ʻalá Nihāyat al-ḥikmah</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Miṣbāḥ Yazdī, Muḥammad Taqī.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <originInfo script="Latn" altRepGroup="0304">
+      <place>
+         <placeTerm type="code" authority="marccountry">ir</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Qum, Īrān</placeTerm>
+      </place>
+      <publisher>Muʼassasah fī Ṭarīq al-Ḥaqq (Dar Rāh-i Ḥaqq)</publisher>
+      <dateIssued>1405 [1984 or 1985]</dateIssued>
+      <dateIssued encoding="marc">1984</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0304">
+      <place>
+         <placeTerm type="text">قم، ايران :</placeTerm>
+      </place>
+      <publisher>مؤسسة في طريق الحق(در راه حق)،</publisher>
+      <dateIssued>1405 [1984 or 1985]</dateIssued>
+      <edition>الطبعة 1.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (496 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Muḥammad Taqī Miṣbāḥ al-Yazdī.</note>
+   <note>"Raqm al-tasalsul 23"--Title page verso.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Ṭabāṭabāʼī, Muḥammad Ḥusayn</namePart>
+      </name>
+      <titleInfo>
+         <title>Nihāyat al-ḥikmah</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic philosophy</topic>
+   </subject>
+   <classification authority="lcc">B741 .T333 1984</classification>
+   <classification authority="lcc">B741 M573 1984</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/n02v6zq6</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Taʻlīqah ʻalá Nihāyat al-ḥikmah</title>
+      </titleInfo>
+      <name>
+         <namePart>Miṣbāḥ Yazdī, Muḥammad Taqī.</namePart>
+      </name>
+      <identifier type="local">(NNU)001937035</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>مصباح يزدي، محمد تقي.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>تعليقة على نهاية الحكمة /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">محمد تقي مصباح اليزدي.</note>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001937035</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

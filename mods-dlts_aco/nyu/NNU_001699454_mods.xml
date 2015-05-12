@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Maṭāliʻ al-budūr fī manāzil al-surūr</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ghazūlī, ʻAlī ibn ʻAbd Allāh</namePart>
+      <namePart type="date">d. 1412</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="0304">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Miṣr]</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat Idārat al-Waṭan</publisher>
+      <dateIssued>1299-1300 [1881 or 1882-1883]</dateIssued>
+      <dateIssued encoding="marc" point="start">1881</dateIssued>
+      <dateIssued encoding="marc" point="end">1883</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0304">
+      <place>
+         <placeTerm type="text">[مصر] :</placeTerm>
+      </place>
+      <publisher>مطبعة ادارة الوطن،</publisher>
+      <dateIssued>١٢٩٩-١٣٠٠ [١٨٨١ or ١٨٨٢--١٨٨٣]</dateIssued>
+      <edition>الطبعة ١.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (2 v.)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taʼlīf ʻAlāʼ al-Dīn ʻAlī ibn ʻAbd Allāh al-Bahāʼī al-Gharūlī [sic].</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <classification authority="lcc">PJ7760.G47 M3 1881</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/vmcvdq7s</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Maṭāliʻ al-budūr fī manāzil al-surūr</title>
+      </titleInfo>
+      <name>
+         <namePart>Ghazūlī, ʻAlī ibn ʻAbd Allāh, d. 1412 880-01</namePart>
+      </name>
+      <identifier type="local">(NNU)001699454</identifier>
+      <identifier type="local">(DLC)ne 66001967</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>غزولي، علاء الدين علي ابن عبدالله.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>مطالع البدور في منازل السرور /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تاليف علاء الدين على بن عبدالله البهائي الغزولي.</note>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001699454</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

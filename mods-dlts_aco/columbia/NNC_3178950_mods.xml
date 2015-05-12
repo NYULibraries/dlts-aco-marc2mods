@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Kitāb durrat al-ghawwāṣ fī awhām al-khawwāṣ</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Durrat al-ghawwāṣ fī awhām al-khawwāṣ</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Ḥarīrī</namePart>
+      <namePart type="date">1054-1122</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Khafājī, Aḥmad ibn Muḥammad</namePart>
+      <namePart type="date">1571 or 1572-1659</namePart>
+   </name>
+   <name type="corporate" altRepGroup="07" script="Latn">
+      <namePart>Maṭbaʻat al-Jawāʼib</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="0405">
+      <place>
+         <placeTerm type="code" authority="marccountry">tu</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Qusṭanṭīnīyah</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat al-Jawāʼib</publisher>
+      <dateIssued>1299 [1882]</dateIssued>
+      <dateIssued encoding="marc">1882</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0405">
+      <place>
+         <placeTerm type="text">‏قسطنطينية :‏</placeTerm>
+      </place>
+      <publisher>‏مطبعة الجوائب،‏</publisher>
+      <dateIssued>‏1299 [1882]</dateIssued>
+      <edition>‏الطبعة 1.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (143, 265 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Abū Muḥammad al-Qāsim ibn ʻAlī al-Ḥarīrī. Wa-fī ākhirih al-Sharḥ / Aḥmad Shihāb al-Dīn al-Khafājī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Idioms</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Syntax</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic language</topic>
+      <topic>Idioms</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic language</topic>
+      <topic>Syntax</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/59zw3swt</url>
+   </location>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Sharḥ Durrat al-ghawwāṣ fī awhām al-khawwāṣ</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Khafājī, Aḥmad ibn Muḥammad,</namePart>
+         <namePart type="date">1571 or 1572-1659</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Kitāb durrat al-ghawwāṣ fī awhām al-khawwāṣ</title>
+      </titleInfo>
+      <name>
+         <namePart>Ḥarīrī, 1054-1122.</namePart>
+      </name>
+      <identifier type="local">(NNC)3178950</identifier>
+      <identifier type="local">(OCoLC)11541339</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>‏حريري،‏</namePart>
+      <namePart type="date">‏1054-1122</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>‏درة الغواص فى أوهام الخواص.‏</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>‏كتاب درة الغواص فى أوهام الخواص /‏</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">‏لأبي محمد القاسم بن علي الحريري. وفى آخره الشرح / لأحمد شهاب الدين الخفاجي.</note>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>‏خفاجي، أحمد بن محمد،‏‏</namePart>
+      <namePart type="date">‏1571 أو 2-1659.‏</namePart>
+   </name>
+   <name type="corporate" altRepGroup="07" script="Arab">
+      <namePart>مطبعة الجوائب</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">3178950</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

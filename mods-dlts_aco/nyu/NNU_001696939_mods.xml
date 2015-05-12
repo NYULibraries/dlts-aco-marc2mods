@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Kitāb al-dhahabī lil-Mihrajān al-Alfī li-Dhikrá Ibn Sīnā, Baghdād, min 20 ilá 28 Mārs 1952</title>
+   </titleInfo>
+   <titleInfo type="alternative" displayLabel="Title on added t. p.:">
+      <title>Millénaire d'Avicenne : congrès de Bagdad, 20-28 mars 1952</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Millénaire d'Avicenne</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="03" script="Latn">
+      <title>Kitāb al-dhahabī lil-Mahrajān al-Alfī li-Dhikrʹa Ibn Sīnā</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="conference" altRepGroup="01" script="Latn">
+      <namePart>Mihrajān al-Alfī li-Dhikrʹa Ibn Sīnā, (1952 : Baghdad, Iraq)</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>League of Arab States</namePart>
+      <namePart>Idārah al-Thaqāfīyah.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="marcgt">conference publication</genre>
+   <genre authority="marcgt">festschrift</genre>
+   <originInfo script="Latn" altRepGroup="04">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat Miṣr</publisher>
+      <dateIssued>1952</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency>Semiweekly</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="04">
+      <place>
+         <placeTerm type="text">القاهره :</placeTerm>
+      </place>
+      <publisher>مطبعة مصر،</publisher>
+      <dateIssued>١٩٥٢.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (463 p.; vi, 69 p.) : ports.</extent>
+   </physicalDescription>
+   <note>At head of title: Jāmiʻat al-Duwal al-ʻArabīyah. al-Idārah al-Thaqāfīyah.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <note type="language">Contributions in Arabic, French and English.</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Avicenna</namePart>
+         <namePart type="date">980-1037</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+      <genre>Congresses</genre>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/wm37pxgt</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Kitāb al-dhahabī lil-Mihrajān al-Alfī li-Dhikrá Ibn Sīnā, Baghdād, min 20 ilá 28 Mārs 1952</title>
+      </titleInfo>
+      <identifier type="local">(NNU)001696939</identifier>
+      <identifier type="local">(DLC)59050949</identifier>
+   </relatedItem>
+   <name type="corporate" altRepGroup="01" script="Arab">
+      <namePart>مهرجان الالفى لدكرى ابن سينا</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>الكتاب الذهبى للمهرجان الالفى لذكرى ابن سينا، ببغداد من ٢٠ الى ٢٨ مارس ١٩٥٢.</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="03" script="Arab">
+      <title>الكتاب الذهبى للمهرجان الالفى لذكرى ابن سينا</title>
+   </titleInfo>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001696939</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

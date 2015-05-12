@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Ūrūshlīm al-jadīdah, aw, Fatḥ al-ʻArab Bayt al-Maqdis</title>
+      <subTitle>wa-al-rajul al-marīḍ wa-al-Isrāʼīlīyah al-jamīlah fīhā</subTitle>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Fatḥ al-ʻArab Bayt al-Maqdis</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Anṭūn, Faraḥ</namePart>
+      <namePart type="date">1874-1922</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Alexandria]</placeTerm>
+      </place>
+      <publisher>al-Jāmiʻah</publisher>
+      <dateIssued>[1904]</dateIssued>
+      <dateIssued encoding="marc">1904</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency>Annual</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">[Alexandria] :</placeTerm>
+      </place>
+      <publisher>الجامعة،</publisher>
+      <dateIssued>[١٩٠٤]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (iv, 180 p.) : ill.</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">tāʼlīf Faraḥ Anṭūn.</note>
+   <note>A novel.</note>
+   <note>Imprint wanting; imprint from Carl Brockelmann. Geschichte der arabischen Literatur. Supplement v. 3, p. 192-193.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/5tb2rdd9</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Ūrūshlīm al-jadīdah, aw, Fatḥ al-ʻArab Bayt al-Maqdis</title>
+      </titleInfo>
+      <name>
+         <namePart>Anṭūn, Faraḥ, 1874-1922 880-01</namePart>
+      </name>
+      <identifier type="local">(NNU)002186291</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>فرح انطون.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>اوروشليم الجديدة، او، فتح العرب بيت المقدس :</title>
+      <subTitle>والرجل المريض والاسرائيلية الجميلة فيها</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف فرح انطون.</note>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">002186291</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

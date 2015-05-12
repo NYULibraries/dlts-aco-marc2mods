@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Kashshāf ʻan ḥaqāʼiq al-tanzīl wa-ʻuyūn al-aqāwīl fī wujūh al-taʼwīl</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Zamakhsharī, Maḥmūd ibn ʻUmar</namePart>
+      <namePart type="date">1075-1144</namePart>
+   </name>
+   <name type="personal" altRepGroup="04" script="Latn">
+      <namePart>Jurjānī, ʻAlī ibn Muḥammad</namePart>
+      <namePart type="termsOfAddress">al-Sayyid al-Sharīf</namePart>
+      <namePart type="date">1340-1413</namePart>
+   </name>
+   <name type="personal" altRepGroup="05" script="Latn">
+      <namePart>Ibn al-Munayyir, Aḥmad ibn Muḥammad</namePart>
+      <namePart type="date">1223-1284</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Muḥibb al-Dīn, Muḥammad ibn Abī Bakr</namePart>
+      <namePart type="date">1542 or 1543-1607 or 1608</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="fast">Commentaries.</genre>
+   <originInfo script="Arab">
+      <place>
+         <placeTerm type="code" authority="marccountry">xx</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Place of publication not identified]</placeTerm>
+      </place>
+      <publisher>[publisher not identified]</publisher>
+      <dateIssued>[1891]</dateIssued>
+      <dateIssued encoding="marc">1891</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (2 volumes)</extent>
+   </physicalDescription>
+   <tableOfContents altRepGroup="03" script="Latn">al-Juzuʼ al-thānī al-Kashshāf ʻan ḥaqāʼiq ghawāmiḍ tanzīl wa-ʻuyūn al-aqāwīl fī wujūh al-taʼwīl.</tableOfContents>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <titleInfo>
+         <title>Qurʼan</title>
+      </titleInfo>
+      <genre>Commentaries</genre>
+   </subject>
+   <subject authority="fast">
+      <titleInfo>
+         <title>Qurʼan</title>
+      </titleInfo>
+   </subject>
+   <classification authority="lcc">BP130.4 .Z3 1891</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/wh70s151</url>
+   </location>
+   <relatedItem>
+      <titleInfo>
+         <title>Tanzīl al-āyāt ʻalá al-shawāhid min al-abyāt</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Muḥibb al-Dīn, Muḥammad ibn Abī Bakr,</namePart>
+         <namePart type="date">1542 or 1543-1607 or 1608</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Kashshāf ʻan ḥaqāʼiq al-tanzīl wa-ʻuyūn al-aqāwil fī wujūh al-taʻwil</title>
+      </titleInfo>
+      <name>
+         <namePart>Zamakhsharī, Maḥmūd ibn ʻUmar, 1075-1144.</namePart>
+      </name>
+      <originInfo>
+         <publisher>[1891]</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)607779690</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Kashshāf ʻan ḥaqāʼiq al-tanzīl wa-ʻuyūn al-aqāwil fī wujūh al-taʻwil</title>
+      </titleInfo>
+      <name>
+         <namePart>Zamakhsharī, Maḥmūd ibn ʻUmar, 1075-1144.</namePart>
+      </name>
+      <originInfo>
+         <publisher>[1891]</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)622742127</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Kashshāf ʻan ḥaqāʼiq al-tanzīl wa-ʻuyūn al-aqāwīl fī wujūh al-taʼwīl</title>
+      </titleInfo>
+      <name>
+         <namePart>Zamakhsharī, Maḥmūd ibn ʻUmar, 1075-1144.</namePart>
+      </name>
+      <identifier type="local">(NIC)4085966</identifier>
+      <identifier type="local">(DLC)   60032288 </identifier>
+      <identifier type="local">(OCoLC)23498944</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>زمخشري، محمود بن عمر،</namePart>
+      <namePart type="date">1075-1144</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>الكشاف عن حقائق التنزيل وعيون الاقاويل في وجوه التأويل.</title>
+   </titleInfo>
+   <tableOfContents altRepGroup="03" script="Arab">الجزؤ الثاني الكشاف عن حقائق غوامض تنزيل وعيون الاقاويل في وجوه التأويل.</tableOfContents>
+   <name type="personal" altRepGroup="04" script="Arab">
+      <namePart>جرجاني، علي بن محمد،</namePart>
+      <namePart type="termsOfAddress">السيد الشريف،</namePart>
+      <namePart type="date">1340-1413</namePart>
+   </name>
+   <name type="personal" altRepGroup="05" script="Arab">
+      <namePart>ابن المنير، احمد بن محمد،</namePart>
+      <namePart type="date">1223-1284</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>محب الدين، محمد بن ابي بكر،</namePart>
+      <namePart type="date">1542 or 1543-1607 or 1608</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">4085966</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

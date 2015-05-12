@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Kitāb jinān al-jinās fī ʻilm al-badīʻ</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Jinān al-jinās fī ʻilm al-badīʻ</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="07" script="Latn">
+      <title>Manāhij al-tawassul fī mabāhij al-tarassul</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Ṣafadī, Khalīl ibn Aybak</namePart>
+      <namePart type="date">1297 (ca.)-1363</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Bisṭāmī, ʻAbd al-Raḥmān ibn Muḥammad</namePart>
+      <namePart type="date">(d. 1454)</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="fast">Criticism, interpretation, etc.</genre>
+   <originInfo script="Latn" altRepGroup="0405">
+      <place>
+         <placeTerm type="code" authority="marccountry">tu</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Qusṭanṭīnīyah</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat al-Jawāʼib</publisher>
+      <dateIssued>1299 [1881 or 1882]</dateIssued>
+      <dateIssued encoding="marc">1881</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0405">
+      <place>
+         <placeTerm type="text">قسطنطينية :</placeTerm>
+      </place>
+      <publisher>مطبعة الجوائب،</publisher>
+      <dateIssued>1299 [1881 or 1882]</dateIssued>
+      <edition>الطبعة ١.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (160 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taʼlīf Ṣalāḥ al-Dīn al-Ṣafadī. Wa-fī ākhirihi Manāhij al-tawassul fī mabāhij al-tarassul / taʼlīf ʻAbd al-Raḥmān ibn Muḥammad al-Ḥanafī al-Bisṭāmī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="fast">
+      <temporal>1258 - 1800</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Rhetoric</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic poetry</topic>
+      <temporal>1258-1800</temporal>
+      <topic>History and criticism</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic language</topic>
+      <topic>Rhetoric</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic poetry</topic>
+   </subject>
+   <classification authority="lcc">PJ6161 .S34 1881</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/wm37pxj9</url>
+   </location>
+   <relatedItem>
+      <titleInfo>
+         <title>Manāhij al-tawassul fī mabāhij al-tarassul</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Bisṭāmī, ʻAbd al-Raḥmān ibn Muḥammad</namePart>
+         <namePart type="date">(d. 1454)</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Kitāb jinān al-jinās fī ʻilm al-badīʻ</title>
+      </titleInfo>
+      <name>
+         <namePart>Ṣafadī, Khalīl ibn Aybak, 1297 (ca.)-1363.</namePart>
+      </name>
+      <identifier type="local">(NNC)799398</identifier>
+      <identifier type="local">(DLC)   75549750 </identifier>
+      <identifier type="local">(OCoLC)15250824</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>صفدى، خليل بن أيبك،</namePart>
+      <namePart type="date">1363-(ca.) 1297</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>جنان الجناس في علم البديع</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>كتاب جنان الجناس فى علم البديع /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف صلاح الدين الصفدى. وفى آخره مناهج التوسل فى مباهج الترسل / عبدالرحمن بن محمد بن الحنفى البسطامى.</note>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>بسطامى، عبدالرحمن بن محمد،</namePart>
+      <namePart type="date">1454d</namePart>
+   </name>
+   <titleInfo type="alternative" altRepGroup="07" script="Arab">
+      <title>مناهج التوسل فى مباهج الترسل</title>
+   </titleInfo>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">799398</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

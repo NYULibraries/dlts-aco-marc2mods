@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Dīwān Jirān al-ʻAwd al-Numayrī</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="04" script="Latn">
+      <title>Jirān al-ʻAwd</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Poems</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Jirān al-ʻAwd al-Numayrī, ʻĀmir ibn al-Ḥārith.</namePart>
+   </name>
+   <name type="personal" altRepGroup="07" script="Latn">
+      <namePart>Sukkarī, Abū Saʻīd al-Ḥasan ibn al-Ḥusayn</namePart>
+      <namePart type="date">827 or 828-888 or 889</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="0506">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah</placeTerm>
+      </place>
+      <publisher>Dār al-Kutub al-Miṣrīyah</publisher>
+      <dateIssued>1931</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0506">
+      <place>
+         <placeTerm type="text">القاهرة :</placeTerm>
+      </place>
+      <publisher>دار الكتب المصرية،</publisher>
+      <dateIssued>1931.</dateIssued>
+      <edition>الطبعة 1.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (4, 60 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">riwāyat Abī Saʻīd al-Sukkarī.</note>
+   <note>At head of title: Dār al-Kutub al-Miṣrīyah, al-Qism al-Adabī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <classification authority="lcc">PJ7696 .J5</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/12jm65p6</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Dīwān Jirān al-ʻAwd al-Numayrī</title>
+      </titleInfo>
+      <name>
+         <namePart>Jirān al-ʻAwd al-Numayrī, ʻĀmir ibn al-Ḥārith.</namePart>
+      </name>
+      <identifier type="local">(NNU)002814463</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>جران العود النميري، عامر بن الحارث.</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>شعر</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>ديوان جران العود النميري /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">رواية أبي سعيد السكري.</note>
+   <titleInfo type="alternative" altRepGroup="04" script="Arab">
+      <title>جران العود</title>
+   </titleInfo>
+   <name type="personal" altRepGroup="07" script="Arab">
+      <namePart>سكري، أبو سعيد الحسن بن الحسين،</namePart>
+      <namePart type="date">827 أو 8-888 أو 9</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">002814463</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

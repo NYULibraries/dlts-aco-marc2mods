@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="01" script="Latn">
+      <title>Dhikrá Muṣṭafá Jawād</title>
+      <subTitle>Majmūʻat al-kalimāt wa-al-qaṣāʼid allatī ulqiyat fī al-dhikrá al-arbaʻīnīyah li-Muṣṭafá Jawād fī 27-3-1970</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" altRepGroup="05" script="Latn">
+      <namePart>Alūsī, Sālim.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">biography</genre>
+   <originInfo script="Latn" altRepGroup="02">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdād</placeTerm>
+      </place>
+      <publisher>Wizārat al-Iʻlām, Mudīrīyat al-Thaqāfah al-ʻĀmmah, Maṭbaʻat al-Ḥukūmah</publisher>
+      <dateIssued>1970</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency>Semiweekly</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="02">
+      <place>
+         <placeTerm type="text">بغداد :</placeTerm>
+      </place>
+      <publisher>وزارة الإعلام، مديرية الثقافة العامة، مطبعة الحكومة،</publisher>
+      <dateIssued>1970.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (95 p., [8] leaves of plates) : ports.</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">iʻdād Sālim al-Ālūsī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject altRepGroup="04" script="Latn" authority="lcsh">
+      <name type="personal">
+         <namePart>Jawād, Muṣṭafá</namePart>
+         <namePart type="date">1905-1969</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <name type="personal">
+         <namePart>Jawād, Muṣṭafá</namePart>
+         <namePart type="date">1905-1969</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <classification authority="lcc">PJ6024 .J38 1970g</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/8w9ghzwk</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Dhikrá Muṣṭafá Jawād</title>
+      </titleInfo>
+      <identifier type="local">(NNC)668867</identifier>
+      <identifier type="local">(OCoLC)50579256</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Silsilat al-kutub al-ḥadīthah ; 13</title>
+      </titleInfo>
+   </relatedItem>
+   <titleInfo altRepGroup="01" script="Arab">
+      <title>ذكرى مصطفى جواد :</title>
+      <subTitle>مجموعة الكلمات و القصائد التي ألقيت في الأربعينية لمصطفى جواد في 27-3-1970</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">اعداد سال الالوسي.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="03" script="Arab">
+         <title>سلسلة الكتب الحديثة ؛ 13</title>
+      </titleInfo>
+   </relatedItem>
+   <subject altRepGroup="04" script="Arab">
+      <name type="personal">
+         <namePart>جواد، مصطفى</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <name type="personal" altRepGroup="05" script="Arab">
+      <namePart>ألوسي، سالم.</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">668867</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

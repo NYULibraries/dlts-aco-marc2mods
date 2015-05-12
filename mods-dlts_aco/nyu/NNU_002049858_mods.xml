@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Aqdam nuskhah makhṭūṭah muʼarrakhah li-kitāb Kalīlah wa-Dimnah</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Version arabe de Kalîlah et Dimnah</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" altRepGroup="05" script="Latn">
+      <namePart>Cheikho, Louis</namePart>
+      <namePart type="date">1859-1927</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Ibn al-Muqaffaʻ</namePart>
+      <namePart type="date">-c. 760</namePart>
+   </name>
+   <name type="personal">
+      <namePart>Nöldeke, Theodor</namePart>
+      <namePart type="date">1836-1930</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="0304">
+      <place>
+         <placeTerm type="code" authority="marccountry">le</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Beirut</placeTerm>
+      </place>
+      <publisher>Imprimerie catholique</publisher>
+      <dateIssued>1923</dateIssued>
+      <edition>Ṭabʻah 2., muṣaḥḥaḥah.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0304">
+      <place>
+         <placeTerm type="text">بيروت :</placeTerm>
+      </place>
+      <publisher>مطبعة الآباء اليسوعيين،</publisher>
+      <dateIssued>1923.</dateIssued>
+      <edition>طبعة ٢، مصححة.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <language objectPart="translation">
+      <languageTerm authority="iso639-2b" type="code">per</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (290, 76 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">ʻuniya bi-nashrihā Lūwīs Shaykhū.</note>
+   <note>Text in Arabic; preface and notes in French.</note>
+   <note>Translated from Persian by Ibn al-Muqaffaʻ.</note>
+   <note>Title on added title page: La version arabe de Kalîlah et Dimnah.</note>
+   <note>"Accompagnée par Zu Kalila wa Dimna von Theodor Nöldeke, ein kritischer Beitrag."</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <titleInfo>
+         <title>Kalīlah wa-Dimnah</title>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <titleInfo>
+         <title>Kalīlah wa-Dimnah</title>
+      </titleInfo>
+   </subject>
+   <classification authority="lcc">PJ7741 .B5 1923</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/vhhmgsjz</url>
+   </location>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Zu Kalīla waDimna</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Nöldeke, Theodor,</namePart>
+         <namePart type="date">1836-1930</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Aqdam nuskhah makhṭūṭah muʼarrakhah li-kitāb Kalīlah wa-Dimnah</title>
+      </titleInfo>
+      <identifier type="local">(NNU)002049858</identifier>
+   </relatedItem>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>ٱقدم نسخة مخطوطة مؤرخة لكتاب كليلة و دمنة /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">عني بنشرها لويس شيخو اليسوعي.</note>
+   <name type="personal" altRepGroup="05" script="Arab">
+      <namePart>شيخو، لويس.</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>إبن المقفع.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">002049858</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

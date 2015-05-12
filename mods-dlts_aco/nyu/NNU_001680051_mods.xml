@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Dār al-Salām fī ḥayāt Abī al-ʻAlāʼ</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Bint al-Shāṭiʼ.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdād</placeTerm>
+      </place>
+      <publisher>Wizārat al-Irshād</publisher>
+      <dateIssued>1964</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">بغداد :</placeTerm>
+      </place>
+      <publisher>وزارة الارشاد،</publisher>
+      <dateIssued>1964.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (59 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">bi-qalam ʻĀʼishah ʻAbd al-Raḥmān, Bint al-Shāṭiʼ.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject altRepGroup="05" script="Latn" authority="lcsh">
+      <name type="personal">
+         <namePart>Abū al-ʻAlāʼ al-Maʻarrī</namePart>
+         <namePart type="date">973-1057</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <name type="personal">
+         <namePart>Abū al-ʻAlāʼ al-Maʻarrī</namePart>
+         <namePart type="date">973-1057</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <classification authority="lcc">PJ7750.A25 Z587</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/7d7wm50h</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Dār al-Salām fī ḥayāt Abī al-ʻAlāʼ</title>
+      </titleInfo>
+      <name>
+         <namePart>Bint al-Shāṭiʼ.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Baghdād, Wizārat al-Irshād, 1964</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)568040150</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Dār al-Salām fī ḥayāt Abī al-ʻAlāʼ</title>
+      </titleInfo>
+      <name>
+         <namePart>Bint al-Shāṭiʼ.</namePart>
+      </name>
+      <identifier type="local">(NNU)001680051</identifier>
+      <identifier type="local">(DLC)ne 64003034</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Silsilah al-thaqāfīyah 4</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>بنت الشاطئ.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>دار السلام في حيات ابي العلاء /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">بقلم عائشة عبد الرحمن، بنت الشاطئ.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="04" script="Arab">
+         <title>سلسلة الثقافية، 4</title>
+      </titleInfo>
+   </relatedItem>
+   <subject altRepGroup="05" script="Arab" authority="lcsh">
+      <name type="personal">
+         <namePart>ابو العلاء المعري،</namePart>
+         <namePart type="date">973-1057</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001680051</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

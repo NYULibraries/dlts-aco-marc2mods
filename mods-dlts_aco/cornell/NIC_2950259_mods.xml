@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Ḥāshiyat al-fāḍil al-shahīr ... Makhlūf al-Minyāwī ʻalá Sharḥ ... Aḥmad al-Damanhūrī li-matn al-Imām al-Akhḍarī al-musammá bi-al-Jawhar al-maknūn fī al-maʻānī wa-al-bayān wa-al-badīʻ</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="03" script="Latn">
+      <title>Sharḥ al-jawhar al-maknūn</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Minyāwī, Makhlūf ibn Muḥammad</namePart>
+      <namePart type="date">-1878</namePart>
+   </name>
+   <name type="personal" altRepGroup="07" script="Latn">
+      <namePart>Damanhūrī, Aḥmad ibn ʻAbd al-Munʻim.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="04">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Miṣr</placeTerm>
+      </place>
+      <publisher>Dār Iḥyāʼ al-kutub al-ʻArabīyah</publisher>
+      <dateIssued>[19--?]</dateIssued>
+      <dateIssued encoding="marc" point="start" qualifier="questionable">1900</dateIssued>
+      <dateIssued encoding="marc" point="end" qualifier="questionable">1997</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="04">
+      <place>
+         <placeTerm type="text">مصر :</placeTerm>
+      </place>
+      <publisher>دار احياء الكتب العربية،</publisher>
+      <dateIssued>[19--?]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (180 p.)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Makhlūf al-Minyāwī. Wa-bi-aʻlá al-ṣaḥīfah Sharḥ al-jawhar al-maknūn ... / Aḥmad al-Damanhūrī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject altRepGroup="05" script="Latn" authority="lcsh">
+      <name type="personal">
+         <namePart>Akhḍarī, ʻAbd al-Raḥmān ibn Muḥammad</namePart>
+         <namePart type="date">1512 or 1513-1575 or 1576</namePart>
+      </name>
+      <titleInfo>
+         <title>Jawhar al-maknūn</title>
+      </titleInfo>
+   </subject>
+   <subject altRepGroup="06" script="Latn" authority="lcsh">
+      <name type="personal">
+         <namePart>Damanhūrī, Aḥmad ibn ʻAbd al-Munʻim</namePart>
+      </name>
+      <titleInfo>
+         <title>Ḥilyat al-lubb al-maṣūn</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Rhetoric</topic>
+   </subject>
+   <classification authority="lcc">PJ6161</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/2fqz637b</url>
+   </location>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Ḥilyat al-lubb al-maṣūn. 1900</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Damanhūrī, Aḥmad ibn ʻAbd al-Munʻim.</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Ḥāshiyat al-fāḍil al-shahīr ... Makhlūf al-Minyāwī ʻalá Sharḥ ... Aḥmad al-Damanhūrī li-matn al-Imām al-Akhḍarī al-musammá bi-al-Jawhar al-maknūn fī al-maʻānī wa-al-bayān wa-al-badīʻ</title>
+      </titleInfo>
+      <name>
+         <namePart>Minyāwī, Makhlūf ibn Muḥammad, -1878.</namePart>
+      </name>
+      <identifier type="local">(NIC)2950259</identifier>
+      <identifier type="local">(OCoLC)64739665</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>منياوي، مخلوف بن محمد،</namePart>
+      <namePart type="date">-1878</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>حاشية الفاضل الشهير ... مخلوف المنياوي على شرح ... احمد الدمنهوري لمتن الامام الاخضري المسمى بالجوهر المكنون في المعاني والبيان والبديع /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">مخلوف المنياوي. وباعلى الصحيفة شرح الجوهر المكنون ... / احمد الدمنهوري.</note>
+   <titleInfo type="alternative" altRepGroup="03" script="Arab">
+      <title>شرح الجوهر المكنون</title>
+   </titleInfo>
+   <subject altRepGroup="05" script="Arab">
+      <name type="personal">
+         <namePart>اخضري، عبد الرحمن بن محمد،</namePart>
+         <namePart type="date">1512 or 1513-1575 or 1576</namePart>
+      </name>
+      <titleInfo>
+         <title>جوهر المكنون</title>
+      </titleInfo>
+   </subject>
+   <subject altRepGroup="06" script="Arab">
+      <name type="personal">
+         <namePart>دمنهوري، احمد بن عبد المنعم</namePart>
+      </name>
+      <titleInfo>
+         <title>حلية اللب المصون</title>
+      </titleInfo>
+   </subject>
+   <name type="personal" altRepGroup="07" script="Arab">
+      <namePart>دمنهوري، احمد بن عبد المنعم.</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">2950259</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

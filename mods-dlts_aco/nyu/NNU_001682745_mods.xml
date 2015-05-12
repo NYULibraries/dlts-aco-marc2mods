@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Risālatān li-Ibn al-Anbārī</title>
+      <subTitle>al-Ighrāb fī jadali al-iʻrāb, wa-Lamʻ al-adillah fī uṣūl al-naḥw</subTitle>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="03" script="Latn">
+      <title>Ighrāb fī jadali al-iʻrāb</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="04" script="Latn">
+      <title>Lamʻ al-adillah fī uṣūl al-naḥw</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ibn al-Anbārī, ʻAbd al-Raḥmān ibn Muḥammad</namePart>
+      <namePart type="date">1119-1181</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Afghānī, Saʻīd</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="05">
+      <place>
+         <placeTerm type="code" authority="marccountry">sy</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Dimashq]</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat al-Jāmiʻah al-Sūrīyah</publisher>
+      <dateIssued>1957</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="05">
+      <place>
+         <placeTerm type="text">[دمشق] :</placeTerm>
+      </place>
+      <publisher>مطبعة الجامعة السورية،</publisher>
+      <dateIssued>1957.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (159 p.) : facsims.</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taʼlīf Abī al-Barakāt ʻAbd al- Raḥmān Kamāl al-Dīn ibn Muḥammad al-Anbārī. Qaddama lahumā wa-ʻaná bi- taḥqīqihumā Saʻīd al-Afghānī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="bibliography">Includes bibliographical references (p. [152]-155).</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Syntax</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic language</topic>
+      <topic>Syntax</topic>
+   </subject>
+   <classification authority="lcc">PJ6151 .I168 1957</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/76hdr9km</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Risālatān li-Ibn al-Anbārī</title>
+      </titleInfo>
+      <name>
+         <namePart>Ibn al-Anbārī, ʻAbd al-Raḥmān ibn Muḥammad, 1119-1181.</namePart>
+      </name>
+      <identifier type="local">(NNU)001682745</identifier>
+      <identifier type="local">(DLC)   65598000</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>ابن الانباري، عبد الرحمن بن محمد،</namePart>
+      <namePart type="date">1119-1181</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>رسالتان لاابن الانباري :</title>
+      <subTitle>الاغراب في جدل الاعراب، ولمع الادلة في اصول النحو</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف ابي البركات عبد ال رحمن كمال الدين بن محمد الانباري. قدم لهما وعنى بتحقيقهما سعيد الافغاني.</note>
+   <titleInfo type="alternative" altRepGroup="03" script="Arab">
+      <title>اغراب في جدل الاعراب</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="04" script="Arab">
+      <title>لمع الادلة في اصول النحو</title>
+   </titleInfo>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>افغاني، سعيد.</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001682745</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

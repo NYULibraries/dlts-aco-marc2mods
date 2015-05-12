@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Muʻallaqah al-Islāmīyah fī tạrīkh al-Kaʻbah wa-al-Masjid al-Ḥarām</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Tawfīq, Muḥammad Muḥammad.</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Tamīmī, Muḥammad Amīn.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="fast">History.</genre>
+   <originInfo script="Latn" altRepGroup="0304">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Cairo</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat al-Saʻādah</publisher>
+      <dateIssued>1955</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0304">
+      <place>
+         <placeTerm type="text">القاهرة :</placeTerm>
+      </place>
+      <publisher>مطبعة السعادة،</publisher>
+      <dateIssued>١٩٥٥.</dateIssued>
+      <edition>الطبعة ١.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (239 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Naẓm Muḥammad Muḥammad Tawfīq ; Sharḥ Muḥammad Amīn al-Tamīmī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <name type="corporate">
+         <namePart>Kaʻbah</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+      <topic>History</topic>
+   </subject>
+   <subject authority="fast">
+      <name type="corporate">
+         <namePart>Kaʻbah.</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject altRepGroup="05" script="Latn" authority="lcsh">
+      <titleInfo>
+         <title>Muʻallaqāt</title>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <titleInfo>
+         <title>Muʻallaqāt</title>
+      </titleInfo>
+   </subject>
+   <classification authority="lcc">PJ7650 .T35</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/bg79cqh4</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Muʻallaqah al-Islāmīyah fī tạrīkh al-Kaʻbah wa-al-Masjid al-Ḥarām</title>
+      </titleInfo>
+      <name>
+         <namePart>Tawfīq, Muḥammad Muḥammad.</namePart>
+      </name>
+      <identifier type="local">(NNU)002083171</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>محمد محمد توفيق.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>المعلقة الاسلامية في تاريخ الكعبة والمسجد الحرام /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">نظم محمد محمد توفيق؛ شرح محمد أمين التميمي.</note>
+   <subject altRepGroup="05" script="Arab" authority="lcsh">
+      <titleInfo>
+         <title>معلقات</title>
+      </titleInfo>
+   </subject>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>تميمي، محمد امين.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">002083171</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Shakhṣīyāt qaliqah fī al-Islām</title>
+      <subTitle>dirāsāt</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Badawī, ʻAbd al-Raḥmān</namePart>
+      <role>
+         <roleTerm type="text">comp. and tr.</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart>Massignon, Louis</namePart>
+      <namePart type="date">1883-1962</namePart>
+   </name>
+   <name type="personal">
+      <namePart>Corbin, Henry.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah</placeTerm>
+      </place>
+      <publisher>Maktabat al-Nahḍah al-Miṣrīyah</publisher>
+      <dateIssued>1946</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">القاهرة :</placeTerm>
+      </place>
+      <publisher>مكتبة النهضة المصرية،</publisher>
+      <dateIssued>1946.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <language objectPart="translation">
+      <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (8, 163 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">allafa baynahā ʻAbd al-Raḥmān Badawī.</note>
+   <note>Articles by Louis Massignon, Henry Corbin and Yahya al-Suhrawardi.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Sufism</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Sufism</topic>
+   </subject>
+   <classification authority="lcc">BP189 .B13 1946</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/xd25499c</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Shakhṣīyāt qaliqah fī al-Islām</title>
+      </titleInfo>
+      <name>
+         <namePart>Badawī, ʻAbd al-Raḥmān.</namePart>
+      </name>
+      <originInfo>
+         <publisher>al-Qāhirah : Maktabat al-Nahḍah al-Miṣrīyah, 1946</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)551663797</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Shakhṣīyāt qaliqah fī al-Islām</title>
+      </titleInfo>
+      <name>
+         <namePart>Badawī, ʻAbd al-Raḥmān, comp. and tr.</namePart>
+      </name>
+      <identifier type="local">(NNC)3063371</identifier>
+      <identifier type="local">(OCoLC)23486208</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dirāsāt Islāmīyah ; 3</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Badawī, ʻAbd al-Raḥmān</namePart>
+      </name>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>بدوي، عبد الرحمن.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>شخصيات قلقة في الاسلام :</title>
+      <subTitle>دراسات</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">الف بينها عبد الرحمن بدوي.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="04" script="Arab">
+         <title>دراسات اسلامية ؛ 3</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">3063371</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

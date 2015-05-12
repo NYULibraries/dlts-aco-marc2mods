@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Kitāb al-jabr wa-al-muqābalah</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="07" script="Latn">
+      <title>jabr wa-al-muqābalah</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Khuwārizmī, Muḥammad ibn Mūsá</namePart>
+      <namePart type="date">active 813-846</namePart>
+   </name>
+   <name type="personal" altRepGroup="05" script="Latn">
+      <namePart>Musharrafah, ʻAlī Muṣṭafá</namePart>
+      <role>
+         <roleTerm type="text">editor.</roleTerm>
+      </role>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Aḥmad, Muḥammad Mursī</namePart>
+      <role>
+         <roleTerm type="text">editor.</roleTerm>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah</placeTerm>
+      </place>
+      <publisher>al-Jāmiʻah al-Miṣrīyah</publisher>
+      <dateIssued>1939</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency>Annual</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">[القاهرة] :الجامعة المصرية، كلية العلوم،</placeTerm>
+      </place>
+      <dateIssued>1939.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (106 pages) : illustrations</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">li-Muḥammad din Mūsā al-Khawārizmī; qama bi-taqdīm wa-taʻlīq ʻAlī Muṣṭafā Musharrafah wa-Muḥammad Mursī Aḥmad.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Mathematics, Arab</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Mathematics, Arab</topic>
+   </subject>
+   <classification authority="lcc">QA32 .K45</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/vt4b8jr9</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Kitāb al-jabr wa-al-muqābalah</title>
+      </titleInfo>
+      <name>
+         <namePart>Khuwārizmī, Muḥammad ibn Mūsá, active 813-846.</namePart>
+      </name>
+      <identifier type="local">(NNC)3235925</identifier>
+      <identifier type="local">(OCoLC)23484739</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Publications ; no. 2</title>
+      </titleInfo>
+      <name type="corporate">
+         <namePart>Jāmiʻat al-Qāhirah.</namePart>
+         <namePart>Kullīyat al-ʻUlūm.</namePart>
+         <namePart/>
+      </name>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>خوارزمي، محمد بن موسى،</namePart>
+      <namePart type="date">active 813-846</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>كتاب الجبر والمقابلة /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">لمحمد بن موسى الخوارزمي ؛ قام بتقديمه والتعليق عليه علي مصطفى مشرفة ومحمد مرسي أحمد.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="04" script="Arab">
+         <title>الجامعة المصرية، كلية العلوم ؛ no. 2</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" altRepGroup="05" script="Arab">
+      <namePart>مشرفة، علي مصطفى،</namePart>
+      <namePart type="date">1898-1950</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>أحمد، محمد مرسي.</namePart>
+   </name>
+   <titleInfo type="alternative" altRepGroup="07" script="Arab">
+      <title>جبر والمقابلة</title>
+   </titleInfo>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">3235925</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

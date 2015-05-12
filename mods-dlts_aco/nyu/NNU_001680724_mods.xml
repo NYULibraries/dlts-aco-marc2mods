@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Fī dhikrá al-Ab al-Kirmilī al-Rāhib al-ʻallāmah</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ālūsī, Sālim</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="marcgt">biography</genre>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdād]</placeTerm>
+      </place>
+      <publisher>Mudīrīyat al-Thaqāfah al-ʻĀmmah</publisher>
+      <dateIssued>1970</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency>Annual</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">[بغداد] :</placeTerm>
+      </place>
+      <publisher>مديرية الثقافة العامة،</publisher>
+      <dateIssued>1970.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (66 pages) : illustrations, facsimiles, portraits</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">bi-qalam Sālim al-Ālūsī.</note>
+   <note altRepGroup="05" script="Latn">"Bi-Munāsabat iḥtifāl wa-zārat al-thaqāfah wa-al-iʻlām bi-dhikrá murūr thalāthat wa-ʻishrīn Sanah ʻalá wafāt al-Kirmilī."</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject altRepGroup="06" script="Latn" authority="lcsh">
+      <name type="personal">
+         <namePart type="termsOfAddress">al-Karmilī, ab</namePart>
+         <namePart>Anistās Mārī</namePart>
+         <namePart type="date">1866-1947</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <name type="personal">
+         <namePart type="termsOfAddress">al-Karmilī, ab</namePart>
+         <namePart>Anistās Mārī</namePart>
+         <namePart type="date">1866-1947</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <classification authority="lcc">PJ6064.A5 A7</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/cz8w9j9r</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Fī dhikrā al-Ab al-Kirmilī al-Rāhib al-ʻallāmah</title>
+      </titleInfo>
+      <name>
+         <namePart>Ālūsī, Sālim.</namePart>
+      </name>
+      <originInfo>
+         <publisher>[Baghdād] Mudīrīyat al-Thaqāfah al-ʻĀmmah [1970]</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)569017262</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Fī dhikrá al-Ab al-Kirmilī al-Rāhib al-ʻallāmah</title>
+      </titleInfo>
+      <name>
+         <namePart>Ālūsī, Sālim 880-01</namePart>
+      </name>
+      <identifier type="local">(NNU)001680724</identifier>
+      <identifier type="local">(DLC)   78251855</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Silsilat al-kutub al-ḥadīthah ; 31</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>آلوسي، سالم.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>في ذكرى الاب الكرملي الراهب العلامة /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">بقلم سالم الالوسي.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="04" script="Arab">
+         <title>سلسلة الكتب الحديثة ؛ 31</title>
+      </titleInfo>
+   </relatedItem>
+   <subject altRepGroup="06" script="Arab">
+      <name type="personal">
+         <namePart type="termsOfAddress">الكرملي، اب،</namePart>
+         <namePart>انستاس ماري،</namePart>
+         <namePart type="date">1866-1947</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001680724</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

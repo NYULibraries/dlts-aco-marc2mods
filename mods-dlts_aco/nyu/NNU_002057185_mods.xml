@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="01" script="Latn">
+      <title>Dīwān Tadhkirat al-ghāfil ʻan istiḥḍār al-maʼākil</title>
+      <subTitle>al-mawsūm bi-al-muʻāraḍāt al-Zaynīyah ʻalá al-manẓūmāt al-Hilālīyah</subTitle>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="02" script="Latn">
+      <title>Tadhkirat al-ghāfil ʻan istiḥḍār al-maʼākil</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" altRepGroup="04" script="Latn">
+      <namePart>Ḥimṣī, Muḥammad al-Khālid Chalabī.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">le</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Bayrūt</placeTerm>
+      </place>
+      <publisher>[s.n.]</publisher>
+      <dateIssued>1321 [1903 or 1904]</dateIssued>
+      <dateIssued encoding="marc">1903</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">بيروت :</placeTerm>
+      </place>
+      <publisher>[s.n.]،</publisher>
+      <dateIssued>1321 [1903 or 1904]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (128 p.)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">li-jāmiʻihi Muḥammad al-Khālid Chalabī al-Ḥimṣī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Arabic poetry</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic poetry</topic>
+   </subject>
+   <classification authority="lcc">PJ7631 .D59 1903</classification>
+   <classification authority="lcc">PJ7631 .D595 1903</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/qrfj6s1t</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Dīwān Tadhkirat al-ghāfil ʻan istiḥḍār al-maʼākil</title>
+      </titleInfo>
+      <identifier type="local">(NNU)002057185</identifier>
+      <identifier type="local">(DLC)  2013415155</identifier>
+   </relatedItem>
+   <titleInfo altRepGroup="01" script="Arab">
+      <title>ديوان تذكرة الغافل عن استحضار المآكل :</title>
+      <subTitle>الموسوم بالمارضات الزينية على المنظومات الهلالية</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">جمعه محمد الخالد الجلبي الحماصي.</note>
+   <titleInfo type="alternative" altRepGroup="02" script="Arab">
+      <title>تذكرة الغافل عن استحضار الماكل</title>
+   </titleInfo>
+   <name type="personal" altRepGroup="04" script="Arab">
+      <namePart>محمد الخالد الجلبي الحماصي.</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">002057185</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

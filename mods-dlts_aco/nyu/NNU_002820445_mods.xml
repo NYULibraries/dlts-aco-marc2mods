@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Sharḥ Dīwān Kaʻb ibn Zuhayr</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Sukkarī, Abū Saʻīd al-Ḥasan ibn al-Ḥusayn</namePart>
+      <namePart type="date">827 or 828-888 or 889</namePart>
+   </name>
+   <name type="personal" altRepGroup="04" script="Latn">
+      <namePart>Kaʻb ibn Zuhayr</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="fast">Criticism, interpretation, etc.</genre>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah</placeTerm>
+      </place>
+      <publisher>Dār al-Kutub al-Miṣrīyah, al-Qism al-Adabī</publisher>
+      <dateIssued>1950</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency>Three times a month</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">القاهرة :</placeTerm>
+      </place>
+      <publisher>دار الكتب المصرية، القسم الادبي،</publisher>
+      <dateIssued>1950.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (28, 289 pages) : genealogical table</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">ṣanʻat Abī Saʻīd al-Ḥasan ibn al-Ḥusayn ibn ʻAbd Allāh al-Sukkārī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="bibliography">Includes bibliographical references and indexes.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Kaʻb ibn Zuhayr</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+      <topic>Criticism and interpretation</topic>
+   </subject>
+   <subject authority="fast">
+      <name type="personal">
+         <namePart>Kaʻb ibn Zuhayr</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <classification authority="lcc">PJ7741.K25 A17 1950</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/3tx95zxz</url>
+   </location>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Poems</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Kaʻb ibn Zuhayr</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Sharḥ Dīwān Kaʻb ibn Zuhayr</title>
+      </titleInfo>
+      <name>
+         <namePart>Sukkarī, Abū Saʻīd al-Ḥasan ibn al-Ḥusayn, 827 or 8-888 or 9.</namePart>
+      </name>
+      <originInfo>
+         <publisher>al-Qāhirah : Dār al-Kutub al-Miṣrīyah, al-Qism al-Adabī, 1950</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)580564700</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Sharḥ Dīwān Kaʻb ibn Zuhayr</title>
+      </titleInfo>
+      <name>
+         <namePart>Sukkarī, Abū Saʻīd al-Ḥasan ibn al-Ḥusayn, 827 or 828-888 or 889.</namePart>
+      </name>
+      <identifier type="local">(NNU)002820445</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>سكري، ابو سعيد الحسن بن الحسين،</namePart>
+      <namePart type="date">827 or 828-888 or 889</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>شرح ديوان كعب ابن زهير /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">سنعة ٱبي سعيد الحسن ابن الحسين ابن عبدالله السكاري.</note>
+   <name type="personal" altRepGroup="04" script="Arab">
+      <namePart>كعب بن زهير.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">002820445</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Ṣiḥāfah al-ʻIrāqīyah wa-ittijāhātihā al-siyāsīyah wa-al-ijtimāʻīyah wa-al-thaqāfīyah min, 1869-1921</title>
+   </titleInfo>
+   <titleInfo type="alternative" altRepGroup="03" script="Latn">
+      <title>Ṣiḥāfah al-ʻIrāqīyah wa-ittijāhātuhā al-siyāsīyah wa-al-ijtimāʻīyah wa-al-thaqāfīyah min, 1869-1921</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Journalism in Iraq</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Tikrītī, Munīr Bakr.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="fast">History.</genre>
+   <originInfo script="Latn" altRepGroup="04">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdād</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat al-Irshād</publisher>
+      <dateIssued>1969</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="04">
+      <place>
+         <placeTerm type="text">بغداد :</placeTerm>
+      </place>
+      <publisher>مطبعة الإرشاد،</publisher>
+      <dateIssued>١٩٦٩.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (312 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taʼlīf Munīr Bakr al-Tikrītī.</note>
+   <note>Added cover title: Journalism in Iraq.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="bibliography">Includes bibliographical references (pages 307-311).</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject>
+      <geographicCode authority="marcgac">a-iq---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Press</topic>
+      <geographic>Iraq</geographic>
+      <topic>History</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Journalism</topic>
+      <geographic>Iraq</geographic>
+   </subject>
+   <subject authority="fast">
+      <topic>Journalism</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Press</topic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Iraq</geographic>
+   </subject>
+   <classification authority="lcc">PN5449.I7 T5</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/j9kd537r</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Ṣiḥāfatu al-ʻIrāqīyah wa-ittijāhātihā al-siyāsīyah wa-al-ijtimāʻīyah wa-al-thaqāfīyah min, 1869-1921</title>
+      </titleInfo>
+      <name>
+         <namePart>Tikrītī, Munīr Bakr.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Baghdād : Maṭbaʻat al-Irshād, 1969</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)612542748</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Ṣiḥāfah al-ʻIrāqīyah wa-ittijāhātihā al-siyāsīyah wa-al-ijtimāʻīyah wa-al-thaqāfīyah min, 1869-1921</title>
+      </titleInfo>
+      <name>
+         <namePart>Tikrītī, Munīr Bakr.</namePart>
+      </name>
+      <identifier type="local">(NNC)1682378</identifier>
+      <identifier type="local">(DLC)  71238011 </identifier>
+      <identifier type="local">(OCoLC)10400899</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>تکريتي، منير بکر.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>الصحافة العراقية واتجاهاتهاالسياسية والاجتماعية والثقافية من ١٨٦٩م-١٩٢١م /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف منير بکر التکريتي.</note>
+   <titleInfo type="alternative" altRepGroup="03" script="Arab">
+      <title>صحافة العراقية واتجاهاتها السياسية والاجتماعية والثقافية من، 1869-1921</title>
+   </titleInfo>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">1682378</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

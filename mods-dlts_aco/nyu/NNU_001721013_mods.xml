@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Kitāb Adab al-nudamāʼ wa-laṭāʼif al-ẓurafāʼ</title>
+      <subTitle>wa-yalīhi sharḥ wa-tashṭīr qaṣīdat Abī Firās al-Ḥamdānī</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Adab wa-nudamāʼ wa-laṭāʼif al-ẓurafāʼ</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Kushājim, Abu al-Fatḥ Maḥmūd ibn al-Ḥusayn</namePart>
+      <namePart type="date">d. 962</namePart>
+   </name>
+   <name type="personal" altRepGroup="05" script="Latn">
+      <namePart>Abū Firās al-Ḥamdānī, al-Ḥārith ibn Saʻīd</namePart>
+      <namePart type="date">932-968</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="04">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Iskandarīyah</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat Jurjī Gharzūzī</publisher>
+      <dateIssued>1329 [1911]</dateIssued>
+      <dateIssued encoding="marc">1911</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="04">
+      <place>
+         <placeTerm type="text">الاسكندرية :</placeTerm>
+      </place>
+      <publisher>مطبعة جرجي غرزوزي،</publisher>
+      <dateIssued>١٣٢٩.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (110 p.)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taʼlīf Abī al-Fatḥ Maḥmūd ibn Kushājim.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <classification authority="lcc">PJ7745.K8 K47 1911</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/k6djhcqc</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Kitāb Adab al-nudamāʼ wa-laṭāʼif al-ẓurafāʼ</title>
+      </titleInfo>
+      <name>
+         <namePart>Kushājim, Abu al-Fatḥ Maḥmūd ibn al-Ḥusayn, d. 962.</namePart>
+      </name>
+      <identifier type="local">(NNU)001721013</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>كشاجم، محمود بت الحسين.</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>ادب الندماء ولطائف الظرفاء</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>كتاب ادب الندماء ولطاجف الظرفاء :</title>
+      <subTitle>ويليه شرح وتشطير قصيدة ابي فراس الحمداني</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تأليف ابي الفتح محمود بن كشاجم.</note>
+   <name type="personal" altRepGroup="05" script="Arab">
+      <namePart>أبو فراسالحمداني، الحارث بن سعيد.</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001721013</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

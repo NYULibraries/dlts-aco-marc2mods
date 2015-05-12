@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>ʻArabīyah</title>
+      <subTitle>dirāsāt fī al-lughah wa-al-lahajāt wa-al-asālīb</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Fück, Johann</namePart>
+      <namePart type="date">1894-1974</namePart>
+   </name>
+   <name type="personal" altRepGroup="04" script="Latn">
+      <namePart>Najjār, ʻAbd al-Ḥalīm</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah</placeTerm>
+      </place>
+      <publisher>Maktabat al-Khānjī bi-Miṣr</publisher>
+      <dateIssued>1951</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">القاهرة :</placeTerm>
+      </place>
+      <publisher>مكتبة الخانجى بمصر،</publisher>
+      <dateIssued>1951.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (290 p.)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">min ʻamal Yūhān Fik ; naqqalahu ilá al-ʻArabīyah wa-ḥaqqaqahu wa-fahrasa lahu ʻAbd al-Ḥalīm al-Najjār ; bi-taṣdīr Aḥmad Amīn Bik ; wa-taqdīm Muḥammad Yūsuf Mūsá.</note>
+   <note>At head of title: Jamāʻat al-Azhar lil-Nashr wa-al-Taʼlīf.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="bibliography">Includes bibliographical references and index.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Grammar</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/k98sf9d6</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-ʻArabīyah</title>
+      </titleInfo>
+      <name>
+         <namePart>Fück, Johann, 1894-1974 880-01</namePart>
+      </name>
+      <identifier type="local">(NNU)001685941</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>فك، يوهان.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>العربية :</title>
+      <subTitle>دراسات فى اللغة واللهجات والأساليب</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">من عمل يوهان فك ؛ نقله إلى العربية وحققه وفهرس له عبد الحليم النجار ؛ بتصدير أحمد أمين بك ؛ وتقديم محمد يوسف موسى.</note>
+   <name type="personal" altRepGroup="04" script="Arab">
+      <namePart>نجار، عبد الحليم.</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001685941</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

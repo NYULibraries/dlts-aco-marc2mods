@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Aḥmad ibn Fāris</title>
+      <subTitle>ḥayātuhu, shiʻruhu, āthāruh</subTitle>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Ahmad ibn Faris, his life, poems, works</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Nājī, Hilāl</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="marcgt">biography</genre>
+   <originInfo script="Latn" altRepGroup="0304">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdād</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat al-Maʻārif</publisher>
+      <dateIssued>1970</dateIssued>
+      <edition>[al-Ṭabʻah 1].</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0304">
+      <place>
+         <placeTerm type="text">بغداد :</placeTerm>
+      </place>
+      <publisher>مطبعة المعارف،</publisher>
+      <dateIssued>1970.</dateIssued>
+      <edition>[الطبعة 1].</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (67 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taṣnīf Hilāl Nājī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject altRepGroup="05" script="Latn" authority="lcsh">
+      <name type="personal">
+         <namePart>Ibn Fāris al-Qazwīnī, Aḥmad</namePart>
+         <namePart type="date">active 10th century</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <subject authority="fast">
+      <name type="personal">
+         <namePart>Ibn Fāris al-Qazwīnī, Aḥmad</namePart>
+         <namePart type="date">active 10th century</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <classification authority="lcc">PJ6064.I15 N3</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/r4xgxfwc</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Aḥmad ibn Fāris</title>
+      </titleInfo>
+      <name>
+         <namePart>Nājī, Hilāl.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Baghdād : Maṭbaʻat al-Maʻārif, 1970</publisher>
+         <edition>[al-Ṭabʻah 1].</edition>
+      </originInfo>
+      <identifier type="local">(OCoLC)569209961</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Aḥmad ibn Fāris</title>
+      </titleInfo>
+      <name>
+         <namePart>Nājī, Hilāl 880-01</namePart>
+      </name>
+      <identifier type="local">(NNU)001680758</identifier>
+      <identifier type="local">(DLC)   74962057</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>ناجي، هلال.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>احمد بن فارس :</title>
+      <subTitle>حياته، شعره، آثاره</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تصنيف هلال ناجي.</note>
+   <subject altRepGroup="05" script="Arab">
+      <name type="personal">
+         <namePart>ابن فارس القزويني، احمد،</namePart>
+         <namePart type="date">active 10th century</namePart>
+      </name>
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </subject>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001680758</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>ʻĀlim wa-al-mutʻalim</title>
+      <subTitle>riwāyat Abī Muqātil ʻan Abī Ḥanīfah. wa-yalīhu Risālat Abū Ḥanīfah ilá ʻUthmān al-Batī thumma al-fiqh al-Absaṭ riwāyat Abū Muṭīʻ ʻan Abū Ḥanīfah</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Abū Ḥanīfah</namePart>
+      <namePart type="date">d. 767 or 8</namePart>
+   </name>
+   <name type="personal" altRepGroup="04" script="Latn">
+      <namePart>Kawtharī, Muḥammad Zāhid al-Ḥasan.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Qāhirah</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat al-Anwār</publisher>
+      <dateIssued>1368 [1948]</dateIssued>
+      <dateIssued encoding="marc">1948</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">القاهرة :</placeTerm>
+      </place>
+      <publisher>مطبعة الأنوار،</publisher>
+      <dateIssued>١٣٦٨.</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (60 p.)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taḥqīq Muḥammad Zāhid al-Kawtharī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/6m905s7p</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-ʻĀlim wa-al-mutʻalim</title>
+      </titleInfo>
+      <name>
+         <namePart>Abū Ḥanīfah, d. 767 or 8 880-01</namePart>
+      </name>
+      <identifier type="local">(NNU)002853352</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>أبو حنيفة.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>العالم والمتعلم :</title>
+      <subTitle>رواية أبي مقاتل عن أبي حنيفة. ويليه رسالة ألي حنيفة الى عثمان البتي ثم الفقه الأبسط رواية أبي مطيع عن ألي حنيفة</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">تحقيق محمد زاهد الكوثري.</note>
+   <name type="personal" altRepGroup="04" script="Arab">
+      <namePart>كوثري، محمد زاهد الحسن.</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">002853352</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

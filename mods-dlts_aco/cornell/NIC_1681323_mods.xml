@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="01" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Riwāyāt al-shiʻrīyah</title>
+      <subTitle>allātī yunshiduhā fī Miṣr al-ān al-bulbul al-ghirrīd al-ustādh al-shaykh Salāmah Ḥijāzī</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" altRepGroup="04" script="Latn">
+      <namePart>Salāmah Ḥijāzī</namePart>
+      <namePart type="termsOfAddress">al-Shaykh</namePart>
+      <namePart type="date">1852-1917</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="0203">
+      <place>
+         <placeTerm type="code" authority="marccountry">sy</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Bayrūt], al-Shām</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat al-Iṣlāḥ</publisher>
+      <dateIssued>[1920-1930]</dateIssued>
+      <dateIssued encoding="marc" point="start" qualifier="questionable">1920</dateIssued>
+      <dateIssued encoding="marc" point="end" qualifier="questionable">1930</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0203">
+      <place>
+         <placeTerm type="text">[بيروت]، الشام :</placeTerm>
+      </place>
+      <publisher>مطبعة الاصلاح،</publisher>
+      <dateIssued>[1920-1930]</dateIssued>
+      <edition>الطبعة 1.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (16 p.)</extent>
+   </physicalDescription>
+   <tableOfContents>Riwāyat al-ṭiflayn / Khalīl Maṭrān -- al-Nasīm al-ʻas̄hiq / Ilyās Fayyāḍ -- Anā wa-al-ḥabībah / Ṭānyūs ʻAbduh.</tableOfContents>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/mpg4f6z7</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Riwāyāt al-shiʻrīyah</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>[Bayrūt], al-Shām : Maṭbaʻat al-Iṣlāḥ, [1920-1930]</publisher>
+         <edition>al-Ṭabʻah 1.</edition>
+      </originInfo>
+      <identifier type="local">(OCoLC)855510009</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Riwāyāt al-shiʻrīyah</title>
+      </titleInfo>
+      <identifier type="local">(NIC)1681323</identifier>
+      <identifier type="local">(OCoLC)63979452</identifier>
+   </relatedItem>
+   <titleInfo altRepGroup="01" script="Arab">
+      <title>الروايات الشعرية :</title>
+      <subTitle>التي ينشدها في مصر الان البلبل الغريد الاستاذ الشيخ سلامة حجازي</subTitle>
+   </titleInfo>
+   <name type="personal" altRepGroup="04" script="Arab">
+      <namePart>سلامة حجازي،</namePart>
+      <namePart type="termsOfAddress">الشيخ،</namePart>
+      <namePart type="date">1852-1917</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">1681323</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

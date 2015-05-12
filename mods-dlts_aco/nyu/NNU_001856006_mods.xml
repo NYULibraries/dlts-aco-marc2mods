@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Dīwān Abī al-Hindī wa-akhbāruh</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Abū al-Hindī</namePart>
+      <namePart type="date">active 8th century</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Jubūrī, ʻAbd Allāh</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <originInfo script="Latn" altRepGroup="0304">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Najaf</placeTerm>
+      </place>
+      <publisher>Maṭbaʻat al-Nuʻmān</publisher>
+      <dateIssued>1969</dateIssued>
+      <edition>[al-Ṭabʻah 1.].</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0304">
+      <place>
+         <placeTerm type="text">النجف :</placeTerm>
+      </place>
+      <publisher>مطبعة النعمان،</publisher>
+      <dateIssued>1969.</dateIssued>
+      <edition>[الطبعة 1.].</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (79 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">ṣinʻat ʻAbd Allāh al-Jubūrī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="bibliography">Includes bibliographical references (pages 69-75).</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="fast">
+      <temporal>750 - 1258</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic poetry</topic>
+      <temporal>750-1258</temporal>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic poetry</topic>
+   </subject>
+   <classification authority="lcc">PJ7701.6.A55 A6 1969</classification>
+   <classification authority="lcc">PJ7808.A36 A6 1969</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/j6q575f6</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Dīwan Abǐ al-Hindī wa-akhbāruh</title>
+      </titleInfo>
+      <name>
+         <namePart>Abū al-Hindī, Ghālib ibn ʻAbd al-Qaddūs.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Baghdād : Maṭbaʻat al-Nuʻmān, 1969</publisher>
+         <edition>[al-Ṭabʻah 1].</edition>
+      </originInfo>
+      <identifier type="local">(OCoLC)580132285</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Dīwān Abī al-Hindī wa-akhbāruh</title>
+      </titleInfo>
+      <name>
+         <namePart>Abū al-Hindī, active 8th century.</namePart>
+      </name>
+      <identifier type="local">(NNU)001856006</identifier>
+      <identifier type="local">(DLC)   72255815</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dawāwīn ṣaghīrah ; 3</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>أبو الهندي،</namePart>
+      <namePart type="date">active 8th century</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>ديوان أبي الهندي وأخباره /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">صنعة عبد الله الجبوري.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="05" script="Arab">
+         <title>دواوين صغيرة ؛ 3</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>جبوري، عبد الله.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001856006</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

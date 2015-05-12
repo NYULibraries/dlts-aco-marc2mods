@@ -3825,12 +3825,29 @@
 						</nonSort>
 					</xsl:if>
 					<title>
-						<xsl:value-of select="substring($titleChop,@ind2+1)"/>
+						<xsl:choose>
+							<xsl:when test="@tag = '880'">
+								<xsl:value-of select="marc:subfield[@code='a']"/>
+							</xsl:when>
+							<xsl:otherwise>
+								<xsl:value-of select="substring($titleChop,@ind2+1)"/>
+							</xsl:otherwise>
+						</xsl:choose>
+						
 					</title>
 				</xsl:when>
 				<xsl:otherwise>
 					<title>
-						<xsl:value-of select="$titleChop"/>
+						<xsl:choose>
+							<xsl:when test="@tag = '880'">
+								<xsl:value-of select="marc:subfield[@code='a']"/>
+							</xsl:when>
+							<xsl:otherwise>
+								<xsl:value-of select="$titleChop"/>
+							</xsl:otherwise>
+						</xsl:choose>
+						
+						
 					</title>
 				</xsl:otherwise>
 			</xsl:choose>

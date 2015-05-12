@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Sharḥ Maqṣūrat Ibn Durayd</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Maqṣūrah</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Ibn Durayd, Muḥammad ibn al-Ḥasan</namePart>
+      <namePart type="date">837 or 838-933</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Tibrīzī, Yaḥyá ibn ʻAlī</namePart>
+      <namePart type="date">-1109</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <originInfo script="Latn" altRepGroup="0405">
+      <place>
+         <placeTerm type="code" authority="marccountry">sy</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Dimashq</placeTerm>
+      </place>
+      <publisher>Al-Maktab al-Islāmī</publisher>
+      <dateIssued>1961</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency>Triennial</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="0405">
+      <place>
+         <placeTerm type="text">دمشق :</placeTerm>
+      </place>
+      <publisher>المكتب الإسلامي،</publisher>
+      <dateIssued>1961.</dateIssued>
+      <edition>الطبعة 1.</edition>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (15, 242 pages) : facsimiles</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">lil-Khaṭīb al-Tibrīzī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Ibn Durayd, Muḥammad ibn al-Ḥasan</namePart>
+         <namePart type="date">837 or 838-933</namePart>
+      </name>
+      <titleInfo>
+         <title>Maqṣūrah</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Ibn Durayd, Muḥammad ibn al-Ḥasan</namePart>
+         <namePart type="date">837 or 838-933</namePart>
+      </name>
+      <titleInfo>
+         <title>Maqṣūrah al-Duraydīyah al-ṣughrá</title>
+      </titleInfo>
+   </subject>
+   <classification authority="lcc">PJ7745.I17 Z82 1961</classification>
+   <classification authority="lcc">PJ7741.I219 M315 1961</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/h44j11hd</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Sharḥ Maqṣūrat Ibn Durayd</title>
+      </titleInfo>
+      <titleInfo type="uniform">
+         <title>Maqṣūrah</title>
+      </titleInfo>
+      <name>
+         <namePart>Ibn Durayd, Muḥammad ibn al-Ḥasan, 837 or 8-933.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Dimashq : Al-Maktab al-Islāmī, 1961</publisher>
+         <edition>al-Ṭabʻah 1.</edition>
+      </originInfo>
+      <identifier type="local">(OCoLC)586073967</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Sharḥ Maqṣūrat Ibn Durayd</title>
+      </titleInfo>
+      <titleInfo type="uniform">
+         <title>Maqṣūrah</title>
+      </titleInfo>
+      <name>
+         <namePart>Ibn Durayd, Muḥammad ibn al-Ḥasan, 837 or 8-933.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Dimashq : Al-Maktab al-Islāmī, 1961</publisher>
+         <edition>al-Ṭabʻah 1.</edition>
+      </originInfo>
+      <identifier type="local">(OCoLC)609187852</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Sharḥ Maqṣūrat Ibn Durayd</title>
+      </titleInfo>
+      <name>
+         <namePart>Ibn Durayd, Muḥammad ibn al-Ḥasan, 837 or 838-933.</namePart>
+      </name>
+      <identifier type="local">(NNU)002818863</identifier>
+      <identifier type="local">(DLC)   80968155</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>ابن دريد، محمد بن الحسن،</namePart>
+      <namePart type="date">837 or 838-933</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>مقصورة</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>شرح مقصورة ابن دريد /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">للخطيب التبريزي.</note>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>شاويش، محمد زهير.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">002818863</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

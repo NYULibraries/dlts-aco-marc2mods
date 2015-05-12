@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Lil-kalimāt-- abwāb wa-ashriʻah</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Āmil, Rushdī.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdād]</placeTerm>
+      </place>
+      <publisher>Wizārat al-Thaqāfah wa-al-Iʻlām, Mudīrīyat al-Thaqāfah al-ʻĀmmah</publisher>
+      <dateIssued>1971</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency>Annual</frequency>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">[بغداد] :</placeTerm>
+      </place>
+      <publisher>وزارة الإعلام، مديرية الثقافة العامة،</publisher>
+      <dateIssued>[1971]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (168 pages) : illustrations</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Rushdī al-ʻĀmil.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <classification authority="lcc">PJ7814.A511 A17 1971</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/63xsj5nr</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Lil-kalimāt-- abwāb wa-ashriʻah</title>
+      </titleInfo>
+      <name>
+         <namePart>Āmil, Rushdī.</namePart>
+      </name>
+      <identifier type="local">(NNC)595422</identifier>
+      <identifier type="local">(OCoLC)16625596</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Silsilat dīwān al-shiʻr al-ʻArabī al-ḥadīth ; 12</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Silsilat al-maṭbūʻāt al-fannīyah</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>عامل، رشدي.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>للكلمات أبواب وأشرعة /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">رشدي العامل.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="04" script="Arab">
+         <title>ديوان الشعر العربي الحديث ؛ 12</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="05" script="Arab">
+         <title>سلسلة المطبوعات الفنية</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">595422</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

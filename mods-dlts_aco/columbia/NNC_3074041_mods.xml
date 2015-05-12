@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo>
+      <nonSort>A </nonSort>
+      <title>vowelled Arabic reader</title>
+      <subTitle>passages in simple Arabic for reading and translation</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="corporate" altRepGroup="01" script="Latn">
+      <namePart>Maʻhad al-Sharq al-Awsaṭ lil-Dirāsāt al-ʻArabīyah (Lebanon)</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="fast">Readers.</genre>
+   <originInfo script="Arab">
+      <place>
+         <placeTerm type="code" authority="marccountry">le</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Beirut</placeTerm>
+      </place>
+      <publisher>American Press</publisher>
+      <dateIssued>1950</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="gmd">electronic resource</form>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (46 p.)</extent>
+   </physicalDescription>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Columbia University Libraries.</note>
+   <note>Title from added t.p.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <note type="language">In Arabic with English preface and title page.</note>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <genre>Readers</genre>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic language</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/mkkwh8vd</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>A vowelled Arabic reader</title>
+      </titleInfo>
+      <identifier type="local">(NNC)3074041</identifier>
+      <identifier type="local">(OCoLC)43983445</identifier>
+   </relatedItem>
+   <name type="corporate" altRepGroup="01" script="Arab">
+      <namePart>معهد الشرق الاوسط للدراسات العربية (لبنان)</namePart>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNC">3074041</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

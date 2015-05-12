@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="01" script="Latn">
+      <nonSort>al-</nonSort>
+      <title>Kanz al-lughawī fī al-lasan al-ʻArabī</title>
+      <subTitle>naqlan ʻan nusakh qadīmah</subTitle>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Texte zur arabischen Lexikographie</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" altRepGroup="04" script="Latn">
+      <namePart>Haffner, Auguste.</namePart>
+   </name>
+   <name type="personal" altRepGroup="05" script="Latn">
+      <namePart>Ibn al-Sikkīt</namePart>
+      <namePart type="date">-857 or 858</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Aṣmaʻī, ʻAbd al-Malik ibn Qurayb</namePart>
+      <namePart type="date">740-approximately 828</namePart>
+   </name>
+   <name type="personal" altRepGroup="07" script="Latn">
+      <namePart>Aṣmaʻī, ʻAbd al-Malik ibn Qurayb</namePart>
+      <namePart type="date">740-approximately 828</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="fast">Early works.</genre>
+   <originInfo script="Latn" altRepGroup="02">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdād</placeTerm>
+      </place>
+      <publisher>Aʻādat ṭabʻahu bi-al-ūfsit Maktabat al-Muthanná</publisher>
+      <dateIssued>[1970?]</dateIssued>
+      <dateIssued encoding="marc">19701905</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="02">
+      <place>
+         <placeTerm type="text">بغداد :</placeTerm>
+      </place>
+      <publisher>أعادت طبعه بالاوفست مكتبة المثنى،</publisher>
+      <dateIssued>[1970؟]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (328, 73, xiv pages)</extent>
+   </physicalDescription>
+   <tableOfContents altRepGroup="03" script="Latn">Kitāb al-Qalb wa-al-ibdāl / ṣanʻat Abī Yūsuf Yaʻqūb ibn Isḥāq al-Sikkīt -- Kitāb al-Ibil / ʻan al-Aṣmaʻī -- Kitāb Khalq al-insān / taʼlīf Abī Saʻīd ʻAbd al-Malik ibn Qurayb al-Aṣmaʻī.</tableOfContents>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">saʻá fī nashrihi wa-taʻlīq ḥawāshīhi Ūghust Hafnir.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note>"Die 'Texte ... ' enthalten ... Das 'Kitâb al-ḳalb u al-ʼibdâl' von Ibn es-Sikkît, sowie zwei Abhandlungen von al-ʼAṣmaʻî ... das 'Kitâb el-ʼibil' in zwei verschiedenen Redaktionen und das 'Kitâb ḫalḳ el-ʼinsân'."--Page [iii].</note>
+   <note>Preliminary pages in German incorrectly bound: [iii]-xiv.</note>
+   <note>Arabic t.p. dated: 1903.</note>
+   <note type="bibliography">Includes bibliographical references and indexes.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <note type="original version">Reprint. Originally published: Leipzig : Otto Harrassowitz, 1905.</note>
+   <note type="language">Text in Arabic (vocalized); preface and notes in German.</note>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Lexicography</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic language</topic>
+      <topic>Lexicography</topic>
+   </subject>
+   <classification authority="lcc">PJ6601 .T45 1970z</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/73n5td8n</url>
+   </location>
+   <relatedItem type="original">
+      <originInfo>
+         <publisher>Leipzig : Otto Harrassowitz, 1905.</publisher>
+      </originInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Qalb wa-al-ibdāl</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Ibn al-Sikkīt,</namePart>
+         <namePart type="date">-857 or 858</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Ibil</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Aṣmaʻī, ʻAbd al-Malik ibn Qurayb,</namePart>
+         <namePart type="date">740-approximately 828</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Khalq al-insān</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Aṣmaʻī, ʻAbd al-Malik ibn Qurayb,</namePart>
+         <namePart type="date">740-approximately 828</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Kanz al-lughawī fī al-lasan al-ʻArabī</title>
+      </titleInfo>
+      <name>
+         <namePart>Texte zur arabischen Lexikographie.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Baghdād : Aʻādat ṭabʻahu bi-al-ūfsit Maktabat al-Muthanná, [1970?]</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)855507775</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>al-Kanz al-lughawī fī al-lasan al-ʻArabī</title>
+      </titleInfo>
+      <identifier type="local">(NIC)1935583</identifier>
+      <identifier type="local">(OCoLC)31084592</identifier>
+   </relatedItem>
+   <titleInfo altRepGroup="01" script="Arab">
+      <title>الكنز اللغوي في اللسن العربي :</title>
+      <subTitle>نقلاً عن نسخ قديمة</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">سعى في نشره وتعليق حواشيه أوغست هفنر.</note>
+   <tableOfContents altRepGroup="03" script="Arab">كتاب القلب والإبدال / صنعة أبي يوسف يعقوب بن إسحاق السكيت -- كتاب الإبل / عن الأصمعي -- كتاب خلق الإنسان / تأليف أبي سعيد عبد الملك بن قريب الأصمعي.</tableOfContents>
+   <name type="personal" altRepGroup="04" script="Arab">
+      <namePart>هفنر، أوغست.</namePart>
+   </name>
+   <name type="personal" altRepGroup="05" script="Arab">
+      <namePart>ابن السكيت،</namePart>
+      <namePart type="date">-857 or 858</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>أصمعي، عبد الملك بن قريب،</namePart>
+      <namePart type="date">740-نحو 828</namePart>
+   </name>
+   <name type="personal" altRepGroup="07" script="Arab">
+      <namePart>أصمعي، عبد الملك بن قريب،</namePart>
+      <namePart type="date">740-approximately 828</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">1935583</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

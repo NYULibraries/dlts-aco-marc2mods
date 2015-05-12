@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Dīwān</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Ṭarafah ibn al-ʻAbd.</namePart>
+   </name>
+   <name type="personal" altRepGroup="04" script="Latn">
+      <namePart>Aʻlam al-Shantamarī, Yūsuf ibn Sulaymān</namePart>
+      <namePart type="date">1019 or 1020-1083 or 1084</namePart>
+   </name>
+   <name type="personal">
+      <namePart>Seligsohn, Max</namePart>
+      <namePart type="date">1865-</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">iq</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baghdād]</placeTerm>
+      </place>
+      <publisher>[Maktabat al-Muthanná]</publisher>
+      <dateIssued>[1968?]</dateIssued>
+      <dateIssued encoding="marc">19681901</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">[بغداد]،</placeTerm>
+      </place>
+      <publisher>[مكتبة المثنى]،</publisher>
+      <dateIssued>[1968?]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (169, 37, xvi pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Ṭarafah ibn al-ʻAbd al-Bakrī, maʻa sharḥ Yūsuf al-Aʻlam al-Shantamarī.</note>
+   <note>In Arabic.</note>
+   <note>Cover title.</note>
+   <note>Added cover title: Dîwân de Tarafa ibn al-Abd al-Bakrî.</note>
+   <note>Reprint of the Arabic text of the ed. prepared by M. Seligsohn, and published in Paris, 1901.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <classification authority="lcc">PJ7696.T3 A6</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/9zw3r3vs</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Dīwān</title>
+      </titleInfo>
+      <name>
+         <namePart>Ṭarafah ibn al-ʻAbd.</namePart>
+      </name>
+      <originInfo>
+         <publisher>[Baghdād, Maktabat al-Muthanná, 1968?]</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)615595555</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Dīwān</title>
+      </titleInfo>
+      <name>
+         <namePart>Ṭarafah ibn al-ʻAbd.</namePart>
+      </name>
+      <identifier type="local">(NNU)001683087</identifier>
+      <identifier type="local">(DLC)   74961269</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>طرفة بن العبد.</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>ديوان /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">طرفة بن العبد البكري، مع شرح يوسف الاعلم الشنتمري.</note>
+   <name type="personal" altRepGroup="04" script="Arab">
+      <namePart>اعلم الشنتمري، يوسف بن سليمان،</namePart>
+      <namePart type="date">1019 or 1020-1083 or 1084</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">001683087</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

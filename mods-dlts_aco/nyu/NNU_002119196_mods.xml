@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Dīwān Surāqah al-Bāriqī</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Poems</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>Surāqah ibn Mirdās al-Bāriqī</namePart>
+      <namePart type="date">-698 or 699</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Naṣṣār, Ḥusayn.</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>New York University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="marcgt">biography</genre>
+   <originInfo script="Latn" altRepGroup="04">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <dateIssued encoding="marc">1947</dateIssued>
+      <edition>al-Ṭabʻah 1.</edition>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (6, 120 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">ḥaqqaqahu wa-sharaḥahu Ḥusayn Naṣṣār.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by New York Univeristy Libraries.</note>
+   <note type="bibliography">Includes bibliographical references (page 34) and indexes.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <subject authority="fast">
+      <temporal>622 - 750</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic poetry</topic>
+      <temporal>622-750</temporal>
+   </subject>
+   <subject authority="fast">
+      <topic>Arabic poetry</topic>
+   </subject>
+   <classification authority="lcc">PJ7700.S87 A17 1947</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/z8w9gksx</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Dīwān Surāqah al-Bāriqī</title>
+      </titleInfo>
+      <titleInfo type="uniform">
+         <title>Poems</title>
+      </titleInfo>
+      <name>
+         <namePart>Surāqah ibn Mirdās al-Bāriqī, -698 or 9.</namePart>
+      </name>
+      <originInfo>
+         <publisher>al-Qāhirah : Lajnat al-Taʼlīf wa-al-Tarjamah wa-al-Nashr, 1947</publisher>
+         <edition>al-Ṭabʻah 1.</edition>
+      </originInfo>
+      <identifier type="local">(OCoLC)701570883</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Dīwān Surāqah al-Bāriqī</title>
+      </titleInfo>
+      <name>
+         <namePart>Surāqah ibn Mirdās al-Bāriqī, -698 or 699.</namePart>
+      </name>
+      <identifier type="local">(NNU)002119196</identifier>
+      <identifier type="local">(DLC)   93227574</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>سراقة بن مرداس البارقي،</namePart>
+      <namePart type="date">-698 or 699</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>أعمال شعرية</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>ديوان سراقة البارقي /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">حققه وشرحه حسين نصار.</note>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>نصار، حسين.</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NNU">002119196</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

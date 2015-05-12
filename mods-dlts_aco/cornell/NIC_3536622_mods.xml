@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="02" script="Latn">
+      <title>Bidāyah wa-nihāyah</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn">
+      <namePart>Maḥfūẓ, Najīb</namePart>
+      <namePart type="date">1911-2006</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="03">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">al-Fajjālah [Cairo]</placeTerm>
+      </place>
+      <publisher>Maktabat Miṣr</publisher>
+      <dateIssued>[1958]</dateIssued>
+      <dateIssued encoding="marc">1958</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="03">
+      <place>
+         <placeTerm type="text">‏الفجالة :‏</placeTerm>
+      </place>
+      <publisher>‏مكتبة مصر،‏</publisher>
+      <dateIssued>‏[1958]</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (382 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">taʼlīf Najīb Maḥfūẓ.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <classification authority="lcc">PJ7846.A46 B58</classification>
+   <classification authority="ddc">892.736</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/280gb7s8</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Bidāyah wa-nihāyah</title>
+      </titleInfo>
+      <name>
+         <namePart>Maḥfūẓ, Najīb, 1911-2006.</namePart>
+      </name>
+      <originInfo>
+         <publisher>al-Fajjālah [Cairo] : Maktabat Miṣr, [1958]</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)651757955</identifier>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Bidāyah wa-nihāyah</title>
+      </titleInfo>
+      <name>
+         <namePart>Maḥfūẓ, Najīb, 1911-2006.</namePart>
+      </name>
+      <identifier type="local">(NIC)3536622</identifier>
+      <identifier type="local">(OCoLC)29646467</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Maṭbūʻāt Maktabat Miṣr</title>
+      </titleInfo>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab">
+      <namePart>‏محفوظ، نجيب،</namePart>
+      <namePart type="date">1911-2006</namePart>
+   </name>
+   <titleInfo altRepGroup="02" script="Arab">
+      <title>‏بداية و نهاية /‏</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">‏تٱليف نجيب محفوظ.</note>
+   <relatedItem type="series">
+      <titleInfo altRepGroup="04" script="Arab">
+         <title>مطبوعات مكتبة مصر</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">3536622</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

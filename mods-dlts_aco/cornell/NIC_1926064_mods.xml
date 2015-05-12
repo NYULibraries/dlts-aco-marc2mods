@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="03" script="Latn">
+      <title>Kitāb al-mikhlāh</title>
+   </titleInfo>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Latn">
+      <title>Mikhlah</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Arabic Collections Online</title>
+   </titleInfo>
+   <name type="personal" usage="primary" altRepGroup="01" script="Latn"
+         nameTitleGroup="1">
+      <namePart>ʻĀmilī, Bahāʼ al-Dīn Muḥammad ibn Ḥusayn</namePart>
+      <namePart type="date">1547-1621</namePart>
+   </name>
+   <name type="personal" altRepGroup="05" script="Latn">
+      <namePart>ʻĀmilī, Bahāʼ al-Dīn Muḥammad ibn Ḥusayn</namePart>
+      <namePart type="date">1547-1621</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Latn">
+      <namePart>Ibn Abī Ḥajalah, Aḥmad ibn Yaḥyá</namePart>
+      <namePart type="date">1325-1374 or 1375</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Cornell University</namePart>
+      <namePart>Libraries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn" altRepGroup="04">
+      <place>
+         <placeTerm type="code" authority="marccountry">ua</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Miṣr</placeTerm>
+      </place>
+      <publisher>al-Maṭbaʻah al-Maymunīyah</publisher>
+      <dateIssued>1317 [1899 or 1900]</dateIssued>
+      <dateIssued encoding="marc">1899</dateIssued>
+      <issuance>monographic</issuance>
+      <frequency/>
+   </originInfo>
+   <originInfo script="Arab" altRepGroup="04">
+      <place>
+         <placeTerm type="text">مصر،</placeTerm>
+      </place>
+      <publisher>المطبعة الميمنية، 1317 [1899 or 1900]</publisher>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>access</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>online resource (228, 24 pages)</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">li-Bahāʼ al-Dīn Muḥammad ibn Ḥusayn al-ʻĀmilī. Wa-qad dhayyalnāhu bi-Kitāb Asrār al-Balāghah / li-muʼallif al-madhkūr. Wa-bi-hāmishih Kitāb sukkardān al-sulṭān / li-Shihāb al-Dīn ibn al-ʻAbbās Aḥmad ibn Yaḥyʼa ibn Abī Bakr al-shahīr bi-Ibn Ḥajalah al-Maghribī al-Tilimsānī.</note>
+   <note>Part of the Arabic Collections Online (ACO) project, contributed by Cornell University Libraries.</note>
+   <note type="reproduction">Electronic reproduction. New York, N.Y. : New York University, 2015. NNU</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://hdl.handle.net/2333.1/931zctrn</url>
+   </location>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Asrār al-Balāghah</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>ʻĀmilī, Bahāʼ al-Dīn Muḥammad ibn Ḥusayn,</namePart>
+         <namePart type="date">1547-1621</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Kitāb al-Sukkardān</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Ibn Abī Ḥajalah, Aḥmad ibn Yaḥyá,</namePart>
+         <namePart type="date">1325-1374 or 1375</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Kitāb al-mikhlāh</title>
+      </titleInfo>
+      <name>
+         <namePart>ʻĀmilī, Bahāʼ al-Dīn Muḥammad ibn Ḥusayn, 1547-1621.</namePart>
+      </name>
+      <identifier type="local">(NIC)1926064</identifier>
+      <identifier type="local">(OCoLC)64025375</identifier>
+   </relatedItem>
+   <name type="personal" usage="primary" altRepGroup="01" script="Arab"
+         nameTitleGroup="1">
+      <namePart>عاملي، بهاء الدين محمد بن حسين،</namePart>
+      <namePart type="date">1547-1621</namePart>
+   </name>
+   <titleInfo type="uniform" nameTitleGroup="1" altRepGroup="02" script="Arab">
+      <title>مخلة</title>
+   </titleInfo>
+   <titleInfo altRepGroup="03" script="Arab">
+      <title>كتاب المخلاه /</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Arab">لبهاء الدين محمد بن حسين العاملي. وقد زيلناه بكتاب اسرار البلاغة / لمؤلف المذكور. وبهامشه كتاب سكردان السلطان / لشهاب الدين بن العباس احمد بن يحيئ بن ابي بكر الشهير بابن حجلة المغربي التلساني.</note>
+   <name type="personal" altRepGroup="05" script="Arab">
+      <namePart>عاملي، بهاء الدين محمد بن حسين،</namePart>
+      <namePart type="date">1547-1621</namePart>
+   </name>
+   <name type="personal" altRepGroup="06" script="Arab">
+      <namePart>ابن ابي حجلة، احمد بن يحيى،</namePart>
+      <namePart type="date">1325-1374 or 1375</namePart>
+   </name>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">150415</recordCreationDate>
+      <recordIdentifier source="NIC">1926064</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.70)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>
