@@ -4949,11 +4949,11 @@
 			</xsl:if>
 			<xsl:if
 				test="marc:subfield[@code='h' or @code='i' or @code='j' or @code='k' or @code='l' or @code='m' or @code='t']">
-				<shelfLocation>
+				<shelfLocator>
 					<xsl:call-template name="subfieldSelect">
 						<xsl:with-param name="codes">hijklmt</xsl:with-param>
 					</xsl:call-template>
-				</shelfLocation>
+				</shelfLocator>
 			</xsl:if>
 		</location>
 	</xsl:template>
